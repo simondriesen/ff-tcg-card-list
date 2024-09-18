@@ -38,7 +38,7 @@ jobs:
     # Commit the changes
     - name: Commit changes
       run: |
-        git add data_folder/api_data.txt
+        git add .
         git commit -m "Auto commit: API data update at $(date)"
     
     # Push changes to the repository
