@@ -1,4 +1,5 @@
 import requests
+import os
 from datetime import datetime
 
 # API URL
@@ -15,7 +16,9 @@ except requests.exceptions.RequestException as e:
 
 # Append the API response to a file
 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-with open("card_data_{timestamp}.txt", "a") as file:
+filename = f"card_data_{timestamp}.txt"
+file_path = os.path.join("raw-data", filename)
+with open(filename, "a") as file:
     file.write(api_data)
 
 print(f"File created succesfully.")
