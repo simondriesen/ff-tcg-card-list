@@ -18,7 +18,7 @@ except requests.exceptions.RequestException as e:
 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 filename = f"card_data_{timestamp}.txt"
 file_path = os.path.join("raw-data", filename)
-with open(filename, "a") as file:
+with open(file_path, "a") as file:
     file.write(api_data)
 
 print(f"File created succesfully.")
