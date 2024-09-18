@@ -17,7 +17,9 @@ except requests.exceptions.RequestException as e:
 # Append the API response to a file
 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 filename = f"card_data_{timestamp}.txt"
-file_path = os.path.join("raw-data", filename)
+folder_path = "raw-data"
+os.makedirs(folder_path, exist_ok=True)
+file_path = os.path.join(folder_path, filename)
 with open(file_path, "a") as file:
     file.write(api_data)
 
