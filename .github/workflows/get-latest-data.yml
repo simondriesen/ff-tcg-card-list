@@ -20,7 +20,29 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Install dependencies
+      run: |
+        pip install requests
+
     # Run your Python script
     - name: Run Python script
       run: |
-        python path/to/your_script.py
+        python get-card-data.py
+
+    # Configure git user for commits
+    - name: Set up git user
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    # Commit the changes
+    - name: Commit changes
+      run: |
+        git add data_folder/api_data.txt
+        git commit -m "Auto commit: API data update at $(date)"
+    
+    # Push changes to the repository
+    - name: Push changes
+      run: git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
