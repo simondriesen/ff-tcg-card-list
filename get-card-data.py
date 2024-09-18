@@ -15,7 +15,7 @@ except requests.exceptions.RequestException as e:
     api_data = f"Error fetching API data: {e}"
 
 # Append the API response to a file
-timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+timestamp = datetime.now().strftime('%Y-%m-%d')
 filename = f"card_data_{timestamp}.txt"
 folder_path = "raw-data"
 os.makedirs(folder_path, exist_ok=True)
