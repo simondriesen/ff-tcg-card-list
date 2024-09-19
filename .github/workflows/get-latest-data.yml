@@ -22,7 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests pandas
+        pip install requests
 
     # Run your Python script
     - name: Run Python script
