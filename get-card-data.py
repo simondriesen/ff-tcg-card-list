@@ -33,8 +33,8 @@ if api_data:
 
     # Define the column names for the CSV file
     fieldnames = [
-        "Code", "Symbol", "Japanese Text", "Number", "Game Title",
-        "Original Title", "Additional Info", "Image File", "Link", "Copyright"
+        "code", "type_jp", "text_jp", "expansion_number", "game_title", "original_title", 
+        "additional_info", "image_file", "promo_info", "starter_info", "filter_link", "copyright"
     ]
 
     # Read the CSV file
