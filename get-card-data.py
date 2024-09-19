@@ -38,13 +38,16 @@ if api_data:
     ]
 
     # Read the CSV file
+    data = []
     try:
         with open(csv_file_path, mode='r', encoding='utf-8') as file:
-            # Assuming the data is tab-separated
-            csv_reader = csv.DictReader(file, fieldnames=fieldnames, delimiter='\t')
+            csv_reader = csv.reader(file, delimiter='\t')
 
-            # Collect data into a list of dictionaries
-            data = [row for row in csv_reader]
+            # Process each row and map to fieldnames
+            for row in csv_reader:
+                if len(row) >= len(fieldnames):  # Ensure there are enough columns
+                    entry = {fieldnames[i]: row[i] for i in range(len(fieldnames))}
+                    data.append(entry)
 
     except IOError as e:
         print(f"Error reading CSV file: {e}")
