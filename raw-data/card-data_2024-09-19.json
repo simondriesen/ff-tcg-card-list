@@ -986,7 +986,7 @@
         "filter_link": "opus1/ice.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -1054,7 +1054,7 @@
         "filter_link": "opus1/wind.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -1535,7 +1535,7 @@
         "text_jp": "暗黒騎士",
         "expansion_number": "1",
         "image_source": "FINAL FANTASY TACTICS THE WAR OF THE LIONS",
-        "original_title": "FINAL FANTASY TACTICS çå­æ¦äº",
+        "original_title": "FINAL FANTASY TACTICS 獅子戦争",
         "category": "ffts",
         "image_file": "opus1/1-092C.png",
         "promo_info": "",
@@ -1946,7 +1946,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -2128,7 +2128,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -2145,7 +2145,7 @@
         "filter_link": "opus1/thunder.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -2162,7 +2162,7 @@
         "filter_link": "opus1/thunder.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -3858,7 +3858,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -3866,8 +3866,8 @@
         "type_jp": "火",
         "text_jp": "テラ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-012R.png",
         "promo_info": "",
@@ -3916,8 +3916,8 @@
         "type_jp": "火",
         "text_jp": "パロム",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-015H.png",
         "promo_info": "",
@@ -3932,8 +3932,8 @@
         "type_jp": "火",
         "text_jp": "パロム",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-016R.png",
         "promo_info": "",
@@ -4050,8 +4050,8 @@
         "type_jp": "火",
         "text_jp": "ルビカンテ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-023H.png",
         "promo_info": "",
@@ -4168,8 +4168,8 @@
         "type_jp": "氷",
         "text_jp": "ギルバート",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-030H.png",
         "promo_info": "",
@@ -4184,8 +4184,8 @@
         "type_jp": "氷",
         "text_jp": "ギルバート",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-031C.png",
         "promo_info": "",
@@ -4487,8 +4487,8 @@
         "type_jp": "風",
         "text_jp": "アスラ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-049H.png",
         "promo_info": "",
@@ -4555,8 +4555,8 @@
         "type_jp": "風",
         "text_jp": "エッジ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-053H.png",
         "promo_info": "",
@@ -4571,8 +4571,8 @@
         "type_jp": "風",
         "text_jp": "エッジ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-054R.png",
         "promo_info": "",
@@ -4620,8 +4620,8 @@
         "type_jp": "風",
         "text_jp": "シド・ポレンディーナ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-057C.png",
         "promo_info": "",
@@ -4736,8 +4736,8 @@
         "type_jp": "風",
         "text_jp": "バルバリシア",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-064H.png",
         "promo_info": "",
@@ -5090,8 +5090,8 @@
         "type_jp": "土",
         "text_jp": "スカルミリョーネ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-085H.png",
         "promo_info": "",
@@ -5174,8 +5174,8 @@
         "type_jp": "土",
         "text_jp": "ヤン",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-090R.png",
         "promo_info": "",
@@ -5190,8 +5190,8 @@
         "type_jp": "土",
         "text_jp": "ヤン",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-091C.png",
         "promo_info": "",
@@ -5239,8 +5239,8 @@
         "type_jp": "土",
         "text_jp": "リディア",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-094H.png",
         "promo_info": "",
@@ -5255,8 +5255,8 @@
         "type_jp": "土",
         "text_jp": "リディア",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-095R.png",
         "promo_info": "",
@@ -5406,8 +5406,8 @@
         "type_jp": "雷",
         "text_jp": "カイン",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-104R.png",
         "promo_info": "",
@@ -5488,8 +5488,8 @@
         "type_jp": "雷",
         "text_jp": "ゴルベーザ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-109H.png",
         "promo_info": "",
@@ -5604,8 +5604,8 @@
         "type_jp": "雷",
         "text_jp": "フースーヤ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-116R.png",
         "promo_info": "",
@@ -5737,8 +5737,8 @@
         "type_jp": "水",
         "text_jp": "カイナッツォ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-124H.png",
         "promo_info": "",
@@ -5921,8 +5921,8 @@
         "type_jp": "水",
         "text_jp": "ポロム",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-135H.png",
         "promo_info": "",
@@ -5937,8 +5937,8 @@
         "type_jp": "水",
         "text_jp": "ポロム",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-136R.png",
         "promo_info": "",
@@ -6054,8 +6054,8 @@
         "type_jp": "水",
         "text_jp": "ローザ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-143R.png",
         "promo_info": "",
@@ -6070,8 +6070,8 @@
         "type_jp": "水",
         "text_jp": "ローザ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£(GBA)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(GBA)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-144C.png",
         "promo_info": "",
@@ -6103,8 +6103,8 @@
         "type_jp": "光",
         "text_jp": "フースーヤ",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-146H.png",
         "promo_info": "",
@@ -6137,8 +6137,8 @@
         "type_jp": "闇",
         "text_jp": "ゼムス",
         "expansion_number": "2",
-        "image_source": "FINAL FANTASY â£",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "opus2/2-148H.png",
         "promo_info": "",
@@ -6171,8 +6171,8 @@
         "type_jp": "火",
         "text_jp": "赤魔道士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-001C.png",
         "promo_info": "",
@@ -6188,7 +6188,7 @@
         "text_jp": "イフリート",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-002R.png",
         "promo_info": "",
@@ -6205,7 +6205,7 @@
         "text_jp": "エース",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-003R.png",
         "promo_info": "",
@@ -6247,7 +6247,7 @@
         "filter_link": "opus3/fire.html",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -6256,7 +6256,7 @@
         "text_jp": "キング",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-006R.png",
         "promo_info": "",
@@ -6272,8 +6272,8 @@
         "type_jp": "火",
         "text_jp": "吟遊詩人",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-007C.png",
         "promo_info": "",
@@ -6306,7 +6306,7 @@
         "text_jp": "ケイト",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-009C.png",
         "promo_info": "",
@@ -6322,8 +6322,8 @@
         "type_jp": "火",
         "text_jp": "ゲッコウ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-010R.png",
         "promo_info": "",
@@ -6338,8 +6338,8 @@
         "type_jp": "火",
         "text_jp": "剣闘士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-011C.png",
         "promo_info": "",
@@ -6371,8 +6371,8 @@
         "type_jp": "火",
         "text_jp": "サラマンダー",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-013R.png",
         "promo_info": "",
@@ -6388,7 +6388,7 @@
         "text_jp": "シンク",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-014C.png",
         "promo_info": "",
@@ -6404,8 +6404,8 @@
         "type_jp": "火",
         "text_jp": "黒のワルツ2号",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-015R.png",
         "promo_info": "",
@@ -6420,8 +6420,8 @@
         "type_jp": "火",
         "text_jp": "パロム",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-016H.png",
         "promo_info": "",
@@ -6436,8 +6436,8 @@
         "type_jp": "火",
         "text_jp": "ビビ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-017L.png",
         "promo_info": "",
@@ -6452,8 +6452,8 @@
         "type_jp": "火",
         "text_jp": "ビビ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-018C.png",
         "promo_info": "",
@@ -6468,8 +6468,8 @@
         "type_jp": "火",
         "text_jp": "ファリス",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-019H.png",
         "promo_info": "",
@@ -6502,8 +6502,8 @@
         "type_jp": "火",
         "text_jp": "砲撃士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-021C.png",
         "promo_info": "",
@@ -6519,7 +6519,7 @@
         "text_jp": "マキナ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-022H.png",
         "promo_info": "",
@@ -6535,8 +6535,8 @@
         "type_jp": "火",
         "text_jp": "ルカ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-023C.png",
         "promo_info": "",
@@ -6568,7 +6568,7 @@
         "text_jp": "エミナ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-025C.png",
         "promo_info": "",
@@ -6585,7 +6585,7 @@
         "text_jp": "カヅサ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-026C.png",
         "promo_info": "",
@@ -6602,7 +6602,7 @@
         "text_jp": "カトル・バシュタール",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-027R.png",
         "promo_info": "",
@@ -6627,7 +6627,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -6635,8 +6635,8 @@
         "type_jp": "氷",
         "text_jp": "ギルバート",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-029R.png",
         "promo_info": "",
@@ -6668,7 +6668,7 @@
         "text_jp": "クラサメ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-031R.png",
         "promo_info": "",
@@ -6753,7 +6753,7 @@
         "text_jp": "シド・オールスタイン",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-036H.png",
         "promo_info": "",
@@ -6786,8 +6786,8 @@
         "type_jp": "氷",
         "text_jp": "ゼザ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-038H.png",
         "promo_info": "",
@@ -6871,8 +6871,8 @@
         "type_jp": "氷",
         "text_jp": "時魔道士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-043C.png",
         "promo_info": "",
@@ -6887,8 +6887,8 @@
         "type_jp": "氷",
         "text_jp": "ハル",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-044C.png",
         "promo_info": "",
@@ -6904,7 +6904,7 @@
         "text_jp": "白虎のルシ クンミ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-045R.png",
         "promo_info": "",
@@ -6921,7 +6921,7 @@
         "text_jp": "白虎のルシ ニンブス",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-046H.png",
         "promo_info": "",
@@ -6937,8 +6937,8 @@
         "type_jp": "氷",
         "text_jp": "砲撃士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-047C.png",
         "promo_info": "",
@@ -6953,8 +6953,8 @@
         "type_jp": "氷",
         "text_jp": "魔法剣士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-048C.png",
         "promo_info": "",
@@ -6970,7 +6970,7 @@
         "text_jp": "イザナ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-049C.png",
         "promo_info": "",
@@ -7004,7 +7004,7 @@
         "text_jp": "エイト",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-051R.png",
         "promo_info": "",
@@ -7020,8 +7020,8 @@
         "type_jp": "風",
         "text_jp": "踊り子",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-052C.png",
         "promo_info": "",
@@ -7036,8 +7036,8 @@
         "type_jp": "風",
         "text_jp": "狩人",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-053C.png",
         "promo_info": "",
@@ -7052,8 +7052,8 @@
         "type_jp": "風",
         "text_jp": "黒チョコボ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-054C.png",
         "promo_info": "",
@@ -7068,8 +7068,8 @@
         "type_jp": "風",
         "text_jp": "シーフ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-055C.png",
         "promo_info": "",
@@ -7084,8 +7084,8 @@
         "type_jp": "風",
         "text_jp": "ジタン",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-056H.png",
         "promo_info": "",
@@ -7101,7 +7101,7 @@
         "text_jp": "セブン",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-057R.png",
         "promo_info": "",
@@ -7126,7 +7126,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -7134,8 +7134,8 @@
         "type_jp": "風",
         "text_jp": "タイクーン王",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-059H.png",
         "promo_info": "",
@@ -7151,8 +7151,8 @@
         "type_jp": "風",
         "text_jp": "ツキノワ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-060R.png",
         "promo_info": "",
@@ -7168,7 +7168,7 @@
         "text_jp": "ディアボロス",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-061R.png",
         "promo_info": "",
@@ -7185,7 +7185,7 @@
         "text_jp": "デュース",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-062C.png",
         "promo_info": "",
@@ -7201,8 +7201,8 @@
         "type_jp": "風",
         "text_jp": "ドルガン",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-063H.png",
         "promo_info": "",
@@ -7219,7 +7219,7 @@
         "text_jp": "トレイ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-064H.png",
         "promo_info": "",
@@ -7235,8 +7235,8 @@
         "type_jp": "風",
         "text_jp": "バッツ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-065L.png",
         "promo_info": "",
@@ -7268,8 +7268,8 @@
         "type_jp": "風",
         "text_jp": "飛竜",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-067R.png",
         "promo_info": "",
@@ -7284,8 +7284,8 @@
         "type_jp": "風",
         "text_jp": "風水士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-068C.png",
         "promo_info": "",
@@ -7317,8 +7317,8 @@
         "type_jp": "風",
         "text_jp": "予言士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-070C.png",
         "promo_info": "",
@@ -7351,7 +7351,7 @@
         "text_jp": "レム",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-072R.png",
         "promo_info": "",
@@ -7367,8 +7367,8 @@
         "type_jp": "土",
         "text_jp": "アーシュラ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-073C.png",
         "promo_info": "",
@@ -7392,7 +7392,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -7409,7 +7409,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -7433,8 +7433,8 @@
         "type_jp": "土",
         "text_jp": "ガラフ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-077H.png",
         "promo_info": "",
@@ -7450,8 +7450,8 @@
         "type_jp": "土",
         "text_jp": "クルル",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-078H.png",
         "promo_info": "",
@@ -7485,7 +7485,7 @@
         "text_jp": "玄武のルシ ギルガメッシュ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-080R.png",
         "promo_info": "",
@@ -7501,8 +7501,8 @@
         "type_jp": "土",
         "text_jp": "召喚士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-081C.png",
         "promo_info": "",
@@ -7618,7 +7618,7 @@
         "text_jp": "ディリータ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TACTICS THE WAR OF THE LIONS",
-        "original_title": "FINAL FANTASY TACTICS çå­æ¦äº",
+        "original_title": "FINAL FANTASY TACTICS 獅子戦争",
         "category": "ffts",
         "image_file": "opus3/3-088L.png",
         "promo_info": "",
@@ -7649,8 +7649,8 @@
         "type_jp": "土",
         "text_jp": "忍者",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-090C.png",
         "promo_info": "",
@@ -7665,8 +7665,8 @@
         "type_jp": "土",
         "text_jp": "バーサーカー",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-091C.png",
         "promo_info": "",
@@ -7690,7 +7690,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -7730,8 +7730,8 @@
         "type_jp": "土",
         "text_jp": "ヤン",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-095R.png",
         "promo_info": "",
@@ -7763,7 +7763,7 @@
         "text_jp": "アレシア・アルラシア",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-097R.png",
         "promo_info": "",
@@ -7813,8 +7813,8 @@
         "type_jp": "雷",
         "text_jp": "エクスデス",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-100L.png",
         "promo_info": "",
@@ -7830,8 +7830,8 @@
         "type_jp": "雷",
         "text_jp": "エヌオー",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-101R.png",
         "promo_info": "",
@@ -7847,7 +7847,7 @@
         "text_jp": "オーディン",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-102R.png",
         "promo_info": "",
@@ -7863,8 +7863,8 @@
         "type_jp": "雷",
         "text_jp": "ギルガメッシュ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-103H.png",
         "promo_info": "",
@@ -7881,7 +7881,7 @@
         "text_jp": "クイーン",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-104C.png",
         "promo_info": "",
@@ -7897,8 +7897,8 @@
         "type_jp": "雷",
         "text_jp": "黒のワルツ3号",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-105C.png",
         "promo_info": "",
@@ -7913,8 +7913,8 @@
         "type_jp": "雷",
         "text_jp": "黒魔道士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-106C.png",
         "promo_info": "",
@@ -7929,8 +7929,8 @@
         "type_jp": "雷",
         "text_jp": "黒魔道士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-107C.png",
         "promo_info": "",
@@ -7945,8 +7945,8 @@
         "type_jp": "雷",
         "text_jp": "ケルガー",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-108H.png",
         "promo_info": "",
@@ -7963,7 +7963,7 @@
         "text_jp": "サイス",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-109C.png",
         "promo_info": "",
@@ -7979,8 +7979,8 @@
         "type_jp": "雷",
         "text_jp": "ザンゲツ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-110R.png",
         "promo_info": "",
@@ -7996,7 +7996,7 @@
         "text_jp": "ジャック",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-111H.png",
         "promo_info": "",
@@ -8030,7 +8030,7 @@
         "text_jp": "ナイン",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-113R.png",
         "promo_info": "",
@@ -8046,8 +8046,8 @@
         "type_jp": "雷",
         "text_jp": "フライヤ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-114C.png",
         "promo_info": "",
@@ -8062,8 +8062,8 @@
         "type_jp": "雷",
         "text_jp": "砲撃士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-115C.png",
         "promo_info": "",
@@ -8078,8 +8078,8 @@
         "type_jp": "雷",
         "text_jp": "魔法剣士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-116C.png",
         "promo_info": "",
@@ -8103,7 +8103,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -8120,7 +8120,7 @@
         "filter_link": "opus3/thunder.html",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -8129,7 +8129,7 @@
         "text_jp": "ラムザ",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TACTICS THE WAR OF THE LIONS",
-        "original_title": "FINAL FANTASY TACTICS çå­æ¦äº",
+        "original_title": "FINAL FANTASY TACTICS 獅子戦争",
         "category": "ffts",
         "image_file": "opus3/3-119L.png",
         "promo_info": "",
@@ -8144,8 +8144,8 @@
         "type_jp": "雷",
         "text_jp": "竜騎士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-120C.png",
         "promo_info": "",
@@ -8160,8 +8160,8 @@
         "type_jp": "水",
         "text_jp": "青魔道士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-121C.png",
         "promo_info": "",
@@ -8176,8 +8176,8 @@
         "type_jp": "水",
         "text_jp": "アルテミシオン",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-122C.png",
         "promo_info": "",
@@ -8209,8 +8209,8 @@
         "type_jp": "水",
         "text_jp": "イザヨイ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-124R.png",
         "promo_info": "",
@@ -8234,7 +8234,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -8242,8 +8242,8 @@
         "type_jp": "水",
         "text_jp": "エーコ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-126H.png",
         "promo_info": "",
@@ -8258,8 +8258,8 @@
         "type_jp": "水",
         "text_jp": "エーコ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-127R.png",
         "promo_info": "",
@@ -8274,8 +8274,8 @@
         "type_jp": "水",
         "text_jp": "踊り子",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-128C.png",
         "promo_info": "",
@@ -8290,8 +8290,8 @@
         "type_jp": "水",
         "text_jp": "ガーネット",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-129L.png",
         "promo_info": "",
@@ -8322,8 +8322,8 @@
         "type_jp": "水",
         "text_jp": "ギード",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-131H.png",
         "promo_info": "",
@@ -8355,8 +8355,8 @@
         "type_jp": "水",
         "text_jp": "クイナ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-133C.png",
         "promo_info": "",
@@ -8371,8 +8371,8 @@
         "type_jp": "水",
         "text_jp": "召喚士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-134C.png",
         "promo_info": "",
@@ -8387,8 +8387,8 @@
         "type_jp": "水",
         "text_jp": "シルドラ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-135H.png",
         "promo_info": "",
@@ -8404,8 +8404,8 @@
         "type_jp": "水",
         "text_jp": "白魔道士",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-136C.png",
         "promo_info": "",
@@ -8420,8 +8420,8 @@
         "type_jp": "水",
         "text_jp": "スタイナー",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-137R.png",
         "promo_info": "",
@@ -8436,8 +8436,8 @@
         "type_jp": "水",
         "text_jp": "セオドア",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-138H.png",
         "promo_info": "",
@@ -8452,8 +8452,8 @@
         "type_jp": "水",
         "text_jp": "ナイト",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-139C.png",
         "promo_info": "",
@@ -8468,8 +8468,8 @@
         "type_jp": "水",
         "text_jp": "ポロム",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-140R.png",
         "promo_info": "",
@@ -8484,8 +8484,8 @@
         "type_jp": "水",
         "text_jp": "モグ［IX］",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-141C.png",
         "promo_info": "",
@@ -8500,8 +8500,8 @@
         "type_jp": "水",
         "text_jp": "ものまねしゴゴ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-142H.png",
         "promo_info": "",
@@ -8517,8 +8517,8 @@
         "type_jp": "水",
         "text_jp": "レオノーラ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus3/3-143C.png",
         "promo_info": "",
@@ -8533,8 +8533,8 @@
         "type_jp": "水",
         "text_jp": "レナ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus3/3-144L.png",
         "promo_info": "",
@@ -8610,7 +8610,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -8618,8 +8618,8 @@
         "type_jp": "火",
         "text_jp": "ビビ",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-149S.png",
         "promo_info": "◯",
@@ -8635,7 +8635,7 @@
         "text_jp": "モーグリ－0組－",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-150S.png",
         "promo_info": "◯",
@@ -8652,7 +8652,7 @@
         "text_jp": "クイーン",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-151S.png",
         "promo_info": "◯",
@@ -8668,8 +8668,8 @@
         "type_jp": "水",
         "text_jp": "ガーネット",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-152S.png",
         "promo_info": "◯",
@@ -8685,7 +8685,7 @@
         "text_jp": "エース",
         "expansion_number": "3",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus3/3-153S.png",
         "promo_info": "◯",
@@ -8701,8 +8701,8 @@
         "type_jp": "光",
         "text_jp": "ジタン",
         "expansion_number": "3",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus3/3-154S.png",
         "promo_info": "◯",
@@ -8726,7 +8726,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -8896,7 +8896,7 @@
         "filter_link": "opus4/fire.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -9675,7 +9675,7 @@
         "filter_link": "opus4/wind.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -10009,8 +10009,8 @@
         "type_jp": "土",
         "text_jp": "アトモス",
         "expansion_number": "4",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus4/4-073C.png",
         "promo_info": "",
@@ -10018,7 +10018,7 @@
         "filter_link": "opus4/earth.html",
         "copyright": [
             "&copy; 2000 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â¨"
+            "FINAL FANTASY Ⅸ"
         ]
     },
     {
@@ -10027,7 +10027,7 @@
         "text_jp": "暗黒騎士",
         "expansion_number": "4",
         "image_source": "FINAL FANTASY TACTICS THE WAR OF THE LIONS",
-        "original_title": "FINAL FANTASY TACTICS çå­æ¦äº",
+        "original_title": "FINAL FANTASY TACTICS 獅子戦争",
         "category": "ffts",
         "image_file": "opus4/4-074C.png",
         "promo_info": "",
@@ -10136,7 +10136,7 @@
         "filter_link": "opus4/earth.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -10245,7 +10245,7 @@
         "text_jp": "ディリータ",
         "expansion_number": "4",
         "image_source": "FINAL FANTASY TACTICS THE WAR OF THE LIONS",
-        "original_title": "FINAL FANTASY TACTICS çå­æ¦äº",
+        "original_title": "FINAL FANTASY TACTICS 獅子戦争",
         "category": "ffts",
         "image_file": "opus4/4-087R.png",
         "promo_info": "",
@@ -10337,7 +10337,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -10496,8 +10496,8 @@
         "type_jp": "雷",
         "text_jp": "黒のワルツ3号",
         "expansion_number": "4",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus4/4-102R.png",
         "promo_info": "",
@@ -10626,8 +10626,8 @@
         "type_jp": "雷",
         "text_jp": "ブルメシア王",
         "expansion_number": "4",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus4/4-110R.png",
         "promo_info": "",
@@ -10745,7 +10745,7 @@
         "text_jp": "ラムザ",
         "expansion_number": "4",
         "image_source": "FINAL FANTASY TACTICS THE WAR OF THE LIONS",
-        "original_title": "FINAL FANTASY TACTICS çå­æ¦äº",
+        "original_title": "FINAL FANTASY TACTICS 獅子戦争",
         "category": "ffts",
         "image_file": "opus4/4-117R.png",
         "promo_info": "",
@@ -10937,7 +10937,7 @@
         "filter_link": "opus4/aqua.html",
         "copyright": [
             "&copy; 2008,2011 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -10945,8 +10945,8 @@
         "type_jp": "水",
         "text_jp": "スタイナー",
         "expansion_number": "4",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus4/4-129L.png",
         "promo_info": "",
@@ -10954,7 +10954,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2000 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â¨"
+            "FINAL FANTASY Ⅸ"
         ]
     },
     {
@@ -10980,7 +10980,7 @@
         "text_jp": "トンガリ",
         "expansion_number": "4",
         "image_source": "My Life as a Darklord FFCC",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus4/4-131R.png",
         "promo_info": "",
@@ -10997,7 +10997,7 @@
         "text_jp": "トンベリーズ",
         "expansion_number": "4",
         "image_source": "My Life as a Darklord FFCC",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus4/4-132R.png",
         "promo_info": "",
@@ -11030,8 +11030,8 @@
         "type_jp": "水",
         "text_jp": "ブラネ",
         "expansion_number": "4",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus4/4-134C.png",
         "promo_info": "",
@@ -11039,7 +11039,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2000 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â¨"
+            "FINAL FANTASY Ⅸ"
         ]
     },
     {
@@ -11047,8 +11047,8 @@
         "type_jp": "水",
         "text_jp": "ベアトリクス",
         "expansion_number": "4",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus4/4-135R.png",
         "promo_info": "",
@@ -11056,7 +11056,7 @@
         "filter_link": "",
         "copyright": [
             "&copy; 2000 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â¨"
+            "FINAL FANTASY Ⅸ"
         ]
     },
     {
@@ -11082,7 +11082,7 @@
         "text_jp": "ミラ",
         "expansion_number": "4",
         "image_source": "My Life as a Darklord FFCC",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus4/4-137L.png",
         "promo_info": "",
@@ -11300,7 +11300,7 @@
         "text_jp": "エース",
         "expansion_number": "",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "pr/3-003R.png",
         "promo_info": "",
@@ -11316,8 +11316,8 @@
         "type_jp": "火",
         "text_jp": "サラマンダー",
         "expansion_number": "",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "pr/PR-013.png",
         "promo_info": "",
@@ -11332,8 +11332,8 @@
         "type_jp": "水",
         "text_jp": "クイナ",
         "expansion_number": "",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "pr/PR-014.png",
         "promo_info": "",
@@ -11348,8 +11348,8 @@
         "type_jp": "水",
         "text_jp": "スタイナー",
         "expansion_number": "",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "pr/PR-015.png",
         "promo_info": "",
@@ -11365,7 +11365,7 @@
         "text_jp": "レム",
         "expansion_number": "",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "pr/PR-016.png",
         "promo_info": "",
@@ -11382,7 +11382,7 @@
         "text_jp": "アレシア・アルラシア",
         "expansion_number": "",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "pr/PR-017.png",
         "promo_info": "",
@@ -11399,7 +11399,7 @@
         "text_jp": "ナイン",
         "expansion_number": "",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "pr/PR-018.png",
         "promo_info": "",
@@ -11475,7 +11475,7 @@
         "filter_link": "opus3/thunder.html",
         "copyright": [
             "&copy;KOEI TECMO GAMES/SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "CHARACTER DESIGNï¼TETSUYA NOMURA"
+            "CHARACTER DESIGN：TETSUYA NOMURA"
         ]
     },
     {
@@ -11500,8 +11500,8 @@
         "type_jp": "雷",
         "text_jp": "ゴルベーザ",
         "expansion_number": "",
-        "image_source": "FINAL FANTASY â£(NINTENDO-DS)",
-        "original_title": "FINAL FANTASY â£",
+        "image_source": "FINAL FANTASY Ⅳ(NINTENDO-DS)",
+        "original_title": "FINAL FANTASY Ⅳ",
         "category": "ff4",
         "image_file": "pr/2-109H.png",
         "promo_info": "",
@@ -11600,7 +11600,7 @@
         "text_jp": "カルラ",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-006R.png",
         "promo_info": "",
@@ -11684,7 +11684,7 @@
         "text_jp": "朱雀のルシ シュユ",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-011H.png",
         "promo_info": "",
@@ -11701,7 +11701,7 @@
         "text_jp": "朱雀のルシ セツナ",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-012H.png",
         "promo_info": "",
@@ -11809,7 +11809,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;1991 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â£"
+            "FINAL FANTASY Ⅳ"
         ]
     },
     {
@@ -11850,7 +11850,7 @@
         "text_jp": "ムツキ",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-021R.png",
         "promo_info": "",
@@ -11883,7 +11883,7 @@
         "text_jp": "リィド",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-023C.png",
         "promo_info": "",
@@ -12319,7 +12319,7 @@
         "filter_link": "opus5/wind.html",
         "copyright": [
             "&copy;1991 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â£"
+            "FINAL FANTASY Ⅳ"
         ]
     },
     {
@@ -12345,7 +12345,7 @@
         "text_jp": "アリア",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-051R.png",
         "promo_info": "",
@@ -12929,7 +12929,7 @@
         "filter_link": "opus5/earth.html",
         "copyright": [
             "&copy;1991 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â£"
+            "FINAL FANTASY Ⅳ"
         ]
     },
     {
@@ -13218,7 +13218,7 @@
         "text_jp": "カリヤ・シバル",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-104R.png",
         "promo_info": "",
@@ -13235,7 +13235,7 @@
         "text_jp": "クオン",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-105R.png",
         "promo_info": "",
@@ -13293,7 +13293,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;1991 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â£"
+            "FINAL FANTASY Ⅳ"
         ]
     },
     {
@@ -13351,7 +13351,7 @@
         "text_jp": "ナギ",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-112R.png",
         "promo_info": "",
@@ -13501,7 +13501,7 @@
         "text_jp": "アンドリア",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-121R.png",
         "promo_info": "",
@@ -13716,7 +13716,7 @@
         "text_jp": "ホシヒメ",
         "expansion_number": "5",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus5/5-134R.png",
         "promo_info": "",
@@ -13741,7 +13741,7 @@
         "filter_link": "opus5/aqua.html",
         "copyright": [
             "&copy;1991 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â£"
+            "FINAL FANTASY Ⅳ"
         ]
     },
     {
@@ -13855,7 +13855,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;1991 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â£"
+            "FINAL FANTASY Ⅳ"
         ]
     },
     {
@@ -14261,7 +14261,7 @@
         "text_jp": "マキナ",
         "expansion_number": "",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "pr/3-022H.png",
         "promo_info": "",
@@ -14510,7 +14510,7 @@
         "text_jp": "朱雀兵",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-011C.png",
         "promo_info": "",
@@ -14826,7 +14826,7 @@
         "text_jp": "軍用クァール",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-030C.png",
         "promo_info": "",
@@ -14908,7 +14908,7 @@
         "text_jp": "スノージャイアント",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-035R.png",
         "promo_info": "",
@@ -14942,7 +14942,7 @@
         "text_jp": "突撃兵",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-037C.png",
         "promo_info": "",
@@ -15312,7 +15312,7 @@
         "text_jp": "ヨクリュウ",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-059R.png",
         "promo_info": "",
@@ -15657,7 +15657,7 @@
         "text_jp": "ムシュフシュ",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-080R.png",
         "promo_info": "",
@@ -15869,7 +15869,7 @@
         "text_jp": "コロッサス",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-093C.png",
         "promo_info": "",
@@ -15952,7 +15952,7 @@
         "text_jp": "バクライリュウ",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-098R.png",
         "promo_info": "",
@@ -16252,7 +16252,7 @@
         "text_jp": "青龍人",
         "expansion_number": "6",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus6/6-116R.png",
         "promo_info": "",
@@ -16634,8 +16634,8 @@
         "type_jp": "火",
         "text_jp": "赤魔道士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-003C.png",
         "promo_info": "",
@@ -16701,8 +16701,8 @@
         "type_jp": "火",
         "text_jp": "黒魔道士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-007C.png",
         "promo_info": "",
@@ -16735,8 +16735,8 @@
         "type_jp": "火",
         "text_jp": "侍",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-009C.png",
         "promo_info": "",
@@ -16768,8 +16768,8 @@
         "type_jp": "火",
         "text_jp": "召喚士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-011C.png",
         "promo_info": "",
@@ -16801,8 +16801,8 @@
         "type_jp": "火",
         "text_jp": "バーサーカー",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-013R.png",
         "promo_info": "",
@@ -16985,8 +16985,8 @@
         "type_jp": "氷",
         "text_jp": "吟遊詩人",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-024C.png",
         "promo_info": "",
@@ -17035,8 +17035,8 @@
         "type_jp": "氷",
         "text_jp": "黒魔道士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-027C.png",
         "promo_info": "",
@@ -17051,8 +17051,8 @@
         "type_jp": "氷",
         "text_jp": "黒魔道士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-028C.png",
         "promo_info": "",
@@ -17204,8 +17204,8 @@
         "type_jp": "氷",
         "text_jp": "時魔道士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-037R.png",
         "promo_info": "",
@@ -17237,8 +17237,8 @@
         "type_jp": "氷",
         "text_jp": "魔法剣士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-039C.png",
         "promo_info": "",
@@ -17371,8 +17371,8 @@
         "type_jp": "風",
         "text_jp": "踊り子",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-047C.png",
         "promo_info": "",
@@ -17387,8 +17387,8 @@
         "type_jp": "風",
         "text_jp": "狩人",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-048C.png",
         "promo_info": "",
@@ -17454,8 +17454,8 @@
         "type_jp": "風",
         "text_jp": "シーフ",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-052C.png",
         "promo_info": "",
@@ -17554,8 +17554,8 @@
         "type_jp": "風",
         "text_jp": "忍者",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-058C.png",
         "promo_info": "",
@@ -17604,8 +17604,8 @@
         "type_jp": "風",
         "text_jp": "飛竜",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-061H.png",
         "promo_info": "",
@@ -17789,8 +17789,8 @@
         "type_jp": "土",
         "text_jp": "召喚士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-072C.png",
         "promo_info": "",
@@ -17856,8 +17856,8 @@
         "type_jp": "土",
         "text_jp": "ネクロマンサー",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-076R.png",
         "promo_info": "",
@@ -17906,8 +17906,8 @@
         "type_jp": "土",
         "text_jp": "風水士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-079C.png",
         "promo_info": "",
@@ -17972,8 +17972,8 @@
         "type_jp": "土",
         "text_jp": "モンク",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-083C.png",
         "promo_info": "",
@@ -18005,8 +18005,8 @@
         "type_jp": "雷",
         "text_jp": "赤魔道士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-085C.png",
         "promo_info": "",
@@ -18054,8 +18054,8 @@
         "type_jp": "雷",
         "text_jp": "ギルガメッシュ",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-088L.png",
         "promo_info": "",
@@ -18087,8 +18087,8 @@
         "type_jp": "雷",
         "text_jp": "剣闘士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-090C.png",
         "promo_info": "",
@@ -18170,8 +18170,8 @@
         "type_jp": "雷",
         "text_jp": "シド・プリヴィア",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-095H.png",
         "promo_info": "",
@@ -18237,8 +18237,8 @@
         "type_jp": "雷",
         "text_jp": "砲撃士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-099R.png",
         "promo_info": "",
@@ -18253,8 +18253,8 @@
         "type_jp": "雷",
         "text_jp": "魔法剣士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-100C.png",
         "promo_info": "",
@@ -18269,8 +18269,8 @@
         "type_jp": "雷",
         "text_jp": "ミド・プリヴィア",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-101H.png",
         "promo_info": "",
@@ -18337,8 +18337,8 @@
         "type_jp": "雷",
         "text_jp": "竜騎士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-105C.png",
         "promo_info": "",
@@ -18403,8 +18403,8 @@
         "type_jp": "水",
         "text_jp": "薬師",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-109C.png",
         "promo_info": "",
@@ -18452,8 +18452,8 @@
         "type_jp": "水",
         "text_jp": "白魔道士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-112R.png",
         "promo_info": "",
@@ -18551,8 +18551,8 @@
         "type_jp": "水",
         "text_jp": "忍者",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-118C.png",
         "promo_info": "",
@@ -18567,8 +18567,8 @@
         "type_jp": "水",
         "text_jp": "ハリカルナッソス",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-119H.png",
         "promo_info": "",
@@ -18584,8 +18584,8 @@
         "type_jp": "水",
         "text_jp": "ファリス",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-120H.png",
         "promo_info": "",
@@ -18617,8 +18617,8 @@
         "type_jp": "水",
         "text_jp": "ものまね師",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-122C.png",
         "promo_info": "",
@@ -18651,8 +18651,8 @@
         "type_jp": "水",
         "text_jp": "予言士",
         "expansion_number": "7",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus7/7-124C.png",
         "promo_info": "",
@@ -19167,8 +19167,8 @@
         "type_jp": "火",
         "text_jp": "サラマンダー",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-010H.png",
         "promo_info": "",
@@ -19265,8 +19265,8 @@
         "type_jp": "火",
         "text_jp": "ビビ",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-016H.png",
         "promo_info": "",
@@ -19427,8 +19427,8 @@
         "type_jp": "氷",
         "text_jp": "ガーランド ［IX］",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-026L.png",
         "promo_info": "",
@@ -19922,8 +19922,8 @@
         "type_jp": "風",
         "text_jp": "デスゲイズ ［IX］",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-056R.png",
         "promo_info": "",
@@ -19972,8 +19972,8 @@
         "type_jp": "風",
         "text_jp": "バジリスク",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-059C.png",
         "promo_info": "",
@@ -20336,8 +20336,8 @@
         "type_jp": "土",
         "text_jp": "フェンリル",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-081R.png",
         "promo_info": "",
@@ -20883,8 +20883,8 @@
         "type_jp": "水",
         "text_jp": "クイナ",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-114H.png",
         "promo_info": "",
@@ -20949,8 +20949,8 @@
         "type_jp": "水",
         "text_jp": "スタイナー",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-118H.png",
         "promo_info": "",
@@ -21079,8 +21079,8 @@
         "type_jp": "水",
         "text_jp": "フライヤ",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-126H.png",
         "promo_info": "",
@@ -21096,8 +21096,8 @@
         "type_jp": "水",
         "text_jp": "ホエールゾンビ",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-127C.png",
         "promo_info": "",
@@ -21112,8 +21112,8 @@
         "type_jp": "水",
         "text_jp": "メルティジェミニ",
         "expansion_number": "8",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus8/8-128R.png",
         "promo_info": "",
@@ -21993,7 +21993,7 @@
         "text_jp": "空中機動兵",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-024C.png",
         "promo_info": "",
@@ -22060,7 +22060,7 @@
         "text_jp": "蒼龍のルシ ソウリュウ",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-028L.png",
         "promo_info": "",
@@ -22127,7 +22127,7 @@
         "text_jp": "ハンドレッグ",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-031R.png",
         "promo_info": "",
@@ -22160,7 +22160,7 @@
         "text_jp": "モーグリ－9組－",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-033C.png",
         "promo_info": "",
@@ -22177,7 +22177,7 @@
         "text_jp": "モーグリ－11組－",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-034R.png",
         "promo_info": "",
@@ -22689,7 +22689,7 @@
         "text_jp": "レム",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-059R.png",
         "promo_info": "",
@@ -22808,7 +22808,7 @@
         "text_jp": "ゴーレム",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-065C.png",
         "promo_info": "",
@@ -22960,7 +22960,7 @@
         "text_jp": "モーグリ－5組－",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-073R.png",
         "promo_info": "",
@@ -22977,7 +22977,7 @@
         "text_jp": "モーグリ－10組－",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-074C.png",
         "promo_info": "",
@@ -23367,7 +23367,7 @@
         "text_jp": "バハムート零式",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-093H.png",
         "promo_info": "",
@@ -23435,7 +23435,7 @@
         "text_jp": "モーグリ－3組－",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-096R.png",
         "promo_info": "",
@@ -23452,7 +23452,7 @@
         "text_jp": "モーグリ－6組－",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-097C.png",
         "promo_info": "",
@@ -23669,7 +23669,7 @@
         "text_jp": "蒼龍王",
         "expansion_number": "9",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus9/9-110C.png",
         "promo_info": "",
@@ -23953,15 +23953,15 @@
         "type_jp": "土",
         "text_jp": "リディア",
         "expansion_number": "",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "pr/PR-051.png",
         "promo_info": "",
         "starter_info": "○",
         "filter_link": "",
         "copyright": [
-            "&copy;2011 SQUARE ENIX CO., LTD. All Rights Reserved. FINAL FANTASY â£ Complete Collection"
+            "&copy;2011 SQUARE ENIX CO., LTD. All Rights Reserved. FINAL FANTASY Ⅳ Complete Collection"
         ]
     },
     {
@@ -24322,7 +24322,7 @@
         "text_jp": "ムツキ",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-014R.png",
         "promo_info": "",
@@ -24339,7 +24339,7 @@
         "text_jp": "モーグリ－1組－",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-015R.png",
         "promo_info": "",
@@ -24356,7 +24356,7 @@
         "text_jp": "モーグリ－2組－",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-016C.png",
         "promo_info": "",
@@ -24409,7 +24409,7 @@
         "text_jp": "リィド",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-018C.png",
         "promo_info": "",
@@ -24888,7 +24888,7 @@
         "text_jp": "白虎のルシ クンミ",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-040R.png",
         "promo_info": "",
@@ -25306,7 +25306,7 @@
         "text_jp": "モーグリ－8組－",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-061C.png",
         "promo_info": "",
@@ -25323,7 +25323,7 @@
         "text_jp": "モーグリ－12組－",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-062R.png",
         "promo_info": "",
@@ -25408,7 +25408,7 @@
         "text_jp": "エンキドゥ・ウルク",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-067R.png",
         "promo_info": "",
@@ -25459,7 +25459,7 @@
         "text_jp": "玄武のルシ ギルガメッシュ",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-069R.png",
         "promo_info": "",
@@ -25541,7 +25541,7 @@
         "text_jp": "スズヒサ",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-074C.png",
         "promo_info": "",
@@ -25690,7 +25690,7 @@
         "text_jp": "ミオツク",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-082C.png",
         "promo_info": "",
@@ -25821,7 +25821,7 @@
         "text_jp": "カリヤ・シバル",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-089C.png",
         "promo_info": "",
@@ -25855,7 +25855,7 @@
         "text_jp": "ザイドウ",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-091C.png",
         "promo_info": "",
@@ -26457,7 +26457,7 @@
         "text_jp": "モーグリ－4組－",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-121C.png",
         "promo_info": "",
@@ -26474,7 +26474,7 @@
         "text_jp": "モーグリ－7組－",
         "expansion_number": "10",
         "image_source": "FINAL FANTASY TYPE-0",
-        "original_title": "FINAL FANTASYé¶å¼",
+        "original_title": "FINAL FANTASY零式",
         "category": "ff0",
         "image_file": "opus10/10-122R.png",
         "promo_info": "",
@@ -27045,8 +27045,8 @@
         "type_jp": "火",
         "text_jp": "ジタン",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-008H.png",
         "promo_info": "",
@@ -27079,8 +27079,8 @@
         "type_jp": "火",
         "text_jp": "戦士",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-010C.png",
         "promo_info": "",
@@ -27264,8 +27264,8 @@
         "type_jp": "火",
         "text_jp": "マリリス",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-019C.png",
         "promo_info": "",
@@ -27416,8 +27416,8 @@
         "type_jp": "氷",
         "text_jp": "ギルバート",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus11/11-028R.png",
         "promo_info": "",
@@ -27551,8 +27551,8 @@
         "type_jp": "氷",
         "text_jp": "ダンタリアン",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-036R.png",
         "promo_info": "",
@@ -27739,8 +27739,8 @@
         "type_jp": "風",
         "text_jp": "エッジ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus11/11-045H.png",
         "promo_info": "",
@@ -27804,8 +27804,8 @@
         "type_jp": "風",
         "text_jp": "シーフ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-048C.png",
         "promo_info": "",
@@ -27837,8 +27837,8 @@
         "type_jp": "風",
         "text_jp": "チョコボ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-050C.png",
         "promo_info": "",
@@ -27869,8 +27869,8 @@
         "type_jp": "風",
         "text_jp": "ティアマット",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-052C.png",
         "promo_info": "",
@@ -27921,8 +27921,8 @@
         "type_jp": "風",
         "text_jp": "謎の男",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus11/11-054R.png",
         "promo_info": "",
@@ -28044,8 +28044,8 @@
         "type_jp": "風",
         "text_jp": "ボビィ＝コーウェン",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-059C.png",
         "promo_info": "",
@@ -28415,8 +28415,8 @@
         "type_jp": "土",
         "text_jp": "マンドラゴラ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-078R.png",
         "promo_info": "",
@@ -28463,8 +28463,8 @@
         "type_jp": "土",
         "text_jp": "モンク",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-080C.png",
         "promo_info": "",
@@ -28495,8 +28495,8 @@
         "type_jp": "土",
         "text_jp": "リッチ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-082C.png",
         "promo_info": "",
@@ -28511,8 +28511,8 @@
         "type_jp": "土",
         "text_jp": "リディア",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus11/11-083R.png",
         "promo_info": "",
@@ -28662,8 +28662,8 @@
         "type_jp": "雷",
         "text_jp": "クジャ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-090L.png",
         "promo_info": "",
@@ -28711,8 +28711,8 @@
         "type_jp": "雷",
         "text_jp": "黒衣の男",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus11/11-093H.png",
         "promo_info": "",
@@ -28743,8 +28743,8 @@
         "type_jp": "雷",
         "text_jp": "スケルトン",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-095R.png",
         "promo_info": "",
@@ -28792,8 +28792,8 @@
         "type_jp": "雷",
         "text_jp": "パック",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-098C.png",
         "promo_info": "",
@@ -28990,8 +28990,8 @@
         "type_jp": "水",
         "text_jp": "ガーネット",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-110L.png",
         "promo_info": "",
@@ -29007,8 +29007,8 @@
         "type_jp": "水",
         "text_jp": "クラーケン",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus11/11-111C.png",
         "promo_info": "",
@@ -29211,8 +29211,8 @@
         "type_jp": "水",
         "text_jp": "ブラネ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus11/11-120H.png",
         "promo_info": "",
@@ -29228,8 +29228,8 @@
         "type_jp": "水",
         "text_jp": "ポロム",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus11/11-121C.png",
         "promo_info": "",
@@ -29332,8 +29332,8 @@
         "type_jp": "水",
         "text_jp": "ローザ",
         "expansion_number": "11",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus11/11-126R.png",
         "promo_info": "",
@@ -29786,8 +29786,8 @@
         "type_jp": "風",
         "text_jp": "ジタン",
         "expansion_number": "",
-        "image_source": "FINAL FANTASY â¨",
-        "original_title": "FINAL FANTASY â¨",
+        "image_source": "FINAL FANTASY Ⅸ",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "pr/PR-073_n.png",
         "promo_info": "",
@@ -29795,7 +29795,7 @@
         "filter_link": "",
         "copyright": [
             "&copy;2000, 2019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-            "FINAL FANTASY â¨"
+            "FINAL FANTASY Ⅸ"
         ]
     },
     {
@@ -29986,7 +29986,7 @@
         "text_jp": "オーガ",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus12/12-006C.png",
         "promo_info": "",
@@ -30185,7 +30185,7 @@
         "text_jp": "フォルツァ",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-015H.png",
         "promo_info": "",
@@ -30219,7 +30219,7 @@
         "text_jp": "マギサ",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-017H.png",
         "promo_info": "",
@@ -30404,7 +30404,7 @@
         "text_jp": "カーバンクル",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus12/12-025H.png",
         "promo_info": "",
@@ -30584,7 +30584,7 @@
         "text_jp": "ミミック",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus12/12-036C.png",
         "promo_info": "",
@@ -30916,8 +30916,8 @@
         "type_jp": "風",
         "text_jp": "ボコ",
         "expansion_number": "12",
-        "image_source": "FINAL FANTASY â¤(GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "image_source": "FINAL FANTASY Ⅴ(GBA)",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-053C.png",
         "promo_info": "",
@@ -30966,7 +30966,7 @@
         "text_jp": "ガラフ",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-056H.png",
         "promo_info": "",
@@ -31347,7 +31347,7 @@
         "text_jp": "オーディン",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus12/12-077H.png",
         "promo_info": "",
@@ -31397,7 +31397,7 @@
         "text_jp": "シド・プリヴィア",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-080H.png",
         "promo_info": "",
@@ -31514,7 +31514,7 @@
         "text_jp": "ミド・プリヴィア",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-087H.png",
         "promo_info": "",
@@ -31730,7 +31730,7 @@
         "text_jp": "シルドラ",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-097H.png",
         "promo_info": "",
@@ -31964,7 +31964,7 @@
         "text_jp": "レナ",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-109L.png",
         "promo_info": "",
@@ -32320,7 +32320,7 @@
         "text_jp": "ファリス",
         "expansion_number": "12",
         "image_source": "FINAL FANTASY V",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus12/12-128L.png",
         "promo_info": "",
@@ -35165,8 +35165,8 @@
         "type_jp": "風",
         "text_jp": "エッジ",
         "expansion_number": "",
-        "image_source": "FINAL FANTASY â£ Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "image_source": "FINAL FANTASY Ⅳ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "pr/PR-087.png",
         "promo_info": "",
@@ -35701,7 +35701,7 @@
         "text_jp": "マリリス ［IX］",
         "expansion_number": "14",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus14/14-018C.png",
         "promo_info": "",
@@ -35868,7 +35868,7 @@
         "text_jp": "ゴブリン",
         "expansion_number": "14",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus14/14-028C.png",
         "promo_info": "",
@@ -36217,7 +36217,7 @@
         "text_jp": "ティアマット ［IX］",
         "expansion_number": "14",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus14/14-048C.png",
         "promo_info": "",
@@ -36787,7 +36787,7 @@
         "text_jp": "リッチ ［IX］",
         "expansion_number": "14",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus14/14-076C.png",
         "promo_info": "",
@@ -37316,7 +37316,7 @@
         "text_jp": "クラーケン ［IX］",
         "expansion_number": "14",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus14/14-104C.png",
         "promo_info": "",
@@ -38016,7 +38016,7 @@
         "text_jp": "侍",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-007C.png",
         "promo_info": "",
@@ -38271,8 +38271,8 @@
         "type_jp": "火",
         "text_jp": "ヨーゼフ",
         "expansion_number": "15",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus15/15-019C.png",
         "promo_info": "",
@@ -38660,7 +38660,7 @@
         "text_jp": "ナイト",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-038C.png",
         "promo_info": "",
@@ -38676,7 +38676,7 @@
         "text_jp": "ものまね師",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-039C.png",
         "promo_info": "",
@@ -38924,8 +38924,8 @@
         "type_jp": "風",
         "text_jp": "チョコボ",
         "expansion_number": "15",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus15/15-052C.png",
         "promo_info": "",
@@ -39041,8 +39041,8 @@
         "type_jp": "風",
         "text_jp": "マリア",
         "expansion_number": "15",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus15/15-057R.png",
         "promo_info": "",
@@ -39058,7 +39058,7 @@
         "text_jp": "竜騎士",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-058C.png",
         "promo_info": "",
@@ -39089,8 +39089,8 @@
         "type_jp": "風",
         "text_jp": "レオンハルト",
         "expansion_number": "15",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus15/15-060R.png",
         "promo_info": "",
@@ -39440,7 +39440,7 @@
         "text_jp": "バーサーカー",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-078C.png",
         "promo_info": "",
@@ -39472,7 +39472,7 @@
         "text_jp": "風水士",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-080C.png",
         "promo_info": "",
@@ -39487,8 +39487,8 @@
         "type_jp": "土",
         "text_jp": "フリオニール",
         "expansion_number": "15",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus15/15-081C.png",
         "promo_info": "",
@@ -39777,7 +39777,7 @@
         "text_jp": "忍者",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-095C.png",
         "promo_info": "",
@@ -40140,8 +40140,8 @@
         "type_jp": "水",
         "text_jp": "ヒルダ",
         "expansion_number": "15",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus15/15-116C.png",
         "promo_info": "",
@@ -40292,7 +40292,7 @@
         "text_jp": "予言士",
         "expansion_number": "15",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus15/15-123C.png",
         "promo_info": "",
@@ -41695,7 +41695,7 @@
         "text_jp": "セオドア",
         "expansion_number": "16",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus16/16-050H.png",
         "promo_info": "",
@@ -41815,7 +41815,7 @@
         "text_jp": "デブチョコボ",
         "expansion_number": "16",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus16/16-056R.png",
         "promo_info": "",
@@ -42232,7 +42232,7 @@
         "text_jp": "ハーデス",
         "expansion_number": "16",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus16/16-079H.png",
         "promo_info": "",
@@ -42264,7 +42264,7 @@
         "text_jp": "ミラ",
         "expansion_number": "16",
         "image_source": "FFCC: My Life as a Darklord",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus16/16-081R.png",
         "promo_info": "",
@@ -42538,7 +42538,7 @@
         "text_jp": "ビビ",
         "expansion_number": "16",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus16/16-095H.png",
         "promo_info": "",
@@ -42963,7 +42963,7 @@
         "text_jp": "フィオナ",
         "expansion_number": "16",
         "image_source": "FFCC: My Life as a Darklord",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus16/16-118C.png",
         "promo_info": "",
@@ -43956,7 +43956,7 @@
         "text_jp": "侍",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-009C.png",
         "promo_info": "",
@@ -43971,8 +43971,8 @@
         "type_jp": "火",
         "text_jp": "スコット",
         "expansion_number": "17",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus17/17-010C.png",
         "promo_info": "",
@@ -44021,7 +44021,7 @@
         "text_jp": "バーサーカー",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-013C.png",
         "promo_info": "",
@@ -44104,7 +44104,7 @@
         "text_jp": "魔法剣士",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-018C.png",
         "promo_info": "",
@@ -44388,7 +44388,7 @@
         "text_jp": "時魔道士",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-033C.png",
         "promo_info": "",
@@ -44454,7 +44454,7 @@
         "text_jp": "ハル",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus17/17-037C.png",
         "promo_info": "",
@@ -44655,7 +44655,7 @@
         "text_jp": "シーフ",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-048C.png",
         "promo_info": "",
@@ -44671,7 +44671,7 @@
         "text_jp": "シド・ポレンディーナ",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus17/17-049C.png",
         "promo_info": "",
@@ -44687,7 +44687,7 @@
         "text_jp": "セシル",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus17/17-050C.png",
         "promo_info": "",
@@ -44904,8 +44904,8 @@
         "type_jp": "風",
         "text_jp": "リチャード",
         "expansion_number": "17",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus17/17-062C.png",
         "promo_info": "",
@@ -44937,7 +44937,7 @@
         "text_jp": "アーシュラ",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus17/17-064C.png",
         "promo_info": "",
@@ -45037,8 +45037,8 @@
         "type_jp": "土",
         "text_jp": "戦士",
         "expansion_number": "17",
-        "image_source": "FINAL FANTASY Iï½¥II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I･II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus17/17-069C.png",
         "promo_info": "",
@@ -45188,7 +45188,7 @@
         "text_jp": "モンク",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-077C.png",
         "promo_info": "",
@@ -45321,7 +45321,7 @@
         "text_jp": "リディア",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus17/17-083C.png",
         "promo_info": "",
@@ -45639,7 +45639,7 @@
         "text_jp": "ナイト",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-100C.png",
         "promo_info": "",
@@ -45655,7 +45655,7 @@
         "text_jp": "ナイト",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-101C.png",
         "promo_info": "",
@@ -45738,7 +45738,7 @@
         "text_jp": "竜騎士",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-105C.png",
         "promo_info": "",
@@ -45837,7 +45837,7 @@
         "text_jp": "薬師",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-111C.png",
         "promo_info": "",
@@ -46021,7 +46021,7 @@
         "text_jp": "白魔道士",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus17/17-119C.png",
         "promo_info": "",
@@ -46257,7 +46257,7 @@
         "text_jp": "カイン",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus17/17-131S.png",
         "promo_info": "",
@@ -46358,7 +46358,7 @@
         "text_jp": "エッジ",
         "expansion_number": "17",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus17/17-135S.png",
         "promo_info": "",
@@ -49439,7 +49439,7 @@
         "text_jp": "イフリート",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-001R.png",
         "promo_info": "",
@@ -49627,7 +49627,7 @@
         "text_jp": "ボム",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-009C.png",
         "promo_info": "",
@@ -50049,7 +50049,7 @@
         "text_jp": "プリン",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-031C.png",
         "promo_info": "",
@@ -51037,7 +51037,7 @@
         "text_jp": "ラムウ",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-083R.png",
         "promo_info": "",
@@ -51288,7 +51288,7 @@
         "text_jp": "トンベリ",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-097C.png",
         "promo_info": "",
@@ -51370,7 +51370,7 @@
         "text_jp": "リヴァイアサン",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-101R.png",
         "promo_info": "",
@@ -51421,7 +51421,7 @@
         "text_jp": "マディーン",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-104H.png",
         "promo_info": "",
@@ -51437,7 +51437,7 @@
         "text_jp": "アーク",
         "expansion_number": "19",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus19/19-105H.png",
         "promo_info": "",
@@ -52150,7 +52150,7 @@
         "text_jp": "アーク",
         "expansion_number": "",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "pr/PR-133.png",
         "promo_info": "",
@@ -52523,7 +52523,7 @@
         "text_jp": "侍",
         "expansion_number": "20",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus20/20-010C.png",
         "promo_info": "",
@@ -53047,7 +53047,7 @@
         "text_jp": "ナイト",
         "expansion_number": "20",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus20/20-035C.png",
         "promo_info": "",
@@ -53284,7 +53284,7 @@
         "text_jp": "スティルツキン",
         "expansion_number": "20",
         "image_source": "FFCC: My Life as a Darklord",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus20/20-048R.png",
         "promo_info": "",
@@ -53453,7 +53453,7 @@
         "text_jp": "ベル・ダット",
         "expansion_number": "20",
         "image_source": "FFCC: My Life as a Darklord",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus20/20-056H.png",
         "promo_info": "",
@@ -53570,7 +53570,7 @@
         "text_jp": "竜騎士",
         "expansion_number": "20",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus20/20-063C.png",
         "promo_info": "",
@@ -53720,7 +53720,7 @@
         "text_jp": "ギガース",
         "expansion_number": "20",
         "image_source": "FFCC: My Life as a Darklord",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus20/20-072C.png",
         "promo_info": "",
@@ -53854,7 +53854,7 @@
         "text_jp": "風水士",
         "expansion_number": "20",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus20/20-079C.png",
         "promo_info": "",
@@ -53920,7 +53920,7 @@
         "text_jp": "ミラ",
         "expansion_number": "20",
         "image_source": "FFCC: My Life as a Darklord",
-        "original_title": "åã¨éã®å§«åã¨ä¸çå¾æã®å¡ ãã¡ã¤ãã«ãã¡ã³ã¿ã¸ã¼ï½¥ã¯ãªã¹ã¿ã«ã¯ã­ãã¯ã«",
+        "original_title": "光と闇の姫君と世界征服の塔 ファイナルファンタジー･クリスタルクロニクル",
         "category": "mylifeasadarklord",
         "image_file": "opus20/20-082C.png",
         "promo_info": "",
@@ -54240,7 +54240,7 @@
         "text_jp": "忍者",
         "expansion_number": "20",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus20/20-099C.png",
         "promo_info": "",
@@ -54662,7 +54662,7 @@
         "text_jp": "予言士",
         "expansion_number": "20",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus20/20-119C.png",
         "promo_info": "",
@@ -55765,8 +55765,8 @@
         "type_jp": "氷",
         "text_jp": "ミンウ",
         "expansion_number": "21",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus21/21-035C.png",
         "promo_info": "",
@@ -55984,8 +55984,8 @@
         "type_jp": "風",
         "text_jp": "シド ［II］",
         "expansion_number": "21",
-        "image_source": "FINAL FANTASY Iã»II ADVANCE",
-        "original_title": "FINAL FANTASY Iã»II ADVANCE",
+        "image_source": "FINAL FANTASY I・II ADVANCE",
+        "original_title": "FINAL FANTASY I・II ADVANCE",
         "category": "ff_1.2_ta",
         "image_file": "opus21/21-046C.png",
         "promo_info": "",
@@ -56890,7 +56890,7 @@
         "text_jp": "黒衣の男",
         "expansion_number": "21",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus21/21-092R.png",
         "promo_info": "",
@@ -56990,7 +56990,7 @@
         "text_jp": "パロム",
         "expansion_number": "21",
         "image_source": "FINAL FANTASY IV Complete Collection",
-        "original_title": "FINAL FANTASY â£ Complete Collection",
+        "original_title": "FINAL FANTASY Ⅳ Complete Collection",
         "category": "ff4cc",
         "image_file": "opus21/21-098R.png",
         "promo_info": "",
@@ -57952,7 +57952,7 @@
         "text_jp": "赤魔道士",
         "expansion_number": "22",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus22/22-002C.png",
         "promo_info": "",
@@ -58645,7 +58645,7 @@
         "text_jp": "時魔道士",
         "expansion_number": "22",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus22/22-033C.png",
         "promo_info": "",
@@ -59036,7 +59036,7 @@
         "text_jp": "風水士",
         "expansion_number": "22",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus22/22-050C.png",
         "promo_info": "",
@@ -59767,7 +59767,7 @@
         "text_jp": "忍者",
         "expansion_number": "22",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus22/22-083C.png",
         "promo_info": "",
@@ -60567,7 +60567,7 @@
         "text_jp": "マディーン",
         "expansion_number": "",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "pr/PR-163.png",
         "promo_info": "",
@@ -60845,7 +60845,7 @@
         "text_jp": "ザ・ソウルケージ",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus23/23-006R.png",
         "promo_info": "",
@@ -60861,7 +60861,7 @@
         "text_jp": "侍",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus23/23-007C.png",
         "promo_info": "",
@@ -60877,7 +60877,7 @@
         "text_jp": "ジタン",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus23/23-008H.png",
         "promo_info": "",
@@ -60894,7 +60894,7 @@
         "text_jp": "ゾーン&ソーン",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus23/23-009H.png",
         "promo_info": "",
@@ -61014,7 +61014,7 @@
         "text_jp": "バハムート",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9|YuyaIshihata",
         "image_file": "opus23/23-016R.png",
         "promo_info": "",
@@ -61031,7 +61031,7 @@
         "text_jp": "バハムート",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9|YuyaIshihata",
         "image_file": "opus23/23-016R_FL.png",
         "promo_info": "",
@@ -61332,7 +61332,7 @@
         "text_jp": "ナイト",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus23/23-033C.png",
         "promo_info": "",
@@ -61587,7 +61587,7 @@
         "text_jp": "銀竜",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9|YuyaIshihata",
         "image_file": "opus23/23-044R.png",
         "promo_info": "",
@@ -61604,7 +61604,7 @@
         "text_jp": "銀竜",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9|YuyaIshihata",
         "image_file": "opus23/23-044R_FL.png",
         "promo_info": "",
@@ -61828,7 +61828,7 @@
         "text_jp": "竜騎士",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus23/23-055C.png",
         "promo_info": "",
@@ -62135,7 +62135,7 @@
         "text_jp": "風水士",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus23/23-071C.png",
         "promo_info": "",
@@ -62545,7 +62545,7 @@
         "text_jp": "忍者",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus23/23-090C.png",
         "promo_info": "",
@@ -62779,7 +62779,7 @@
         "text_jp": "ギザマルーク",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus23/23-102R.png",
         "promo_info": "",
@@ -62978,7 +62978,7 @@
         "text_jp": "予言士",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY V (GBA)",
-        "original_title": "FINAL FANTASY â¤",
+        "original_title": "FINAL FANTASY Ⅴ",
         "category": "ff5",
         "image_file": "opus23/23-111C.png",
         "promo_info": "",
@@ -63246,7 +63246,7 @@
         "text_jp": "エーコ",
         "expansion_number": "23",
         "image_source": "FINAL FANTASY IX",
-        "original_title": "FINAL FANTASY â¨",
+        "original_title": "FINAL FANTASY Ⅸ",
         "category": "ff9",
         "image_file": "opus23/23-124L.png",
         "promo_info": "",
