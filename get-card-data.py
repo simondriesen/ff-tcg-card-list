@@ -62,11 +62,17 @@ if api_data:
             if 'copyright' in item and item['copyright']:
                 item['copyright'] = [line.strip() for line in item['copyright'].split("\n")]
             if 'type_jp' in item and isinstance(item['type_jp'], str):
-                # Encode the string as bytes using the incorrect encoding
                 bytes_data = item['type_jp'].encode('latin1')
-                # Now decode it using the correct encoding
-                item['type_jp'] = bytes_data.decode('shift_jis', errors='ignore')
-                print(f"After decoding: {item['type_jp']}")
+                item['type_jp'] = bytes_data.decode('utf-8', errors='ignore')
+            if 'text_jp' in item and isinstance(item['text_jp'], str):
+                bytes_data = item['text_jp'].encode('latin1')
+                item['text_jp'] = bytes_data.decode('utf-8', errors='ignore')
+            if 'promo_info' in item and isinstance(item['promo_info'], str):
+                bytes_data = item['promo_info'].encode('latin1')
+                item['promo_info'] = bytes_data.decode('utf-8', errors='ignore')
+            if 'starter_info' in item and isinstance(item['starter_info'], str):
+                bytes_data = item['starter_info'].encode('latin1')
+                item['starter_info'] = bytes_data.decode('utf-8', errors='ignore')
         with open(json_file_path, mode='w', encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
     except IOError as e:
