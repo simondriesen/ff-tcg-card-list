@@ -61,6 +61,11 @@ if api_data:
         for item in data:
             if 'copyright' in item and item['copyright']:
                 item['copyright'] = [line.strip() for line in item['copyright'].split("\n")]
+        for item in data:
+            if 'type_jp' in item and isinstance(item['type_jp'], bytes):
+                item['type_jp'] = item['type_jp'].decode('utf-8', errors='ignore')
+            if 'text_jp' in item and isinstance(item['text_jp'], bytes):
+                item['text_jp'] = item['text_jp'].decode('utf-8', errors='ignore')
         with open(json_file_path, mode='w', encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
     except IOError as e:
