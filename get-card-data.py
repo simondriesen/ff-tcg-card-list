@@ -40,10 +40,10 @@ if api_data:
     # Read the CSV file
     try:
         with open(csv_file_path, mode='r', encoding='utf-8') as file:
-            csv_reader = csv.DictReader(file, fieldnames=fieldnames)
-            # If the CSV file does not contain a header row, you can skip this line
-            # next(csv_reader)
+            # Assuming the data is tab-separated
+            csv_reader = csv.DictReader(file, fieldnames=fieldnames, delimiter='\t')
 
+            # Collect data into a list of dictionaries
             data = [row for row in csv_reader]
 
     except IOError as e:
