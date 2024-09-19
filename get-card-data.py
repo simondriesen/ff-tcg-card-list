@@ -1,4 +1,5 @@
 import requests
+import pandas
 import os
 from datetime import datetime
 
@@ -22,5 +23,8 @@ os.makedirs(folder_path, exist_ok=True)
 file_path = os.path.join(folder_path, filename)
 with open(file_path, "a") as file:
     file.write(api_data)
+
+df = pandas.read_csv(filename, sep=" ")
+df.to_csv("final_fantasy_data.csv", index=False)
 
 print(f"File created succesfully.")
