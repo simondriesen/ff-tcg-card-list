@@ -25,7 +25,7 @@ if api_data:
     csv_file_path = os.path.join(folder_path, csv_file)
     
     try:
-        with open(csv_file_path, "w", encoding='utf-8') as file:
+        with open(csv_file_path, "w", encoding='latin1') as file:
             file.write(api_data)
     except IOError as e:
         print(f"Error writing CSV file: {e}")
@@ -61,18 +61,6 @@ if api_data:
         for item in data:
             if 'copyright' in item and item['copyright']:
                 item['copyright'] = [line.strip() for line in item['copyright'].split("\n")]
-            if 'type_jp' in item and isinstance(item['type_jp'], str):
-                bytes_data = item['type_jp'].encode('latin1')
-                item['type_jp'] = bytes_data.decode('utf-8', errors='ignore')
-            if 'text_jp' in item and isinstance(item['text_jp'], str):
-                bytes_data = item['text_jp'].encode('latin1')
-                item['text_jp'] = bytes_data.decode('utf-8', errors='ignore')
-            if 'promo_info' in item and isinstance(item['promo_info'], str):
-                bytes_data = item['promo_info'].encode('latin1')
-                item['promo_info'] = bytes_data.decode('utf-8', errors='ignore')
-            if 'starter_info' in item and isinstance(item['starter_info'], str):
-                bytes_data = item['starter_info'].encode('latin1')
-                item['starter_info'] = bytes_data.decode('utf-8', errors='ignore')
         with open(json_file_path, mode='w', encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
     except IOError as e:
