@@ -61,17 +61,12 @@ if api_data:
         for item in data:
             if 'copyright' in item and item['copyright']:
                 item['copyright'] = [line.strip() for line in item['copyright'].split("\n")]
-        if 'type_jp' in item:
-            print(f"Before decoding: {item['type_jp']}")
-            if isinstance(item['type_jp'], bytes):
-                item['type_jp'] = item['type_jp'].decode('shift_jis', errors='ignore')
+            if 'type_jp' in item and isinstance(item['type_jp'], str):
+                # Encode the string as bytes using the incorrect encoding
+                bytes_data = item['type_jp'].encode('latin1')
+                # Now decode it using the correct encoding
+                item['type_jp'] = bytes_data.decode('shift_jis', errors='ignore')
                 print(f"After decoding: {item['type_jp']}")
-
-        if 'text_jp' in item:
-            print(f"Before decoding: {item['text_jp']}")
-            if isinstance(item['text_jp'], bytes):
-                item['text_jp'] = item['text_jp'].decode('shift_jis', errors='ignore')
-                print(f"After decoding: {item['text_jp']}")
         with open(json_file_path, mode='w', encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
     except IOError as e:
