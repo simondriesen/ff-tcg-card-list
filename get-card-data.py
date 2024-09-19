@@ -33,7 +33,7 @@ if api_data:
 
     # Define the column names for the CSV file
     fieldnames = [
-        "code", "type_jp", "text_jp", "expansion_number", "game_title", "original_title", 
+        "code", "type_jp", "text_jp", "expansion_number", "image_source", "original_title", 
         "category", "image_file", "promo_info", "starter_info", "filter_link", "copyright"
     ]
 
