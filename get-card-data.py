@@ -43,11 +43,8 @@ if api_data:
             # Assuming the data is tab-separated
             csv_reader = csv.DictReader(file, fieldnames=fieldnames, delimiter='\t')
 
-            data = []
-            for row in csv_reader:
-                # Clean up any row that has unexpected fields
-                if any(value is not None and value != '' for value in row.values()):
-                    data.append(row)
+            # Collect data into a list of dictionaries
+            data = [row for row in csv_reader]
 
     except IOError as e:
         print(f"Error reading CSV file: {e}")
