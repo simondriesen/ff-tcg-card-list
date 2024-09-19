@@ -60,7 +60,7 @@ if api_data:
     try:
         for item in data:
             if 'copyright' in item and item['copyright']:
-                item['Copyright'] = [line.strip() for line in item['Copyright'].split("\n")]
+                item['copyright'] = [line.strip() for line in item['copyright'].split("\n")]
         with open(json_file_path, mode='w', encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
     except IOError as e:
