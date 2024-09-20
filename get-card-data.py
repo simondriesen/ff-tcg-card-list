@@ -1,8 +1,6 @@
-import os
 import csv
 import json
 import requests
-from datetime import datetime
 
 URL = "http://www.square-enix-shop.com/jp/ff-tcg/card/data/list_card.txt"
 
@@ -17,15 +15,10 @@ except requests.exceptions.RequestException as e:
 
 # Check if API data was successfully fetched
 if api_data:
-    # Append the API response to a file
-    timestamp = datetime.now().strftime('%Y-%m-%d')
-    csv_file = f"card-data_{timestamp}.csv"
-    folder_path = "raw-data"
-    os.makedirs(folder_path, exist_ok=True)
-    csv_file_path = os.path.join(folder_path, csv_file)
+    csv_file = f"cards.csv"
     
     try:
-        with open(csv_file_path, "w", encoding='latin1') as file:
+        with open(csv_file, "w", encoding='latin1') as file:
             file.write(api_data)
     except IOError as e:
         print(f"Error writing CSV file: {e}")
@@ -40,7 +33,7 @@ if api_data:
     # Read the CSV file
     data = []
     try:
-        with open(csv_file_path, mode='r', encoding='utf-8') as file:
+        with open(csv_file, mode='r', encoding='utf-8') as file:
             csv_reader = csv.reader(file, delimiter='\t')
 
             # Process each row and map to fieldnames
@@ -54,19 +47,18 @@ if api_data:
         exit()
 
     # Write the data to a JSON file
-    json_file = f"card-data_{timestamp}.json"
-    json_file_path = os.path.join(folder_path, json_file)
+    json_file = f"cards.json"
     
     try:
         for item in data:
             if 'copyright' in item and item['copyright']:
                 item['copyright'] = [line.strip() for line in item['copyright'].split("\n")]
-        with open(json_file_path, mode='w', encoding='utf-8') as file:
+        with open(json_file, mode='w', encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
     except IOError as e:
         print(f"Error writing JSON file: {e}")
         exit()
 
-    print(f"Files created successfully: {csv_file_path}, {json_file_path}")
+    print(f"Files created successfully: {csv_file}, {json_file}")
 else:
     print("No data fetched from the API.")
