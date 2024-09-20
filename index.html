@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FF TCG card searcher</title>
+<style>
+  #list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+  }
+  #list li {
+    display: block;
+    flex-grow: 1;
+    width: 260px;
+    aspect-ratio: 5 / 7;
+    overflow: clip;
+  }
+  #list li img {
+    width: 100%;
+  }
+</style>
+</head>
+<body>
+<ul id="list"></ul>
+
+<script>
+  fetch('cards.json')
+    .then(response => response.json())
+    .then(data => {
+      const list = document.getElementById('list');
+      data.forEach(card => {
+        const listItem = document.createElement('li');
+        const imgElement = document.createElement('img');
+        imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${card.image_file.match(/\/([^\/.]+)\./)[1]}_eg.jpg`;
+        
+        imgElement.onerror = function() {
+          this.onerror = null;
+          this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
+        };
+
+        imgElement.loading = "lazy";
+        imgElement.alt = card.code;
+        listItem.appendChild(imgElement);
+        list.appendChild(listItem);
+      });
+    })
+    .catch(error => {
+      console.error('Error loading JSON:', error);
+    });
+</script>
+</body>
+</html>

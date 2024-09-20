@@ -27,7 +27,7 @@ jobs:
     # Run your Python script
     - name: Run Python script
       run: |
-        python get-card-data.py
+        python retrieve-cards.py
 
     # Configure git user for commits
     - name: Set up git user
