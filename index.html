@@ -36,8 +36,17 @@
         imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${card.image_file.match(/\/([^\/.]+)\./)[1]}_eg.jpg`;
         
         imgElement.onerror = function() {
-          this.onerror = null;
-          this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
+          this.onerror = function() {
+              this.onerror = null;
+              // second fallback
+              this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
+          };
+          // first fallback
+          if (card.image_file.includes('_FL')) {
+            this.src = `https://fftcg.cdn.sewest.net/images/cards/full/${card.image_file.match(/\/([^\/.]+)\./)[1].replace('FL', 'eg_FL')}.jpg`;
+          } else {
+            this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
+          }
         };
 
         imgElement.loading = "lazy";
