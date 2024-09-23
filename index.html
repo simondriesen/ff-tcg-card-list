@@ -48,7 +48,7 @@
 
         imgElement.onerror = () => {
           this.onerror = null;
-          this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
+          this.src = `images/${card.image_file}`;
         };
 
         imgElement.loading = "lazy";
