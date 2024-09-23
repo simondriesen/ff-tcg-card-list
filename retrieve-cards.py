@@ -61,25 +61,24 @@ if api_data:
 
     print(f"Files created successfully: {csv_file}, {json_file}")
 
-    try:
-        for item in data:
-            image_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{item.get('image_file')}"
+    for item in data:
+        image_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{item.get('image_file')}"
 
-            # Extract the image filename from the URL
-            image_name = os.path.basename(image_url)
-            image_path = os.path.join('images', image_name)
-            
-            # Download the image
-            try:
-                response = requests.get(image_url)
-                if response.status_code == 200:
-                    # Save the image to the 'images' directory
-                    with open(image_path, 'wb') as f:
-                        f.write(response.content)
-                    print(f"Downloaded {image_name}")
-                else:
-                    print(f"Failed to download {image_name}: Status code {response.status_code}")
-            except Exception as e:
-                print(f"Error downloading {image_url}: {e}")
+        # Extract the image filename from the URL
+        image_name = os.path.basename(image_url)
+        image_path = os.path.join('images', image_name)
+        
+        # Download the image
+        try:
+            response = requests.get(image_url)
+            if response.status_code == 200:
+                # Save the image to the 'images' directory
+                with open(image_path, 'wb') as f:
+                    f.write(response.content)
+                print(f"Downloaded {image_name}")
+            else:
+                print(f"Failed to download {image_name}: Status code {response.status_code}")
+        except Exception as e:
+            print(f"Error downloading {image_url}: {e}")
 else:
     print("No data fetched from the API.")
