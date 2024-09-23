@@ -15,7 +15,12 @@
     flex-grow: 1;
     width: 260px;
     aspect-ratio: 5 / 7;
+
     overflow: clip;
+  }
+  #list li.spacer {
+    height: 0;
+    aspect-ratio: auto;
   }
   #list li img {
     width: 100%;
@@ -33,27 +38,34 @@
       data.forEach(card => {
         const listItem = document.createElement('li');
         const imgElement = document.createElement('img');
-        imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${card.image_file.match(/\/([^\/.]+)\./)[1]}_eg.jpg`;
-        
-        imgElement.onerror = function() {
-          this.onerror = function() {
-              this.onerror = null;
-              // second fallback
-              this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
-          };
-          // first fallback
-          if (card.image_file.includes('_FL')) {
-            this.src = `https://fftcg.cdn.sewest.net/images/cards/full/${card.image_file.match(/\/([^\/.]+)\./)[1].replace('FL', 'eg_FL')}.jpg`;
-          } else {
-            this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
-          }
+        const imgCode = card.image_file.match(/\/([^\/.]+)\./)[1];
+
+        if (!card.image_file.includes('_FL')) {
+          imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${imgCode}_eg.jpg`;
+        } else {
+          imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${imgCode.replace('FL', 'eg_FL')}.jpg`;
+        }
+
+        imgElement.onerror = () => {
+          this.onerror = null;
+          this.src = `http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/${card.image_file}`;
         };
 
         imgElement.loading = "lazy";
         imgElement.alt = card.code;
         listItem.appendChild(imgElement);
+
+        const textElement = document.createElement('p');
+        textElement.textContent = card.code;
+        listItem.appendChild(textElement);
+
         list.appendChild(listItem);
       });
+      for (let i = 0; i < 50; i += 1) {
+        const spacerElement = document.createElement('li');
+        spacerElement.classList.add('spacer');
+        list.appendChild(spacerElement);
+      }
     })
     .catch(error => {
       console.error('Error loading JSON:', error);
