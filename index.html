@@ -40,16 +40,16 @@
         const imgElement = document.createElement('img');
         const imgCode = card.image_file.match(/\/([^\/.]+)\./)[1];
 
+        imgElement.onerror = () => {
+          imgElement.onerror = null;
+          imgElement.src = `images/${imgCode}.png`;
+        };
+
         if (!card.image_file.includes('_FL')) {
           imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${imgCode}_eg.jpg`;
         } else {
           imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${imgCode.replace('FL', 'eg_FL')}.jpg`;
         }
-
-        imgElement.onerror = () => {
-          this.onerror = null;
-          this.src = `images/${card.image_file}`;
-        };
 
         imgElement.loading = "lazy";
         imgElement.alt = card.code;
