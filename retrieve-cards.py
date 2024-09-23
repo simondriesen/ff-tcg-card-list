@@ -62,6 +62,10 @@ if api_data:
 
     print(f"Files created successfully: {csv_file}, {json_file}")
 
+    # Create the directory to store images, if it doesn't exist
+    if not os.path.exists('images'):
+        os.makedirs('images')
+
     for item in data:
         image_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{item.get('image_file')}"
 
