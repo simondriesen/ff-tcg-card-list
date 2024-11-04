@@ -16,7 +16,7 @@ except requests.exceptions.RequestException as e:
 
 # Check if API data was successfully fetched
 if api_data:
-    csv_file = f"cards.csv"
+    csv_file = f"files/cards.jp.csv"
     
     try:
         with open(csv_file, "w", encoding='latin1') as file:
@@ -48,7 +48,7 @@ if api_data:
         exit()
 
     # Write the data to a JSON file
-    json_file = f"cards.json"
+    json_file = f"files/cards.json"
     
     try:
         for item in data:
@@ -63,27 +63,27 @@ if api_data:
     print(f"Files created successfully: {csv_file}, {json_file}")
 
     # Create the directory to store images, if it doesn't exist
-    if not os.path.exists('images'):
-        os.makedirs('images')
+    # if not os.path.exists('images'):
+    #     os.makedirs('images')
 
-    for item in data:
-        image_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{item.get('image_file')}"
+    # for item in data:
+    #     image_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{item.get('image_file')}"
 
-        # Extract the image filename from the URL
-        image_name = os.path.basename(image_url)
-        image_path = os.path.join('images', image_name)
+    #     # Extract the image filename from the URL
+    #     image_name = os.path.basename(image_url)
+    #     image_path = os.path.join('images', image_name)
         
-        # Download the image
-        try:
-            response = requests.get(image_url)
-            if response.status_code == 200:
-                # Save the image to the 'images' directory
-                with open(image_path, 'wb') as f:
-                    f.write(response.content)
-                print(f"Downloaded {image_name}")
-            else:
-                print(f"Failed to download {image_name}: Status code {response.status_code}")
-        except Exception as e:
-            print(f"Error downloading {image_url}: {e}")
+    #     # Download the image
+    #     try:
+    #         response = requests.get(image_url)
+    #         if response.status_code == 200:
+    #             # Save the image to the 'images' directory
+    #             with open(image_path, 'wb') as f:
+    #                 f.write(response.content)
+    #             print(f"Downloaded {image_name}")
+    #         else:
+    #             print(f"Failed to download {image_name}: Status code {response.status_code}")
+    #     except Exception as e:
+    #         print(f"Error downloading {image_url}: {e}")
 else:
     print("No data fetched from the API.")
