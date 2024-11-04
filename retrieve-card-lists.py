@@ -100,7 +100,7 @@ payload = {
 try:
     response = requests.post(EN_URL, json=payload)
     response.raise_for_status()
-    api_data = response.json
+    api_data = response.json()
 except requests.exceptions.RequestException as e:
     print(f"Error fetching API data: {e}")
     api_data = ""
@@ -112,7 +112,7 @@ if api_data:
 
     try:
         with open(json_file, mode='w', encoding='utf-8') as file:
-            file.write(api_data)
+            json.dump(api_data, file, ensure_ascii=False, indent=4)
     except IOError as e:
         print(f"Error writing JSON file: {e}")
         exit()
