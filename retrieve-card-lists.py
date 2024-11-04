@@ -3,13 +3,13 @@ import csv
 import json
 import requests
 
-URL = "http://www.square-enix-shop.com/jp/ff-tcg/card/data/list_card.txt"
+# Fetch data from the JP API
+JP_URL = "http://www.square-enix-shop.com/jp/ff-tcg/card/data/list_card.txt"
 
-# Fetch data from the API
 try:
-    response = requests.get(URL)
-    response.raise_for_status()  # Raise an error for bad status codes
-    api_data = response.text  # Get the response content as text
+    response = requests.get(JP_URL)
+    response.raise_for_status()
+    api_data = response.text
 except requests.exceptions.RequestException as e:
     print(f"Error fetching API data: {e}")
     api_data = ""
@@ -87,4 +87,35 @@ if api_data:
     #     except Exception as e:
     #         print(f"Error downloading {image_url}: {e}")
 else:
-    print("No data fetched from the API.")
+    print("No data fetched from the API (jp).")
+
+# Fetch data from the JP API
+EN_URL = "https://fftcg.square-enix-games.com/en/get-cards"
+
+# JSON payload
+payload = {
+    "text": "",
+}
+
+try:
+    response = requests.post(EN_URL, json=payload)
+    response.raise_for_status()
+    api_data = response.json
+except requests.exceptions.RequestException as e:
+    print(f"Error fetching API data: {e}")
+    api_data = ""
+
+# Check if API data was successfully fetched
+if api_data:
+    os.makedirs("files", exist_ok=True)
+    json_file = os.path.join("files", "cards.en.json")
+
+    try:
+        with open(json_file, mode='w', encoding='utf-8') as file:
+            file.write(api_data)
+    except IOError as e:
+        print(f"Error writing JSON file: {e}")
+        exit()
+
+else:
+    print("No data fetched from the API (en).")
