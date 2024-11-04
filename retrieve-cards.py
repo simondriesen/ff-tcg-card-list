@@ -16,7 +16,8 @@ except requests.exceptions.RequestException as e:
 
 # Check if API data was successfully fetched
 if api_data:
-    csv_file = f"files/cards.jp.csv"
+    os.makedirs("files", exist_ok=True)
+    csv_file = os.path.join("files", "cards.json")
     
     try:
         with open(csv_file, "w", encoding='latin1') as file:
@@ -48,7 +49,7 @@ if api_data:
         exit()
 
     # Write the data to a JSON file
-    json_file = f"files/cards.json"
+    json_file = os.path.join("files", "cards.json")
     
     try:
         for item in data:
