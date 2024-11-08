@@ -28,7 +28,7 @@ if api_data:
 
     # Define the column names for the CSV file
     fieldnames = [
-        "code", "type_jp", "text_jp", "expansion_number", "image_source", "original_title", 
+        "code", "element_jp", "name_jp", "expansion_number", "image_source", "original_title", 
         "category", "image_file", "promo_info", "starter_info", "filter_link", "copyright"
     ]
 
@@ -112,7 +112,7 @@ if api_data:
 
     try:
         with open(json_file, mode='w', encoding='utf-8') as file:
-            json.dump(api_data, file, ensure_ascii=False, indent=4)
+            json.dump(api_data["cards"], file, ensure_ascii=False, indent=4)
     except IOError as e:
         print(f"Error writing JSON file: {e}")
         exit()
