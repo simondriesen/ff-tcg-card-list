@@ -2,6 +2,7 @@ import os
 import csv
 import json
 import requests
+from collections import defaultdict
 
 # Fetch data from the JP API
 JP_URL = "http://www.square-enix-shop.com/jp/ff-tcg/card/data/list_card.txt"
@@ -50,13 +51,43 @@ if api_data:
 
     # Write the data to a JSON file
     json_file = os.path.join("files", "cards.jp.json")
+    combined = defaultdict(dict)
     
     try:
         for item in data:
+            card_code = item.get("code")
+
+            # Split lines in 'copyright' if it exists
             if 'copyright' in item and item['copyright']:
                 item['copyright'] = [line.strip() for line in item['copyright'].split("\n")]
+
+            # Initialize combined[obj_id] if it's the first occurrence
+            if card_code not in combined:
+                combined[card_code] = item.copy()
+                combined[card_code]["images"] = [item["image_file"]] if "image_file" in item else []
+                combined[card_code].pop("image_file", None)
+
+            else:
+                for key, value in item.items():
+                    if key == "code":
+                        continue
+
+                    # Special handling for "image_file" to always keep it as an array in "images"
+                    if key == "image_file":
+                        if value not in combined[card_code]["images"]:
+                            combined[card_code]["images"].append(value)
+                    
+                    # Handle all other fields normally
+                    elif key not in combined[card_code]:
+                        combined[card_code][key] = value
+
+        # Convert the defaultdict back to a list of dictionaries
+        combined_data = list(combined.values())
+
+        # Write to JSON file
         with open(json_file, mode='w', encoding='utf-8') as file:
-            json.dump(data, file, indent=4, ensure_ascii=False)
+            json.dump(combined_data, file, indent=4, ensure_ascii=False)
+
     except IOError as e:
         print(f"Error writing JSON file: {e}")
         exit()
@@ -113,6 +144,7 @@ if api_data:
     try:
         with open(json_file, mode='w', encoding='utf-8') as file:
             json.dump(api_data["cards"], file, ensure_ascii=False, indent=4)
+        print(f"File created successfully: {json_file}")
     except IOError as e:
         print(f"Error writing JSON file: {e}")
         exit()
