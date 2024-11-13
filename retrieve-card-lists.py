@@ -2,7 +2,6 @@ import os
 import csv
 import json
 import requests
-from collections import defaultdict
 
 # Fetch data from the JP API
 JP_URL = "http://www.square-enix-shop.com/jp/ff-tcg/card/data/list_card.txt"
@@ -51,7 +50,7 @@ if api_data:
 
     # Write the data to a JSON file
     json_file = os.path.join("files", "cards.jp.json")
-    combined = defaultdict(dict)
+    combined = {}
     
     try:
         for item in data:
@@ -64,29 +63,45 @@ if api_data:
             # Initialize combined[obj_id] if it's the first occurrence
             if card_code not in combined:
                 combined[card_code] = item.copy()
-                combined[card_code]["images"] = [item["image_file"]] if "image_file" in item else []
-                combined[card_code].pop("image_file", None)
+                
+                # Check if "image_file" exists and convert it to full URL format
+                if "image_file" in item:
+                    thumb_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{item['image_file']}"
+                    full_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/{item['image_file']}"
+
+                    # Initialize "images_jp" with full URLs for thumbs and full
+                    combined[card_code]["images_jp"] = {
+                        "thumbs": [thumb_url],
+                        "full": [full_url]
+                    }
+                    
+                    # Remove the original "image_file" key from the item copy
+                    combined[card_code].pop("image_file", None)
+                else:
+                    # Initialize "images_jp" with empty lists if no image file exists
+                    combined[card_code]["images_jp"] = {"thumbs": [], "full": []}
 
             else:
                 for key, value in item.items():
                     if key == "code":
                         continue
 
-                    # Special handling for "image_file" to always keep it as an array in "images"
-                    if key == "image_file":
-                        if value not in combined[card_code]["images"]:
-                            combined[card_code]["images"].append(value)
-                    
-                    # Handle all other fields normally
-                    elif key not in combined[card_code]:
-                        combined[card_code][key] = value
+                    thumb_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{value}"
+                    full_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/{value}"
 
-        # Convert the defaultdict back to a list of dictionaries
-        combined_data = list(combined.values())
+                    # Add url to both "thumbs" and "full"
+                    if key == "image_file":
+                        # Append to "thumbs" array if not already present
+                        if thumb_url not in combined[card_code]["images_jp"]["thumbs"]:
+                            combined[card_code]["images_jp"]["thumbs"].append(thumb_url)
+
+                        # Append to "full" array if not already present
+                        if full_url not in combined[card_code]["images_jp"]["full"]:
+                            combined[card_code]["images_jp"]["full"].append(full_url)
 
         # Write to JSON file
         with open(json_file, mode='w', encoding='utf-8') as file:
-            json.dump(combined_data, file, indent=4, ensure_ascii=False)
+            json.dump(combined, file, indent=4, ensure_ascii=False)
 
     except IOError as e:
         print(f"Error writing JSON file: {e}")
@@ -94,29 +109,6 @@ if api_data:
 
     print(f"Files created successfully: {csv_file}, {json_file}")
 
-    # Create the directory to store images, if it doesn't exist
-    # if not os.path.exists('images'):
-    #     os.makedirs('images')
-
-    # for item in data:
-    #     image_url = f"http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/{item.get('image_file')}"
-
-    #     # Extract the image filename from the URL
-    #     image_name = os.path.basename(image_url)
-    #     image_path = os.path.join('images', image_name)
-        
-    #     # Download the image
-    #     try:
-    #         response = requests.get(image_url)
-    #         if response.status_code == 200:
-    #             # Save the image to the 'images' directory
-    #             with open(image_path, 'wb') as f:
-    #                 f.write(response.content)
-    #             print(f"Downloaded {image_name}")
-    #         else:
-    #             print(f"Failed to download {image_name}: Status code {response.status_code}")
-    #     except Exception as e:
-    #         print(f"Error downloading {image_url}: {e}")
 else:
     print("No data fetched from the API (jp).")
 
@@ -132,6 +124,7 @@ try:
     response = requests.post(EN_URL, json=payload)
     response.raise_for_status()
     api_data = response.json()
+
 except requests.exceptions.RequestException as e:
     print(f"Error fetching API data: {e}")
     api_data = ""
@@ -140,11 +133,30 @@ except requests.exceptions.RequestException as e:
 if api_data:
     os.makedirs("files", exist_ok=True)
     json_file = os.path.join("files", "cards.en.json")
+    keys_to_remove = [
+        "name_de", "type_de", "job_de", "text_de",
+        "name_es", "type_es", "job_es", "text_es",
+        "name_fr", "type_fr", "job_fr", "text_fr",
+        "name_it", "type_it", "job_it", "text_it"
+    ]
 
     try:
+        # Modify each card in the "cards" array
+        if isinstance(api_data.get("cards"), list):
+            for card in api_data["cards"]:
+                if isinstance(card, dict):
+                    # Remove specified keys
+                    for key in keys_to_remove:
+                        card.pop(key, None)
+                    # Rename "images" to "images_en"
+                    if "images" in card:
+                        card["images_en"] = card.pop("images")
+        
+        # Write to JSON file    
         with open(json_file, mode='w', encoding='utf-8') as file:
             json.dump(api_data["cards"], file, ensure_ascii=False, indent=4)
         print(f"File created successfully: {json_file}")
+    
     except IOError as e:
         print(f"Error writing JSON file: {e}")
         exit()
