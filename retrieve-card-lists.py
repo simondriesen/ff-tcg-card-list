@@ -99,9 +99,12 @@ if api_data:
                         if full_url not in combined[card_code]["images_jp"]["full"]:
                             combined[card_code]["images_jp"]["full"].append(full_url)
 
+        # Convert the dictionary to a list for final output
+        combined_list = list(combined.values())
+
         # Write to JSON file
         with open(json_file, mode='w', encoding='utf-8') as file:
-            json.dump(combined, file, indent=4, ensure_ascii=False)
+            json.dump(combined_list, file, indent=4, ensure_ascii=False)
 
     except IOError as e:
         print(f"Error writing JSON file: {e}")
