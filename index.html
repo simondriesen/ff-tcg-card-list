@@ -31,25 +31,15 @@
 <ul id="list"></ul>
 
 <script>
-  fetch('cards.json')
+  fetch('files/cards.jp.json')
     .then(response => response.json())
     .then(data => {
       const list = document.getElementById('list');
       data.forEach(card => {
         const listItem = document.createElement('li');
         const imgElement = document.createElement('img');
-        const imgCode = card.image_file.match(/\/([^\/.]+)\./)[1];
-
-        imgElement.onerror = () => {
-          imgElement.onerror = null;
-          imgElement.src = `images/${imgCode}.png`;
-        };
-
-        if (!card.image_file.includes('_FL')) {
-          imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${imgCode}_eg.jpg`;
-        } else {
-          imgElement.src = `https://fftcg.cdn.sewest.net/images/cards/full/${imgCode.replace('FL', 'eg_FL')}.jpg`;
-        }
+        const fileName = new URL(card.images_jp.full[0]).pathname.split('/').pop();
+        imgElement.src = `images/${fileName}`;
 
         imgElement.loading = "lazy";
         imgElement.alt = card.code;

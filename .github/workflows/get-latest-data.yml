@@ -25,9 +25,14 @@ jobs:
         pip install requests
 
     # Run your Python script
-    - name: Run Python script
+    - name: Run "retrieve-card-lists" Python script
       run: |
-        python retrieve-card-lists.py
+        python scripts/retrieve-card-lists.py
+
+    # Run your Python script
+    - name: Run "download-cards" Python script
+      run: |
+        python scripts/download-cards.py
 
     # Configure git user for commits
     - name: Set up git user
