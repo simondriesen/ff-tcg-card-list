@@ -39,7 +39,8 @@
         const listItem = document.createElement('li');
         const imgElement = document.createElement('img');
         const fileName = new URL(card.images_jp.full[0]).pathname.split('/').pop();
-        imgElement.src = `images/${fileName}`;
+        const setCode = fileName.split('-')[0];
+        imgElement.src = `images/jp/${setCode}/${fileName.replace('.png', '.webp')}`;
 
         imgElement.loading = "lazy";
         imgElement.alt = card.code;

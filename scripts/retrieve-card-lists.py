@@ -115,7 +115,7 @@ if api_data:
 else:
     print("No data fetched from the API (jp).")
 
-# Fetch data from the JP API
+# Fetch data from the EN API
 EN_URL = "https://fftcg.square-enix-games.com/en/get-cards"
 
 # JSON payload
