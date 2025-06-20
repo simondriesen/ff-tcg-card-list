@@ -93174,5 +93174,199 @@
                 "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus25/25-118H_FL.png"
             ]
         }
+    },
+    {
+        "code": "PR-185/22-115R",
+        "element_jp": "氷",
+        "name_jp": "サージェス",
+        "expansion_number": "",
+        "image_source": "WAR OF THE VISIONS: FINAL FANTASY BRAVE EXVIUS",
+        "original_title": "WAR OF THE VISIONS: FINAL FANTASY BRAVE EXVIUS",
+        "category": "wotv_ffbe",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Co-Developed by gumi Inc."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-185.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-185.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-186/22-006H",
+        "element_jp": "火",
+        "name_jp": "ガーランド",
+        "expansion_number": "",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-186.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-186.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-187/23-062H",
+        "element_jp": "土",
+        "name_jp": "エメトセルク",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY XIV",
+        "original_title": "FINAL FANTASY XIV",
+        "category": "ff14",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-187.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-187.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-191/22-123R",
+        "element_jp": "水",
+        "name_jp": "レオ",
+        "expansion_number": "",
+        "image_source": "FFCC My Life as a King",
+        "original_title": "FFCC My Life as a King",
+        "category": "mylifeasaking",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-191.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-191.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-192/18-126L",
+        "element_jp": "雷/水",
+        "name_jp": "ライトニング",
+        "expansion_number": "",
+        "image_source": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+        "original_title": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+        "category": "lrff13",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "opus18/multi.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "LIGHTNING RETURNS: FINAL FANTASY XIII"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-192.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-192.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-193/12-124L",
+        "element_jp": "雷/水",
+        "name_jp": "サンクレッド",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY XIV",
+        "original_title": "FINAL FANTASY XIV",
+        "category": "ff14",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "FINAL FANTASY XIV"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-193.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-193.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-194/18-107L",
+        "element_jp": "火/氷",
+        "name_jp": "アクスター",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY BRAVE EXVIUS\n Designed by SQUARE ENIX IMAGE STUDIO",
+        "original_title": "FINAL FANTASY BRAVE EXVIUS\n Designed by SQUARE ENIX IMAGE STUDIO",
+        "category": "ffbe",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Designed by SQUARE ENIX IMAGE STUDIO",
+            "FINAL FANTASY BRAVE EXVIUS"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-194.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-194.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-195/14-125L",
+        "element_jp": "風/水",
+        "name_jp": "ヴァン",
+        "expansion_number": "",
+        "image_source": "CHARACTER ILLUSTRATION: Rubi Asami",
+        "original_title": "",
+        "category": "dffac|RubiAsami",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Rubi Asami",
+            "DISSIDIA FINAL FANTASY -Arcade-"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-195.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-195.png"
+            ]
+        }
     }
 ]
