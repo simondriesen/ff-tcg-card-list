@@ -35,7 +35,7 @@
     .then(response => response.json())
     .then(data => {
       const list = document.getElementById('list');
-      data.forEach(card => {
+      data.reverse().forEach(card => {
         const listItem = document.createElement('li');
         const imgElement = document.createElement('img');
         const fileName = new URL(card.images_jp.full[0]).pathname.split('/').pop();
