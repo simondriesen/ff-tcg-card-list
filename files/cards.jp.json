@@ -99935,5 +99935,30 @@
                 "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-203.png"
             ]
         }
+    },
+    {
+        "code": "PR-204/2-129L",
+        "element_jp": "水",
+        "name_jp": "セシル",
+        "expansion_number": "",
+        "image_source": "DISSIDIA FINAL FANTASY -Arcade-",
+        "original_title": "DISSIDIA FINAL FANTASY -Arcade-",
+        "category": "dffac",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "DISSIDIA FINAL FANTASY -Arcade-"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-204.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-204.png"
+            ]
+        }
     }
 ]
