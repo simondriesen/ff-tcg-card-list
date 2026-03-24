@@ -73020,9 +73020,11 @@
         "text_ja": "[[ex]]EX BURST[[/]]\r\n  ティナがフィールドに出るかフィールドからブレイクゾーンに置かれたとき、あなたのブレイクゾーンにある召喚獣1枚を選ぶ。それを手札に加える。このターン、あなたが次に召喚獣をキャストするためのコストは2減る(0にはならない)。[[br]]   あなたのブレイクゾーンにある召喚獣は対戦相手の召喚獣やアビリティによってはゲームから除外されない。",
         "images_en": {
             "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/23-011L_FL_eg.jpg",
                 "https://fftcg.cdn.sewest.net/images/cards/thumbs/23-011L_eg.jpg"
             ],
             "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/23-011L_FL_eg.jpg",
                 "https://fftcg.cdn.sewest.net/images/cards/full/23-011L_eg.jpg"
             ]
         }
@@ -80907,10 +80909,11 @@
         "power": "10000",
         "category_1": "XVI",
         "category_2": null,
-        "multicard": "0",
+        "multicard": "1",
         "ex_burst": "0",
         "set": [
-            "Hidden Legends"
+            "Hidden Legends",
+            "Dreamlike Oceans"
         ],
         "name_en": "Bahamut (XVI)",
         "type_en": "Forward",
@@ -80922,9 +80925,11 @@
         "text_ja": "ブレイブ[[br]]ディオンがバハムート ［XVI］に顕現したとき、フォワードを最大2体まで選ぶ。それらに9000ダメージを与える。[[br]][[s]]ゼタフレア[[/]] 《S》：フォワード1体を選ぶ。ターン終了時までそれはすべてのアビリティを失う。それをブレイクする。",
         "images_en": {
             "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/24-110L_FL_eg.jpg",
                 "https://fftcg.cdn.sewest.net/images/cards/thumbs/24-110L_eg.jpg"
             ],
             "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/24-110L_FL_eg.jpg",
                 "https://fftcg.cdn.sewest.net/images/cards/full/24-110L_eg.jpg"
             ]
         }
@@ -94235,6 +94240,4302 @@
             ],
             "full": [
                 "https://fftcg.cdn.sewest.net/images/cards/full/27-121R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4395,
+        "code": "28-001R",
+        "image": "{\"1\": {\"alt\": \"28-001R\", \"title\": \"28-001R\", \"filename\": \"images/cards/full/28-001R_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "PICTLOGICA &middot; IV",
+        "category_2": "IV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Ursula",
+        "type_en": "Forward",
+        "job_en": "Princess/Monk",
+        "text_en": "When Ursula enters the field, you may pay 《火》. When you do so, choose 1 Forward. Deal it 4000 damage.[[br]]When Ursula enters the field, you may pay 《火》. When you do so, choose 1 Forward. Deal it 4000 damage.[[br]][[i]]Damage 3 --[[/]] If Ursula deals damage to a Forward, the damage increases by 1000 instead.",
+        "name_ja": "アーシュラ",
+        "type_ja": "フォワード",
+        "job_ja": "王女/モンク",
+        "text_ja": "アーシュラがフィールドに出たとき、あなたは《火》を支払ってもよい。そうしたとき、フォワード1体を選ぶ。それに4000ダメージを与える。[[br]]アーシュラがフィールドに出たとき、あなたは《火》を支払ってもよい。そうしたとき、フォワード1体を選ぶ。それに4000ダメージを与える。[[br]][[i]]Damage 3 --[[/]] アーシュラがフォワードにダメージを与える場合、代わりにそのダメージは1000多くなる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-001R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-001R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4396,
+        "code": "28-002R",
+        "image": "{\"1\": {\"alt\": \"28-002R\", \"title\": \"28-002R\", \"filename\": \"images/cards/full/28-002R_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "DFF &middot; XV",
+        "category_2": "XV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Ardyn",
+        "type_en": "Forward",
+        "job_en": "Chief Minister",
+        "text_en": "At the beginning of Main Phase 1 during each player's turn, if that player doesn't put 1 Character they control into the Break Zone, Ardyn deals that player 1 point of damage.[[br]][[i]]Damage 3 --[[/]] If Ardyn deals damage to a player, double the damage instead.",
+        "name_ja": "アーデン",
+        "type_ja": "フォワード",
+        "job_ja": "宰相",
+        "text_ja": "いずれかのプレイヤーの第1メインフェイズ開始時、そのプレイヤーが自分のコントロールするキャラクター1体をブレイクゾーンに置かない限り、アーデンはそのプレイヤーに1点のダメージを与える。[[br]][[i]]Damage 3 --[[/]] アーデンがプレイヤーにダメージを与える場合、代わりにそのダメージは2倍になる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-002R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-002R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4397,
+        "code": "28-003C",
+        "image": "{\"1\": {\"alt\": \"28-003C\", \"title\": \"28-003C\", \"filename\": \"images/cards/full/28-003C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "DFF &middot; I",
+        "category_2": "I",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Garland",
+        "type_en": "Forward",
+        "job_en": "Knight",
+        "text_en": "When Garland enters the field, deal 7000 damage to all the Forwards of cost 2 or less opponent controls.",
+        "name_ja": "ガーランド",
+        "type_ja": "フォワード",
+        "job_ja": "騎士",
+        "text_ja": "ガーランドがフィールドに出たとき、対戦相手のコントロールするすべてのコスト2以下のフォワードに7000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-003C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-003C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4398,
+        "code": "28-004C",
+        "image": "{\"1\": {\"alt\": \"28-004C\", \"title\": \"28-004C\", \"filename\": \"images/cards/full/28-004C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "II",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Guy",
+        "type_en": "Forward",
+        "job_en": "Warrior/Rebel",
+        "text_en": "When Guy enters the field, choose 1 [[i]]Job Warrior[[/]] Forward or [[i]]Job Rebel[[/]] Forward other than [[i]]Card Name Guy[[/]] in your Break Zone. Add it to your hand. If the added card is not a [[i]]Category II[[/]] card, discard 1 card.",
+        "name_ja": "ガイ",
+        "type_ja": "フォワード",
+        "job_ja": "戦士/反乱軍",
+        "text_ja": "ガイがフィールドに出たとき、あなたのブレイクゾーンにある【カード名(ガイ)】以外の【ジョブ(戦士)】か【ジョブ(反乱軍)】のフォワード1枚を選ぶ。それを手札に加える。手札に加えたカードが【カテゴリ(II)】以外の場合、あなたは手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-004C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-004C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4399,
+        "code": "28-005C",
+        "image": "{\"1\": {\"alt\": \"28-005C\", \"title\": \"28-005C\", \"filename\": \"images/cards/full/28-005C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Gunbreaker",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Gunbreaker enters the field, you may pay 《C》. When you do so, choose 1 Forward. Deal it 8000 damage.",
+        "name_ja": "ガンブレイカー",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "ガンブレイカーがフィールドに出たとき、あなたは《C》を支払ってもよい。そうしたとき、フォワード1体を選ぶ。それに8000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-005C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-005C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4400,
+        "code": "28-006C",
+        "image": "{\"1\": {\"alt\": \"28-006C\", \"title\": \"28-006C\", \"filename\": \"images/cards/full/28-006C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "FFCC",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Clavat",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Clavat enters the field, gain 《C》.[[br]]《火》《ダル》, put Clavat into the Break Zone: Gain 《C》.",
+        "name_ja": "クラヴァット",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "クラヴァットがフィールドに出たとき、《C》を得る。[[br]]《火》《ダル》、クラヴァットをブレイクゾーンに置く：《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-006C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-006C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4401,
+        "code": "28-007H",
+        "image": "{\"6\": {\"alt\": \"28-007H\", \"title\": \"28-007H\", \"filename\": \"images/cards/full/28-007H_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "6000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Cloud",
+        "type_en": "Forward",
+        "job_en": "Strife Delivery Service",
+        "text_en": "[[ex]]EX BURST[[/]] When Cloud enters the field, choose 1 [[i]]Category VII[[/]] Character other than [[i]]Card Name Cloud[[/]] in your Break Zone. Add it to your hand. Gain 《C》.[[br]]《ダル》: Select 1 of the 2 following actions.[[br]]\"Choose 1 [[i]]Category VII[[/]] Forward. It gains +2000 power until the end of the turn.\"[[br]]\"Gain 《C》.\"",
+        "name_ja": "クラウド",
+        "type_ja": "フォワード",
+        "job_ja": "ストライフ・デリバリーサービス",
+        "text_ja": "[[ex]]EX BURST[[/]][[b]] [[/]]クラウドがフィールドに出たとき、あなたのブレイクゾーンにある【カード名(クラウド)】以外の【カテゴリ(VII)】のキャラクターカード1枚を選ぶ。それを手札に加える。《C》を得る。[[br]]《ダル》：以下から1つを選択する。[[br]]・【カテゴリ(VII)】のフォワード1体を選ぶ。ターン終了時までそれのパワーを+2000する。[[br]]・《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-007H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-007H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-007H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-007H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4402,
+        "code": "28-008C",
+        "image": "{\"1\": {\"alt\": \"28-008C\", \"title\": \"28-008C\", \"filename\": \"images/cards/full/28-008C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "9000",
+        "category_1": "DFF &middot; IX",
+        "category_2": "IX",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Amarant",
+        "type_en": "Forward",
+        "job_en": "Fighter",
+        "text_en": "When Amarant enters the field, choose 1 Forward. Deal it 7000 damage.[[br]]When Amarant enters the field, if you don't control a [[i]]Category IX[[/]] Forward other than Amarant, discard 1 card.",
+        "name_ja": "サラマンダー",
+        "type_ja": "フォワード",
+        "job_ja": "闘士",
+        "text_ja": "サラマンダーがフィールドに出たとき、フォワード1体を選ぶ。それに7000ダメージを与える。[[br]]サラマンダーがフィールドに出たとき、あなたがサラマンダー以外の【カテゴリ(IX)】のフォワードをコントロールしていない場合、あなたは手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-008C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-008C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4403,
+        "code": "28-009C",
+        "image": "{\"1\": {\"alt\": \"28-009C\", \"title\": \"28-009C\", \"filename\": \"images/cards/full/28-009C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "DFF &middot; X",
+        "category_2": "X",
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Jecht",
+        "type_en": "Backup",
+        "job_en": "Guardian",
+        "text_en": "[[ex]]EX BURST[[/]][[b]] [[/]]When Jecht enters the field, choose 1 Forward. If your opponent controls 3 or more Forwards, deal it 8000 damage.",
+        "name_ja": "ジェクト",
+        "type_ja": "バックアップ",
+        "job_ja": "ガード",
+        "text_ja": "[[ex]]EX BURST [[/]]ジェクトがフィールドに出たとき、フォワード1体を選ぶ。対戦相手がフォワードを3体以上コントロールしている場合、それに8000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-009C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-009C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4404,
+        "code": "28-010R",
+        "image": "{\"1\": {\"alt\": \"28-010R\", \"title\": \"28-010R\", \"filename\": \"images/cards/full/28-010R_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "0",
+        "category_1": "DFF &middot; SOPFFO",
+        "category_2": "SOPFFO",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Jack Garland",
+        "type_en": "Backup",
+        "job_en": "Stranger",
+        "text_en": "Jack Garland is also [[i]]Card Name Garland[[/]] in all situations.[[br]]When Jack Garland enters the field, choose 1 Forward. Deal it 8000 damage.[[br]]When a Forward enters your opponent's field other than from their hand, you may put Jack Garland into the Break Zone. When you do so, deal that Forward 9000 damage.",
+        "name_ja": "ジャック・ガーランド",
+        "type_ja": "バックアップ",
+        "job_ja": "ストレンジャー",
+        "text_ja": "ジャック・ガーランドはすべての領域で【カード名(ガーランド)】でもある。[[br]]ジャック・ガーランドがフィールドに出たとき、フォワード1体を選ぶ。それに8000ダメージを与える。[[br]]対戦相手のフィールドに手札以外からフォワード1体が出るたび、ジャック・ガーランドをブレイクゾーンに置いてもよい。そうしたとき、それに9000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-010R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-010R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4405,
+        "code": "28-011H",
+        "image": "{\"6\": {\"alt\": \"28-011H\", \"title\": \"28-011H\", \"filename\": \"images/cards/full/28-011H_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Cecil",
+        "type_en": "Forward",
+        "job_en": "Paladin",
+        "text_en": "When Cecil enters the field, if you have a [[i]]Card Name Cecil[[/]] with [[i]]Job Dark Knight[[/]] in your Break Zone, draw 1 card.[[br]]When a Forward you control is put from the field into the Break Zone, choose 1 Forward opponent controls. Deal it 7000 damage.",
+        "name_ja": "セシル",
+        "type_ja": "フォワード",
+        "job_ja": "パラディン",
+        "text_ja": "セシルがフィールドに出たとき、あなたのブレイクゾーンに【ジョブ(暗黒騎士)】の【カード名(セシル)】がある場合、カードを1枚引く。[[br]]あなたのコントロールするフォワード1体がフィールドからブレイクゾーンに置かれるたび、対戦相手のコントロールするフォワード1体を選ぶ。それに7000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-011H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-011H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-011H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-011H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4406,
+        "code": "28-012C",
+        "image": "{\"1\": {\"alt\": \"28-012C\", \"title\": \"28-012C\", \"filename\": \"images/cards/full/28-012C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Warrior",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "《ダル》, put Warrior into the Break Zone: Choose 1 Forward. Deal it 7000 damage. You can only use this ability during your turn and if you control 5 or more Backups.",
+        "name_ja": "戦士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "《ダル》、戦士をブレイクゾーンに置く：フォワード1体を選ぶ。それに7000ダメージを与える。このアビリティはあなたのターンにしか使えず、あなたがバックアップを5体以上コントロールしている場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-012C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-012C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4407,
+        "code": "28-013L",
+        "image": "{\"6\": {\"alt\": \"28-013L\", \"title\": \"28-013L\", \"filename\": \"images/cards/full/28-013L_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "L",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Tifa",
+        "type_en": "Forward",
+        "job_en": "Martial Artist",
+        "text_en": "Brave[[br]]When Tifa enters the field, choose 1 Forward opponent controls. Deal it 4000 damage for each [[i]]Category VII[[/]] Forward you control.[[br]]《C》《C》: Until the end of the turn, Tifa gains +2000 power, Haste and \"Tifa can attack twice in the same turn.\"",
+        "name_ja": "ティファ",
+        "type_ja": "フォワード",
+        "job_ja": "拳士",
+        "text_ja": "ブレイブ[[br]]ティファがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それにあなたのコントロールする【カテゴリ(VII)】のフォワード1体につき、4000ダメージを与える。[[br]]《C》《C》：ターン終了時までティファのパワーを+2000し、ヘイストと「ティファは1ターンに2回アタックできる。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-013L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-013L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-013L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-013L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4408,
+        "code": "28-014R",
+        "image": "{\"1\": {\"alt\": \"28-014R\", \"title\": \"28-014R\", \"filename\": \"images/cards/full/28-014R_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "6000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Rogue Tomato",
+        "type_en": "Monster",
+        "job_en": "Mandragora",
+        "text_en": "《ダル》: Choose 1 Forward. Deal it 4000 damage. You can only use this ability if you don't control any Forwards.[[br]]《0》: Until the end of the turn, Rogue Tomato also becomes a Forward with 6000 power. You can only use this ability once per turn.",
+        "name_ja": "はぐれトマト",
+        "type_ja": "モンスター",
+        "job_ja": "マンドラゴラ",
+        "text_ja": "《ダル》：フォワード1体を選ぶ。それに4000ダメージを与える。このアビリティはあなたがフォワードをコントロールしていない場合にしか使えない。[[br]]《0》：ターン終了時まではぐれトマトはパワー6000のフォワードとしても扱う。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-014R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-014R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4409,
+        "code": "28-015H",
+        "image": "{\"1\": {\"alt\": \"28-015H\", \"title\": \"28-015H\", \"filename\": \"images/cards/full/28-015H_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "7",
+        "power": "9000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Barret",
+        "type_en": "Forward",
+        "job_en": "Warrior",
+        "text_en": "When Barret enters the field, choose 1 Forward and up to 1 other Forward. Deal the former 9000 damage and deal the latter 7000 damage.[[br]]When a Forward opponent controls is put from the field into the Break Zone, gain 《C》.[[br]][[s]]Focused Shot[[/]] 《S》《火》《ダル》: Choose up to 2 Forwards. Divide 10000 damage among them as you like. (Units must be 1000.)[[br]]",
+        "name_ja": "バレット",
+        "type_ja": "フォワード",
+        "job_ja": "戦士",
+        "text_ja": "バレットがフィールドに出たとき、フォワード1体と、それ以外のフォワードを最大1体まで選ぶ。前者に9000ダメージを与え、後者に7000ダメージを与える。[[br]]対戦相手のコントロールするフォワード1体がフィールドからブレイクゾーンに置かれるたび、《C》を得る。[[br]][[s]]フュエルバースト [[/]]《S》《火》《ダル》：フォワードを最大2体まで選ぶ。それらに10000ダメージを好きなように割りふる(ダメージは1000単位とする)。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-015H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-015H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4410,
+        "code": "28-016L",
+        "image": "{\"6\": {\"alt\": \"28-016L\", \"title\": \"28-016L\", \"filename\": \"images/cards/full/28-016L_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "5000",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Vivi",
+        "type_en": "Forward",
+        "job_en": "Black Mage",
+        "text_en": "When Vivi enters the field, choose any number of Forwards opponent controls. Divide 7000 damage among them as you like. If you control a [[i]]Category IX[[/]] Forward other than Vivi, divide 10000 damage among them instead. (Units must be 1000.)[[br]]《火》《水》《ダル》: Choose 1 Forward. Deal it 9000 damage.",
+        "name_ja": "ビビ",
+        "type_ja": "フォワード",
+        "job_ja": "黒魔道士",
+        "text_ja": "ビビがフィールドに出たとき、対戦相手のコントロールする好きな数のフォワードを選ぶ。それらに7000ダメージを好きなように割りふる。あなたがビビ以外の【カテゴリ(IX)】のフォワードをコントロールしている場合、代わりにそれらに10000ダメージを好きなように割りふる(ダメージは1000単位とする)。[[br]]《火》《水》《ダル》：フォワード1体を選ぶ。それに9000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-016L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-016L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-016L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-016L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4411,
+        "code": "28-017C",
+        "image": "{\"1\": {\"alt\": \"28-017C\", \"title\": \"28-017C\", \"filename\": \"images/cards/full/28-017C_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "DFF &middot; II",
+        "category_2": "II",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Firion",
+        "type_en": "Forward",
+        "job_en": "Warrior/Rebel",
+        "text_en": "Haste[[br]]If you control a [[i]]Category II[[/]] Character other than Firion, Firion gains +2000 power.",
+        "name_ja": "フリオニール",
+        "type_ja": "フォワード",
+        "job_ja": "戦士/反乱軍",
+        "text_ja": "ヘイスト[[br]]あなたがフリオニール以外の【カテゴリ(II)】のキャラクターをコントロールしている場合、フリオニールのパワーは+2000される。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-017C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-017C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4412,
+        "code": "28-018H",
+        "image": "{\"1\": {\"alt\": \"28-018H\", \"title\": \"28-018H\", \"filename\": \"images/cards/full/28-018H_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "0",
+        "category_1": "XIII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Brynhildr",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Select up to 2 of the 2 following actions. If you selected 2 actions, the cost required to cast Brynhildr is increased by 《C》.[[br]]\"Choose 1 Forward. Deal it 5000 damage. If it is a Multi-Element Forward, deal it 10000 damage instead.\"[[br]]\"Choose 1 Monster. Break it.\"",
+        "name_ja": "ブリュンヒルデ",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "以下から最大2つまで選択する。2つ選択した場合、ブリュンヒルデをキャストするためのコストは《C》増える。[[br]]・フォワード1体を選ぶ。それに5000ダメージを与える。それが多属性のフォワードの場合、代わりにそれに10000ダメージを与える。[[br]]・モンスター1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-018H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-018H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4413,
+        "code": "28-019R",
+        "image": "{\"1\": {\"alt\": \"28-019R\", \"title\": \"28-019R\", \"filename\": \"images/cards/full/28-019R_eg.jpg\"}}",
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "9000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Brute Bomber",
+        "type_en": "Forward",
+        "job_en": "Arcadion Fighter",
+        "text_en": "When Brute Bomber enters the field, each player selects 1 Forward they control. Deal them 9000 damage.[[br]][[i]]Damage 3 --[[/]] If Brute Bomber is dealt damage by abilities, reduce the damage by 2000 instead.",
+        "name_ja": "ブルートボンバー",
+        "type_ja": "フォワード",
+        "job_ja": "アルカディアの闘士",
+        "text_ja": "ブルートボンバーがフィールドに出たとき、すべてのプレイヤーは自分のコントロールするフォワード1体を選択する。それらに9000ダメージを与える。[[br]][[i]]Damage 3 -- [[/]]ブルートボンバーにアビリティからダメージが与えられる場合、代わりにそのダメージは2000減る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-019R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-019R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4414,
+        "code": "28-020C",
+        "image": "{\"6\": {\"alt\": \"28-020C\", \"title\": \"28-020C\", \"filename\": \"images/cards/full/28-020C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "Special",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Blue Mage",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "《ダル》, put Blue Mage into the Break Zone: Your opponent reveals their hand. Select 1 card from their hand. Your opponent discards this card. You can only use this ability during your turn and if you control 5 or more Backups.",
+        "name_ja": "青魔道士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "《ダル》、青魔道士をブレイクゾーンに置く：対戦相手は手札を公開する。あなたはその中から1枚を指定する。対戦相手はそれを捨てる。このアビリティはあなたのターンにしか使えず、あなたがバックアップを5体以上コントロールしている場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-020C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-020C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-020C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-020C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4415,
+        "code": "28-021R",
+        "image": "{\"1\": {\"alt\": \"28-021R\", \"title\": \"28-021R\", \"filename\": \"images/cards/full/28-021R_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "6",
+        "power": "8000",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Eald'narche",
+        "type_en": "Forward",
+        "job_en": "Descendant of the Zilart",
+        "text_en": "When your opponent discards 1 or more cards due to your Summons or abilities, choose 1 Character opponent controls. Dull it and Freeze it.[[br]]When a [[i]]Card Name Kam'lanaut[[/]] enters your field, you may pay 《C》. When you do so, your opponent discards 2 cards.",
+        "name_ja": "エルドナーシュ",
+        "type_ja": "フォワード",
+        "job_ja": "ジラートの末裔",
+        "text_ja": "あなたの召喚獣やアビリティによって対戦相手が手札を1枚以上捨てたとき、対戦相手のコントロールするキャラクター1体を選ぶ。それをダルにし、凍結させる。[[br]]あなたのフィールドに【カード名(カムラナート)】1体が出るたび、あなたは《C》を支払ってもよい。そうしたとき、対戦相手は手札を2枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-021R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-021R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4416,
+        "code": "28-022L",
+        "image": "{\"6\": {\"alt\": \"28-022L\", \"title\": \"28-022L\", \"filename\": \"images/cards/full/28-022L_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Kadaj",
+        "type_en": "Forward",
+        "job_en": "Remnant",
+        "text_en": "When Kadaj enters the field, choose 1 [[i]]Job Remnant[[/]] in your Break Zone. Remove it from the game. Gain 《C》《C》.[[br]]At the end of each of your turns, if you have 2 or more [[i]]Job Remnant[[/]] you own removed from the game, your opponent discards 2 cards.[[br]]《C》: Choose 1 dull Forward opponent controls. Return it to its owner's hand.",
+        "name_ja": "カダージュ",
+        "type_ja": "フォワード",
+        "job_ja": "思念体",
+        "text_ja": "カダージュがフィールドに出たとき、あなたのブレイクゾーンにある【ジョブ(思念体)】1枚を選ぶ。それをゲームから除外する。《C》《C》を得る。[[br]]あなたのターン終了時、ゲームから除外されているあなたの【ジョブ(思念体)】が2枚以上ある場合、対戦相手は手札を2枚捨てる。[[br]]《C》：対戦相手のコントロールするダル状態のフォワード1体を選ぶ。それを手札に戻す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-022L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-022L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-022L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-022L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4417,
+        "code": "28-023C",
+        "image": "{\"1\": {\"alt\": \"28-023C\", \"title\": \"28-023C\", \"filename\": \"images/cards/full/28-023C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Kam'lanaut",
+        "type_en": "Forward",
+        "job_en": "Archduke",
+        "text_en": "[[ex]]EX BURST[[/]] When Kam'lanaut enters the field, choose 1 Forward opponent controls. Dull it and Freeze it. Gain 《C》.[[br]][[s]]Frost Blade[[/]] 《S》《ダル》: Choose 1 dull Forward. Break it. Gain 《C》.",
+        "name_ja": "カムラナート",
+        "type_ja": "フォワード",
+        "job_ja": "大公",
+        "text_ja": "[[ex]]EX BURST[[/]][[b]] [[/]]カムラナートがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それをダルにし、凍結させる。《C》を得る。[[br]][[s]]氷神剣 [[/]]《S》《ダル》：ダル状態のフォワード1体を選ぶ。それをブレイクする。《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-023C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-023C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4418,
+        "code": "28-024R",
+        "image": "{\"1\": {\"alt\": \"28-024R\", \"title\": \"28-024R\", \"filename\": \"images/cards/full/28-024R_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "6000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Gil Snapper",
+        "type_en": "Monster",
+        "job_en": "Turtle",
+        "text_en": "If a Forward of cost 2 or less you control is dealt damage, reduce the damage by 2000 instead.[[br]]《0》: Until the end of the turn, Gil Snapper also becomes a Forward with 6000 power. You can only use this ability once per turn.",
+        "name_ja": "ギルガメ",
+        "type_ja": "モンスター",
+        "job_ja": "亀",
+        "text_ja": "あなたのコントロールするコスト2以下のフォワードにダメージが与えられる場合、代わりにそのダメージは2000減る。[[br]]《0》：ターン終了時までギルガメはパワー6000のフォワードとしても扱う。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-024R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-024R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4419,
+        "code": "28-025C",
+        "image": "{\"1\": {\"alt\": \"28-025C\", \"title\": \"28-025C\", \"filename\": \"images/cards/full/28-025C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "DFF &middot; IX",
+        "category_2": "IX",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Kuja",
+        "type_en": "Forward",
+        "job_en": "Genome",
+        "text_en": "When Kuja enters the field, choose up to 3 Forwards. Dull them and Freeze them.",
+        "name_ja": "クジャ",
+        "type_ja": "フォワード",
+        "job_ja": "ジェノム",
+        "text_ja": "クジャがフィールドに出たとき、フォワードを最大3体まで選ぶ。それらをダルにし、凍結させる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-025C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-025C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4420,
+        "code": "28-026C",
+        "image": "{\"1\": {\"alt\": \"28-026C\", \"title\": \"28-026C\", \"filename\": \"images/cards/full/28-026C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "FFCC",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Clavat",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Clavat enters the field, gain 《C》.[[br]]《氷》《ダル》, put Clavat into the Break Zone: Gain 《C》.",
+        "name_ja": "クラヴァット",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "クラヴァットがフィールドに出たとき、《C》を得る。[[br]]《氷》《ダル》、クラヴァットをブレイクゾーンに置く：《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-026C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-026C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4421,
+        "code": "28-027C",
+        "image": "{\"1\": {\"alt\": \"28-027C\", \"title\": \"28-027C\", \"filename\": \"images/cards/full/28-027C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "DFF &middot; II",
+        "category_2": "II",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "The Emperor",
+        "type_en": "Forward",
+        "job_en": "Emperor",
+        "text_en": "When The Emperor enters the field, choose 1 dull Forward. Return it to its owner's hand. Your opponent discards 1 card.",
+        "name_ja": "皇帝",
+        "type_ja": "フォワード",
+        "job_ja": "皇帝",
+        "text_ja": "皇帝がフィールドに出たとき、ダル状態のフォワード1体を選ぶ。それを手札に戻す。対戦相手は手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-027C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-027C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4422,
+        "code": "28-028H",
+        "image": "{\"1\": {\"alt\": \"28-028H\", \"title\": \"28-028H\", \"filename\": \"images/cards/full/28-028H_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Shiva",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Select up to 2 of the 2 following actions. If you selected 2 actions, the cost required to cast Shiva is increased by 《C》.[[br]]\"Choose 1 Forward. If it has dealt damage to a Forward this turn, break it.\"[[br]]\"Choose 1 Forward opponent controls. Dull it. Your opponent discards 1 card.\"",
+        "name_ja": "シヴァ",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "以下から最大2つまで選択する。2つ選択した場合、シヴァをキャストするためのコストは《C》増える。[[br]]・フォワード1体を選ぶ。このターン、それがフォワードにダメージを与えていた場合、それをブレイクする。[[br]]・対戦相手のコントロールするフォワード1体を選ぶ。それをダルにする。対戦相手は手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-028H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-028H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4423,
+        "code": "28-029C",
+        "image": "{\"1\": {\"alt\": \"28-029C\", \"title\": \"28-029C\", \"filename\": \"images/cards/full/28-029C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "5000",
+        "category_1": "DFF &middot; XI",
+        "category_2": "XI",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Shantotto",
+        "type_en": "Forward",
+        "job_en": "Mage",
+        "text_en": "When Shantotto enters the field, reveal the top card of your deck. If it is an Ice card, your opponent discards 1 card. If it has an Element other than Ice, draw 1 card.",
+        "name_ja": "シャントット",
+        "type_ja": "フォワード",
+        "job_ja": "魔道士",
+        "text_ja": "シャントットがフィールドに出たとき、あなたのデッキの1番上のカードを公開する。それが氷属性の場合、対戦相手は手札を1枚捨てる。それが氷属性以外の属性を持つ場合、カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-029C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-029C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4424,
+        "code": "28-030H",
+        "image": "{\"1\": {\"alt\": \"28-030H\", \"title\": \"28-030H\", \"filename\": \"images/cards/full/28-030H_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "5000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Shuyin",
+        "type_en": "Forward",
+        "job_en": "Illusion",
+        "text_en": "When Shuyin enters the field, select 1 of the 2 following actions.[[br]]\"Choose 1 Forward opponent controls. Remove it and Shuyin from the game.\"[[br]]\"Your opponent removes 2 cards in their hand from the game. Remove Shuyin from the game.\"",
+        "name_ja": "シューイン",
+        "type_ja": "フォワード",
+        "job_ja": "幻光体",
+        "text_ja": "シューインがフィールドに出たとき、以下から1つを選択する。[[br]]・対戦相手のコントロールするフォワード1体を選ぶ。それとシューインをゲームから除外する。[[br]]・対戦相手は手札を2枚ゲームから除外する。シューインをゲームから除外する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-030H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-030H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4425,
+        "code": "28-031L",
+        "image": "{\"6\": {\"alt\": \"28-031L\", \"title\": \"28-031L\", \"filename\": \"images/cards/full/28-031L_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "XIII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Snow",
+        "type_en": "Forward",
+        "job_en": "L'Cie",
+        "text_en": "When Snow enters the field or attacks, select up to 2 of the 3 following actions.[[br]]\"Choose 1 Character. Dull it and Freeze it.\"[[br]]\"Reveal the top 2 cards of your deck. Add 1 [[i]]Category XIII[[/]] card among them to your hand and put the rest of the cards into the Break Zone.\"[[br]]\"During this turn, the cost required to cast your next [[i]]Category XIII[[/]] card is reduced by 2.\"",
+        "name_ja": "スノウ",
+        "type_ja": "フォワード",
+        "job_ja": "ルシ",
+        "text_ja": "スノウがフィールドに出るかアタックしたとき、以下から最大2つまで選択する。[[br]]・キャラクター1体を選ぶ。それをダルにし、凍結させる。[[br]]・デッキのカードを上から2枚公開する。その中から【カテゴリ(XIII)】のカード1枚を手札に加え、残りをブレイクゾーンに置く。[[br]]・このターン、あなたが次に【カテゴリ(XIII)】のカードをキャストするためのコストは2減る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-031L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-031L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-031L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-031L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4426,
+        "code": "28-032H",
+        "image": "{\"6\": {\"alt\": \"28-032H\", \"title\": \"28-032H\", \"filename\": \"images/cards/full/28-032H_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Cecil",
+        "type_en": "Forward",
+        "job_en": "Dark Knight",
+        "text_en": "When Cecil enters the field, you may remove 3 Forwards in your Break Zone from the game. When you do so, choose 1 Character. Dull it and Freeze it. Your opponent discards 1 card.[[br]]When Cecil is put from the field into the Break Zone, you may search for 1 [[i]]Card Name Cecil[[/]] with [[i]]Job Paladin[[/]] of cost 4 or less and play it onto the field.",
+        "name_ja": "セシル",
+        "type_ja": "フォワード",
+        "job_ja": "暗黒騎士",
+        "text_ja": "セシルがフィールドに出たとき、あなたのブレイクゾーンにあるフォワード3枚をゲームから除外してもよい。そうしたとき、キャラクター1体を選ぶ。それをダルにし、凍結させる。対戦相手は手札を1枚捨てる。[[br]]セシルがフィールドからブレイクゾーンに置かれたとき、コスト4以下の【ジョブ(パラディン)】の【カード名(セシル)】1枚をサーチし、フィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-032H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-032H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-032H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-032H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4427,
+        "code": "28-033C",
+        "image": "{\"1\": {\"alt\": \"28-033C\", \"title\": \"28-033C\", \"filename\": \"images/cards/full/28-033C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "0",
+        "category_1": "DFF &middot; VII",
+        "category_2": "VII",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Sephiroth",
+        "type_en": "Backup",
+        "job_en": "War Hero",
+        "text_en": "When Sephiroth enters the field, your opponent discards 1 card.[[br]]《氷》《ダル》, put Sephiroth into the Break Zone: Choose 1 Multi-Element Forward. Break it.",
+        "name_ja": "セフィロス",
+        "type_ja": "バックアップ",
+        "job_ja": "英雄",
+        "text_ja": "セフィロスがフィールドに出たとき、対戦相手は手札を1枚捨てる。[[br]]《氷》《ダル》、セフィロスをブレイクゾーンに置く：多属性のフォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-033C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-033C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4428,
+        "code": "28-034C",
+        "image": "{\"1\": {\"alt\": \"28-034C\", \"title\": \"28-034C\", \"filename\": \"images/cards/full/28-034C_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Paladin",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Paladin deals damage to your opponent, your opponent discards 1 card.[[br]]《C》: Until the end of the turn, Paladin gains +2000 power and Brave.",
+        "name_ja": "ナイト",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "ナイトが対戦相手にダメージを与えたとき、対戦相手は手札を1枚捨てる。[[br]]《C》：ターン終了時までナイトのパワーを+2000し、ブレイブを得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-034C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-034C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4429,
+        "code": "28-035R",
+        "image": "{\"1\": {\"alt\": \"28-035R\", \"title\": \"28-035R\", \"filename\": \"images/cards/full/28-035R_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "0",
+        "category_1": "PICTLOGICA &middot; IV",
+        "category_2": "IV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Harley",
+        "type_en": "Backup",
+        "job_en": "Secretary",
+        "text_en": "When Harley enters the field, you may search for 1 [[i]]Job Bard[[/]] or [[i]]Card Name Bard[[/]] and add it to your hand.",
+        "name_ja": "ハル",
+        "type_ja": "バックアップ",
+        "job_ja": "秘書官",
+        "text_ja": "ハルがフィールドに出たとき、【ジョブ/カード名(吟遊詩人)】1枚をサーチし、手札に加えてもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-035R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-035R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4430,
+        "code": "28-036R",
+        "image": "{\"6\": {\"alt\": \"28-036R\", \"title\": \"28-036R\", \"filename\": \"images/cards/full/28-036R_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Yazoo",
+        "type_en": "Forward",
+        "job_en": "Remnant",
+        "text_en": "When Yazoo enters the field, choose 1 [[i]]Job Remnant[[/]] in your Break Zone. Remove it from the game. Gain 《C》《C》.[[br]]《C》: Choose 1 Character. Dull it and Freeze it. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ヤズー",
+        "type_ja": "フォワード",
+        "job_ja": "思念体",
+        "text_ja": "ヤズーがフィールドに出たとき、あなたのブレイクゾーンにある【ジョブ(思念体)】1枚を選ぶ。それをゲームから除外する。《C》《C》を得る。[[br]]《C》：キャラクター1体を選ぶ。それをダルにし、凍結させる。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-036R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-036R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-036R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-036R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4431,
+        "code": "28-037H",
+        "image": "{\"1\": {\"alt\": \"28-037H\", \"title\": \"28-037H\", \"filename\": \"images/cards/full/28-037H_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "FFBE",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Yoshikiri",
+        "type_en": "Forward",
+        "job_en": "Warrior of the Crystal/Ninja",
+        "text_en": "When Yoshikiri enters the field or is blocked, you may pay 《C》. When you do so, your opponent randomly discards 1 card.[[br]]《0》: Choose 1 Forward. It gains \"If possible, this Forward must block.\" until the end of the turn. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ヨシキリ",
+        "type_ja": "フォワード",
+        "job_ja": "クリスタルの戦士/忍者",
+        "text_ja": "ヨシキリがフィールドに出るかブロックされたとき、あなたは《C》を支払ってもよい。そうしたとき、対戦相手は無作為に手札を1枚捨てる。[[br]]《0》：フォワード1体を選ぶ。ターン終了時までそれに「自身は可能ならばブロックしなければならない。」を与える。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-037H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-037H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4432,
+        "code": "28-038R",
+        "image": "{\"6\": {\"alt\": \"28-038R\", \"title\": \"28-038R\", \"filename\": \"images/cards/full/28-038R_eg.jpg\"}}",
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Loz",
+        "type_en": "Forward",
+        "job_en": "Remnant",
+        "text_en": "When Loz enters the field, choose 1 [[i]]Job Remnant[[/]] in your Break Zone. Remove it from the game. Gain 《C》《C》.[[br]]《C》: Choose 1 Ice Forward. It gains +2000 power until the end of the turn. You can only use this ability once per turn.",
+        "name_ja": "ロッズ",
+        "type_ja": "フォワード",
+        "job_ja": "思念体",
+        "text_ja": "ロッズがフィールドに出たとき、あなたのブレイクゾーンにある【ジョブ(思念体)】1枚を選ぶ。それをゲームから除外する。《C》《C》を得る。[[br]]《C》：氷属性のフォワード1体を選ぶ。ターン終了時までそれのパワーを+2000する。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-038R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-038R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-038R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-038R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4433,
+        "code": "28-039H",
+        "image": "{\"1\": {\"alt\": \"28-039H\", \"title\": \"28-039H\", \"filename\": \"images/cards/full/28-039H_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "5000",
+        "category_1": "I",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Warrior of Light",
+        "type_en": "Forward",
+        "job_en": "Warrior of Light",
+        "text_en": "If you control 5 or more Wind Backups, Warrior of Light gains +4000 power and \"Warrior of Light cannot be chosen by your opponent's abilities.\"[[br]]When Warrior of Light enters the field, reveal the top 5 cards of your deck. Play 1 Wind Character of cost 2 or less among them onto the field and return the other cards to the bottom of your deck in any order.",
+        "name_ja": "ウォーリアオブライト",
+        "type_ja": "フォワード",
+        "job_ja": "光の戦士",
+        "text_ja": "あなたが風属性のバックアップを5体以上コントロールしている場合、ウォーリアオブライトのパワーは+4000され、「ウォーリアオブライトは対戦相手のアビリティによっては選ばれない。」を得る。[[br]]ウォーリアオブライトがフィールドに出たとき、デッキのカードを上から5枚公開する。その中からコスト2以下の風属性のキャラクターカード1枚をフィールドに出し、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-039H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-039H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4434,
+        "code": "28-040C",
+        "image": "{\"6\": {\"alt\": \"28-040C\", \"title\": \"28-040C\", \"filename\": \"images/cards/full/28-040C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "FFTS",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Sky Samurai",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "Sky Samurai cannot be blocked by a Forward of cost 4 or more.[[br]]《C》: Until the end of the turn, Sky Samurai gains +3000 power and Haste.",
+        "name_ja": "エアサムライ",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "エアサムライはコスト4以上のフォワードにブロックされない。[[br]]《C》：ターン終了時までエアサムライのパワーを+3000し、ヘイストを得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-040C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-040C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-040C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-040C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4435,
+        "code": "28-041C",
+        "image": "{\"1\": {\"alt\": \"28-041C\", \"title\": \"28-041C\", \"filename\": \"images/cards/full/28-041C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "7000",
+        "category_1": "DFF &middot; IV",
+        "category_2": "IV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Edge",
+        "type_en": "Forward",
+        "job_en": "Ninja",
+        "text_en": "Back Attack[[br]]When Edge enters the field, choose 1 Forward. Deal it 4000 damage.[[br]][[i]]Damage 5 --[[/]] If Edge deals damage to a Forward, the damage increases by 4000 instead.",
+        "name_ja": "エッジ",
+        "type_ja": "フォワード",
+        "job_ja": "忍者",
+        "text_ja": "バックアタック[[br]]エッジがフィールドに出たとき、フォワード1体を選ぶ。それに4000ダメージを与える。[[br]][[i]]Damage 5 --[[/]] エッジがフォワードにダメージを与える場合、代わりにそのダメージは4000多くなる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-041C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-041C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4436,
+        "code": "28-042C",
+        "image": "{\"1\": {\"alt\": \"28-042C\", \"title\": \"28-042C\", \"filename\": \"images/cards/full/28-042C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Scholar",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Scholar enters the field, gain 《C》.[[br]]《風》《ダル》, put Scholar into the Break Zone: Gain 《C》.",
+        "name_ja": "学者",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "学者がフィールドに出たとき、《C》を得る。[[br]]《風》《ダル》、学者をブレイクゾーンに置く：《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-042C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-042C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4437,
+        "code": "28-043R",
+        "image": "{\"1\": {\"alt\": \"28-043R\", \"title\": \"28-043R\", \"filename\": \"images/cards/full/28-043R_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Gi Nattak",
+        "type_en": "Forward",
+        "job_en": "Gi",
+        "text_en": "[[ex]]EX BURST[[/]] When Gi Nattak is dealt damage, choose 1 Forward opponent controls. At the end of your opponent's turn, break it. This effect will trigger only once per turn.",
+        "name_ja": "ギ・ナタタク",
+        "type_ja": "フォワード",
+        "job_ja": "ギ族",
+        "text_ja": "[[ex]]EX BURST[[/]][[b]] [[/]]ギ・ナタタクにダメージが与えられたとき、対戦相手のコントロールするフォワード1体を選ぶ。対戦相手のターン終了時、それをブレイクする。このアビリティは1ターンに1度しか発動しない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-043R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-043R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4438,
+        "code": "28-044H",
+        "image": "{\"6\": {\"alt\": \"28-044H\", \"title\": \"28-044H\", \"filename\": \"images/cards/full/28-044H_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "3",
+        "power": "0",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Edward",
+        "type_en": "Backup",
+        "job_en": "Bard",
+        "text_en": "At the end of each of your turns, choose 1 Forward you control. Activate it.[[br]][[s]]Hastemarch[[/]] 《S》《風》《風》《ダル》: Activate all the Characters you control. You can only use this ability during your opponent's turn and only once per turn.",
+        "name_ja": "ギルバート",
+        "type_ja": "バックアップ",
+        "job_ja": "吟遊詩人",
+        "text_ja": "あなたのターン終了時、あなたのコントロールするフォワード1体を選ぶ。それをアクティブにする。[[br]][[s]]すばやさのうた [[/]]《S》《風》《風》《ダル》：あなたのコントロールするすべてのキャラクターをアクティブにする。このアビリティは対戦相手のターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-044H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-044H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-044H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-044H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4439,
+        "code": "28-045R",
+        "image": "{\"1\": {\"alt\": \"28-045R\", \"title\": \"28-045R\", \"filename\": \"images/cards/full/28-045R_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "7000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Zack",
+        "type_en": "Forward",
+        "job_en": "SOLDIER",
+        "text_en": "[[ex]]EX BURST[[/]] When Zack enters the field, choose 1 Wind Forward other than [[i]]Card Name Zack[[/]] in your Break Zone. Add it to your hand.[[br]]《風》: During this turn, the cost required to cast your next Wind Forward is reduced by 2. You can only use this ability once per turn.",
+        "name_ja": "ザックス",
+        "type_ja": "フォワード",
+        "job_ja": "ソルジャー",
+        "text_ja": "[[ex]]EX BURST[[/]][[b]] [[/]]ザックスがフィールドに出たとき、あなたのブレイクゾーンにある【カード名(ザックス)】以外の風属性のフォワード1枚を選ぶ。それを手札に加える。[[br]]《風》：このターン、あなたが次に風属性のフォワードをキャストするためのコストは2減る。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-045R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-045R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4440,
+        "code": "28-046C",
+        "image": "{\"1\": {\"alt\": \"28-046C\", \"title\": \"28-046C\", \"filename\": \"images/cards/full/28-046C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "0",
+        "category_1": "DFF &middot; IX",
+        "category_2": "IX",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Zidane",
+        "type_en": "Backup",
+        "job_en": "Tantalus Member/Thief",
+        "text_en": "When Zidane enters the field, reveal the top 5 cards of your deck. Add 1 card of cost 2 or less among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]《ダル》, put Zidane into the Break Zone: Choose 1 card in your opponent's Break Zone. Remove it from the game.",
+        "name_ja": "ジタン",
+        "type_ja": "バックアップ",
+        "job_ja": "タンタラス/盗賊",
+        "text_ja": "ジタンがフィールドに出たとき、デッキのカードを上から5枚公開する。その中からコスト2以下のカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]《ダル》、ジタンをブレイクゾーンに置く：対戦相手のブレイクゾーンにあるカード1枚を選ぶ。それをゲームから除外する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-046C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-046C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4441,
+        "code": "28-047C",
+        "image": "{\"11\": {\"alt\": \"28-047C\", \"title\": \"28-047C\", \"filename\": \"images/cards/full/28-047C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "Special",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Summoner",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "《ダル》, put Summoner into the Break Zone: Choose 1 Wind Summon in your Break Zone. Add it to your hand. You can only use this ability during your turn and if you control 5 or more Backups.",
+        "name_ja": "召喚士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "《ダル》、召喚士をブレイクゾーンに置く：あなたのブレイクゾーンにある風属性の召喚獣1枚を選ぶ。それを手札に加える。このアビリティはあなたのターンにしか使えず、あなたがバックアップを5体以上コントロールしている場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-047C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-047C_Premium_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-047C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-047C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-047C_Premium_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-047C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4442,
+        "code": "28-048H",
+        "image": "{\"1\": {\"alt\": \"28-048H\", \"title\": \"28-048H\", \"filename\": \"images/cards/full/28-048H_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "0",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Sylph",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Select up to 2 of the 2 following actions. If you selected 2 actions, the cost required to cast Sylph is increased by 《C》.[[br]]\"Choose 1 Forward. It gains ‘This Forward cannot be chosen by your opponent's abilities.’ until the end of the turn.\"[[br]]\"Draw 1 card.\"",
+        "name_ja": "シルフ",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "以下から最大2つまで選択する。2つ選択した場合、シルフをキャストするためのコストは《C》増える。[[br]]・フォワード1体を選ぶ。ターン終了時までそれに「自身は対戦相手のアビリティによっては選ばれない。」を与える。[[br]]・カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-048H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-048H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4443,
+        "code": "28-049R",
+        "image": "{\"1\": {\"alt\": \"28-049R\", \"title\": \"28-049R\", \"filename\": \"images/cards/full/28-049R_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "6000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Cluckatrice",
+        "type_en": "Monster",
+        "job_en": "Bird",
+        "text_en": "At the end of each of your turns, choose 1 Forward you control. Activate it.[[br]]《0》: Until the end of the turn, Cluckatrice also becomes a Forward with 6000 power. You can only use this ability once per turn.",
+        "name_ja": "ニワトリス",
+        "type_ja": "モンスター",
+        "job_ja": "鳥",
+        "text_ja": "あなたのターン終了時、あなたのコントロールするフォワード1体を選ぶ。それをアクティブにする。[[br]]《0》：ターン終了時までニワトリスはパワー6000のフォワードとしても扱う。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-049R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-049R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4444,
+        "code": "28-050C",
+        "image": "{\"1\": {\"alt\": \"28-050C\", \"title\": \"28-050C\", \"filename\": \"images/cards/full/28-050C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Paine",
+        "type_en": "Forward",
+        "job_en": "Gullwings/White Mage",
+        "text_en": "At the end of each of your turns, reveal the top card of your deck. If it is a [[i]]Category X[[/]] Forward, add it to your hand.[[br]]At the end of each of your turns, you may put Paine into the Break Zone. If you do so, play 1 [[i]]Card Name Paine[[/]] from your hand onto the field.",
+        "name_ja": "パイン",
+        "type_ja": "フォワード",
+        "job_ja": "カモメ団/白魔道士",
+        "text_ja": "あなたのターン終了時、あなたのデッキの1番上のカードを公開する。それが【カテゴリ(X)】のフォワードの場合、それを手札に加える。[[br]]あなたのターン終了時、パインをブレイクゾーンに置いてもよい。そうした場合、あなたの手札から【カード名(パイン)】1枚をフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-050C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-050C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4445,
+        "code": "28-051R",
+        "image": "{\"1\": {\"alt\": \"28-051R\", \"title\": \"28-051R\", \"filename\": \"images/cards/full/28-051R_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "8000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Black Cat",
+        "type_en": "Forward",
+        "job_en": "Arcadion Fighter",
+        "text_en": "When Black Cat enters the field, each player may play 1 Character of cost 3 or less from their hand onto the field.[[br]][[i]]Damage 3 --[[/]] When Black Cat enters the field, choose 1 Character of cost 3 or less other than [[i]]Card Name Black Cat[[/]] in your Break Zone. Add it to your hand.",
+        "name_ja": "ブラックキャット",
+        "type_ja": "フォワード",
+        "job_ja": "アルカディアの闘士",
+        "text_ja": "ブラックキャットがフィールドに出たとき、すべてのプレイヤーは手札からコスト3以下のキャラクターカード1枚をフィールドに出してもよい。[[br]][[i]]Damage 3 --[[/]] ブラックキャットがフィールドに出たとき、あなたのブレイクゾーンにある【カード名(ブラックキャット)】以外のコスト3以下のキャラクターカード1枚を選ぶ。それを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-051R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-051R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4446,
+        "code": "28-052L",
+        "image": "{\"6\": {\"alt\": \"28-052L\", \"title\": \"28-052L\", \"filename\": \"images/cards/full/28-052L_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "L",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "FFTA",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Marche",
+        "type_en": "Forward",
+        "job_en": "Clan Leader",
+        "text_en": "If you control 2 or more Backups, Marche gains +1000 power and Haste.[[br]]If you control 5 or more Backups, Marche cannot be blocked by a Forward of cost 3 or more.[[br]]When Marche deals damage to your opponent, you may pay 《C》. When you do so, draw 2 cards.",
+        "name_ja": "マーシュ",
+        "type_ja": "フォワード",
+        "job_ja": "クランリーダー",
+        "text_ja": "あなたがバックアップを2体以上コントロールしている場合、マーシュのパワーは+1000され、ヘイストを得る。[[br]]あなたがバックアップを5体以上コントロールしている場合、マーシュはコスト3以上のフォワードにブロックされない。[[br]]マーシュが対戦相手にダメージを与えたとき、あなたは《C》を支払ってもよい。そうしたとき、カードを2枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-052L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-052L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-052L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-052L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4447,
+        "code": "28-053C",
+        "image": "{\"1\": {\"alt\": \"28-053C\", \"title\": \"28-053C\", \"filename\": \"images/cards/full/28-053C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "5000",
+        "category_1": "II",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Maria",
+        "type_en": "Forward",
+        "job_en": "Warrior/Rebel",
+        "text_en": "When Maria enters the field, you may search for 1 [[i]]Category II[[/]] Forward of cost 2 or less and play it onto the field.",
+        "name_ja": "マリア",
+        "type_ja": "フォワード",
+        "job_ja": "戦士/反乱軍",
+        "text_ja": "マリアがフィールドに出たとき、コスト2以下の【カテゴリ(II)】のフォワード1枚をサーチし、フィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-053C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-053C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4448,
+        "code": "28-054L",
+        "image": "{\"6\": {\"alt\": \"28-054L\", \"title\": \"28-054L\", \"filename\": \"images/cards/full/28-054L_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Yuffie",
+        "type_en": "Forward",
+        "job_en": "Ninja",
+        "text_en": "When Yuffie enters the field, choose 2 cards in your opponent's Break Zone. Remove them from the game. Gain 《C》《C》.[[br]]《C》: Until the end of the turn, Yuffie gains +1000 power and Haste.[[br]]《C》: Until the end of the turn, Yuffie gains \"Yuffie cannot be chosen by your opponent's abilities.\"[[br]]《C》《C》: Choose 1 Forward. Deal it 8000 damage.",
+        "name_ja": "ユフィ",
+        "type_ja": "フォワード",
+        "job_ja": "忍者",
+        "text_ja": "ユフィがフィールドに出たとき、対戦相手のブレイクゾーンにあるカード2枚を選ぶ。それらをゲームから除外する。《C》《C》を得る。[[br]]《C》：ターン終了時までユフィのパワーを+1000し、ヘイストを得る。[[br]]《C》：ターン終了時までユフィは「ユフィは対戦相手のアビリティによっては選ばれない。」を得る。[[br]]《C》《C》：フォワード1体を選ぶ。それに8000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-054L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-054L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-054L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-054L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4449,
+        "code": "28-055H",
+        "image": "{\"1\": {\"alt\": \"28-055H\", \"title\": \"28-055H\", \"filename\": \"images/cards/full/28-055H_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "FFBE",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Richt",
+        "type_en": "Forward",
+        "job_en": "Warrior of the Crystal",
+        "text_en": "When Richt enters the field, you may pay 《C》. When you do so, choose 1 Backup of cost 2 or less in your Break Zone. Play it onto the field.[[br]]When Richt attacks, choose up to 2 Backups. Activate them.",
+        "name_ja": "リヒト",
+        "type_ja": "フォワード",
+        "job_ja": "クリスタルの戦士",
+        "text_ja": "リヒトがフィールドに出たとき、あなたは《C》を支払ってもよい。そうしたとき、あなたのブレイクゾーンにあるコスト2以下のバックアップ1枚を選ぶ。それをフィールドに出す。[[br]]リヒトがアタックしたとき、バックアップを最大2体まで選ぶ。それらをアクティブにする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-055H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-055H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4450,
+        "code": "28-056C",
+        "image": "{\"1\": {\"alt\": \"28-056C\", \"title\": \"28-056C\", \"filename\": \"images/cards/full/28-056C_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "8000",
+        "category_1": "II",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Leon",
+        "type_en": "Forward",
+        "job_en": "Warrior/Rebel",
+        "text_en": "When Leon enters the field, if you don't control a [[i]]Card Name Maria[[/]] and if you don't pay 《2》, put Leon into the Break Zone.",
+        "name_ja": "レオンハルト",
+        "type_ja": "フォワード",
+        "job_ja": "戦士/反乱軍",
+        "text_ja": "レオンハルトがフィールドに出たとき、あなたが【カード名(マリア)】をコントロールしていない場合、あなたは《2》を支払わない限り、レオンハルトをブレイクゾーンに置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-056C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-056C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4451,
+        "code": "28-057R",
+        "image": "{\"1\": {\"alt\": \"28-057R\", \"title\": \"28-057R\", \"filename\": \"images/cards/full/28-057R_eg.jpg\"}}",
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Red XIII",
+        "type_en": "Forward",
+        "job_en": "Warrior",
+        "text_en": "When Red XIII enters the field or forms a party and attacks, reveal the top 3 cards of your deck. Add 1 [[i]]Category VII[[/]] Character among them to your hand and return the other cards to the bottom of your deck in any order.",
+        "name_ja": "レッドXIII",
+        "type_ja": "フォワード",
+        "job_ja": "戦士",
+        "text_ja": "レッドXIIIがフィールドに出るかパーティーを組んでアタックしたとき、デッキのカードを上から3枚公開する。その中から【カテゴリ(VII)】のキャラクターカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-057R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-057R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4452,
+        "code": "28-058R",
+        "image": "{\"1\": {\"alt\": \"28-058R\", \"title\": \"28-058R\", \"filename\": \"images/cards/full/28-058R_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "0",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Arciela",
+        "type_en": "Backup",
+        "job_en": "Red Mage",
+        "text_en": "When a [[i]]Category XI[[/]] Forward of cost 6 or more enters your field, you may put Arciela into the Break Zone. When you do so, choose 1 Character opponent controls. Break it.",
+        "name_ja": "アシェラ",
+        "type_ja": "バックアップ",
+        "job_ja": "赤魔道士",
+        "text_ja": "あなたのフィールドにコスト6以上の【カテゴリ(XI)】のフォワード1体が出るたび、アシェラをブレイクゾーンに置いてもよい。そうしたとき、対戦相手のコントロールするキャラクター1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-058R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-058R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4453,
+        "code": "28-059C",
+        "image": "{\"1\": {\"alt\": \"28-059C\", \"title\": \"28-059C\", \"filename\": \"images/cards/full/28-059C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Dark Knight",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "《ダル》, put Dark Knight into the Break Zone: Choose 1 dull Forward. Break it. You can only use this ability during your turn and if you control 5 or more Backups.",
+        "name_ja": "暗黒騎士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "《ダル》、暗黒騎士をブレイクゾーンに置く：ダル状態のフォワード1体を選ぶ。それをブレイクする。このアビリティはあなたのターンにしか使えず、あなたがバックアップを5体以上コントロールしている場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-059C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-059C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4454,
+        "code": "28-060R",
+        "image": "{\"1\": {\"alt\": \"28-060R\", \"title\": \"28-060R\", \"filename\": \"images/cards/full/28-060R_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Angeal",
+        "type_en": "Forward",
+        "job_en": "SOLDIER",
+        "text_en": "Abilities of your opponent must choose Angeal if possible.[[br]]When Angeal is put from the field into the Break Zone, you may remove Angeal from the game. When you do so, choose 1 Forward. It gains +3000 power. (This effect does not end at the end of the turn.)",
+        "name_ja": "アンジール",
+        "type_ja": "フォワード",
+        "job_ja": "ソルジャー",
+        "text_ja": "対戦相手のアビリティは可能ならばアンジールを選ばなければならない。[[br]]アンジールがフィールドからブレイクゾーンに置かれたとき、アンジールをゲームから除外してもよい。そうしたとき、フォワード1体を選ぶ。それのパワーを+3000する(この効果はターン終了時に終わらない)。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-060R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-060R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4455,
+        "code": "28-061R",
+        "image": "{\"1\": {\"alt\": \"28-061R\", \"title\": \"28-061R\", \"filename\": \"images/cards/full/28-061R_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "FFBE",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Wylk",
+        "type_en": "Forward",
+        "job_en": "Warrior of the Crystal",
+        "text_en": "[[ex]]EX BURST[[/]] When Wylk enters the field, choose 1 Forward opponent controls. Deal it 4000 damage for each 《C》 you have.[[br]]When Wylk attacks, Wylk gains +1000 power for each 《C》 you have until the end of the turn.",
+        "name_ja": "ヴィルク",
+        "type_ja": "フォワード",
+        "job_ja": "クリスタルの戦士",
+        "text_ja": "[[ex]]EX BURST[[/]][[b]] [[/]]ヴィルクがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それにあなたが持っている《C》1つにつき、4000ダメージを与える。[[br]]ヴィルクがアタックしたとき、ターン終了時までヴィルクのパワーをあなたが持っている《C》1つにつき、+1000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-061R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-061R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4456,
+        "code": "28-062C",
+        "image": "{\"1\": {\"alt\": \"28-062C\", \"title\": \"28-062C\", \"filename\": \"images/cards/full/28-062C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "7",
+        "power": "8000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Vincent",
+        "type_en": "Forward",
+        "job_en": "Gunslinger",
+        "text_en": "[[ex]]EX BURST[[/]] When Vincent enters the field, choose 1 dull Forward. Break it. Gain 《C》.[[br]]《C》: Vincent gains First Strike until the end of the turn.",
+        "name_ja": "ヴィンセント",
+        "type_ja": "フォワード",
+        "job_ja": "ガンナー",
+        "text_ja": "[[ex]]EX BURST[[/]][[b]] [[/]]ヴィンセントがフィールドに出たとき、ダル状態のフォワード1体を選ぶ。それをブレイクする。《C》を得る。[[br]]《C》：ターン終了時までヴィンセントは先制攻撃を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-062C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-062C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4457,
+        "code": "28-063H",
+        "image": "{\"1\": {\"alt\": \"28-063H\", \"title\": \"28-063H\", \"filename\": \"images/cards/full/28-063H_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Kirin",
+        "type_en": "Forward",
+        "job_en": "Kirin",
+        "text_en": "When Kirin enters the field, you may remove 4 Forwards of cost 4, each of a different Element in your Break Zone from the game. When you do so, break all the Forwards opponent controls.",
+        "name_ja": "麒麟",
+        "type_ja": "フォワード",
+        "job_ja": "麒麟",
+        "text_ja": "麒麟がフィールドに出たとき、あなたのブレイクゾーンにあるそれぞれ属性の違うコスト4のフォワード4枚をゲームから除外してもよい。そうしたとき、対戦相手のコントロールするすべてのフォワードをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-063H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-063H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4458,
+        "code": "28-064H",
+        "image": "{\"1\": {\"alt\": \"28-064H\", \"title\": \"28-064H\", \"filename\": \"images/cards/full/28-064H_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Cactuar",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Select up to 2 of the 2 following actions. If you selected 2 actions, the cost required to cast Cactuar is increased by 《C》.[[br]]\"Choose 1 Forward. If it has entered the field other than from any player's hand this turn, break it.\"[[br]]\"Choose 1 Forward. It gains ‘This Forward cannot attack or block.’ until the end of the turn. Draw 1 card.\"",
+        "name_ja": "サボテンダー",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "以下から最大2つまで選択する。2つ選択した場合、サボテンダーをキャストするためのコストは《C》増える。[[br]]・フォワード1体を選ぶ。このターン、それが手札以外からフィールドに出ていた場合、それをブレイクする。[[br]]・フォワード1体を選ぶ。ターン終了時までそれに「自身はアタックやブロックできない。」を与える。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-064H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-064H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4459,
+        "code": "28-065R",
+        "image": "{\"6\": {\"alt\": \"28-065R\", \"title\": \"28-065R\", \"filename\": \"images/cards/full/28-065R_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "0",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Cid Pollendina",
+        "type_en": "Backup",
+        "job_en": "Engineer",
+        "text_en": "When Cid Pollendina enters the field, you may search for 1 [[i]]Category IV[[/]] Forward and add it to your hand.",
+        "name_ja": "シド・ポレンディーナ",
+        "type_ja": "バックアップ",
+        "job_ja": "技師",
+        "text_ja": "シド・ポレンディーナがフィールドに出たとき、【カテゴリ(IV)】のフォワード1枚をサーチし、手札に加えてもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-065R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-065R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-065R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-065R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4460,
+        "code": "28-066C",
+        "image": "{\"1\": {\"alt\": \"28-066C\", \"title\": \"28-066C\", \"filename\": \"images/cards/full/28-066C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "4000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "White Mage",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When White Mage enters the field, you may pay 《C》. When you do so, choose 1 Forward in your Break Zone. Add it to your hand.",
+        "name_ja": "白魔道士",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "白魔道士がフィールドに出たとき、あなたは《C》を支払ってもよい。そうしたとき、あなたのブレイクゾーンにあるフォワード1枚を選ぶ。それを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-066C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-066C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4461,
+        "code": "28-067C",
+        "image": "{\"6\": {\"alt\": \"28-067C\", \"title\": \"28-067C\", \"filename\": \"images/cards/full/28-067C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "0",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Despachiaire",
+        "type_en": "Backup",
+        "job_en": "Elder",
+        "text_en": "When Despachiaire enters the field, reveal the top 5 cards of your deck. Add up to 2 [[i]]Category XI[[/]] cards among them to your hand and return the other cards to the bottom of your deck in any order.",
+        "name_ja": "デスパシエール",
+        "type_ja": "バックアップ",
+        "job_ja": "長老",
+        "text_ja": "デスパシエールがフィールドに出たとき、デッキのカードを上から5枚公開する。その中から【カテゴリ(XI)】のカードを最大2枚まで手札に加え、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-067C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-067C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-067C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-067C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4462,
+        "code": "28-068R",
+        "image": "{\"1\": {\"alt\": \"28-068R\", \"title\": \"28-068R\", \"filename\": \"images/cards/full/28-068R_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "6000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Flowering Cactoid",
+        "type_en": "Monster",
+        "job_en": "Cactus",
+        "text_en": "《0》: Until the end of the turn, Flowering Cactoid also becomes a Forward with 6000 power and \"Flowering Cactoid cannot be chosen by Summons or abilities.\" You can only use this ability once per turn.[[br]][[i]]Damage 5 --[[/]] At the end of each of your turns, you may put Flowering Cactoid into the Break Zone. When you do so, choose 1 Forward opponent controls. Deal it 10000 damage.",
+        "name_ja": "花サボテン",
+        "type_ja": "モンスター",
+        "job_ja": "サボテン",
+        "text_ja": "《0》：ターン終了時まで花サボテンは「花サボテンは召喚獣やアビリティによっては選ばれない。」を持つパワー6000のフォワードとしても扱う。このアビリティは1ターンに1度しか使えない。[[br]][[i]]Damage 5 --[[/]] あなたのターン終了時、花サボテンをブレイクゾーンに置いてもよい。そうしたとき、対戦相手のコントロールするフォワード1体を選ぶ。それに10000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-068R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-068R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4463,
+        "code": "28-069L",
+        "image": "{\"6\": {\"alt\": \"28-069L\", \"title\": \"28-069L\", \"filename\": \"images/cards/full/28-069L_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "L",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Prishe",
+        "type_en": "Forward",
+        "job_en": "Abhorrent One/Monk",
+        "text_en": "Before paying the cost to cast Prishe, you can remove 1 [[i]]Card Name Prishe[[/]] in your Break Zone from the game to reduce the cost required to cast Prishe by 5.[[br]]When Prishe enters the field, choose 1 Forward opponent controls. Prishe and the chosen Forward deal damage equal to their respective power to the other.[[br]][[s]]Psychoanima[[/]] 《S》: Prishe gains \"Prishe cannot be broken.\" until the end of the turn.",
+        "name_ja": "プリッシュ",
+        "type_ja": "フォワード",
+        "job_ja": "忌むべき子/モンク",
+        "text_ja": "プリッシュをキャストするに際し、あなたのブレイクゾーンにある【カード名(プリッシュ)】1枚をゲームから除外することでキャストするためのコストは5減る。[[br]]プリッシュがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それとプリッシュはお互いのパワーに等しいダメージを与えあう。[[br]][[s]]剛体香 [[/]]《S》：ターン終了時までプリッシュは「プリッシュはブレイクされない。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-069L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-069L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-069L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-069L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4464,
+        "code": "28-070C",
+        "image": "{\"1\": {\"alt\": \"28-070C\", \"title\": \"28-070C\", \"filename\": \"images/cards/full/28-070C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "FFCC",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Mira",
+        "type_en": "Forward",
+        "job_en": "Dark Lord",
+        "text_en": "When Mira enters the field, select 1 of the 2 following actions.[[br]]\"Play 1 Monster of cost 4 or less from your hand onto the field.\"[[br]]\"Reveal the top 5 cards of your deck. Add 1 Monster among them to your hand and return the other cards to the bottom of your deck in any order.\"",
+        "name_ja": "ミラ",
+        "type_ja": "フォワード",
+        "job_ja": "魔王",
+        "text_ja": "ミラがフィールドに出たとき、以下から1つを選択する。[[br]]・あなたの手札からコスト4以下のモンスター1枚をフィールドに出す。[[br]]・デッキのカードを上から5枚公開する。その中からモンスター1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-070C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-070C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4465,
+        "code": "28-071H",
+        "image": "{\"6\": {\"alt\": \"28-071H\", \"title\": \"28-071H\", \"filename\": \"images/cards/full/28-071H_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "3",
+        "power": "9000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Yang",
+        "type_en": "Forward",
+        "job_en": "Monk",
+        "text_en": "You can only pay with CP produced by Backups to cast Yang.[[br]]When Yang enters the field, you may discard any number of cards. When you do so, choose up to the same number of Forwards opponent controls as the discarded cards. Deal them 9000 damage.",
+        "name_ja": "ヤン",
+        "type_ja": "フォワード",
+        "job_ja": "モンク",
+        "text_ja": "ヤンをキャストするためのコストはフィールドにあるバックアップから生み出されるCPでしか支払えない。[[br]]ヤンがフィールドに出たとき、手札を好きな枚数捨ててもよい。そうしたとき、捨てた枚数と同じ数までの対戦相手のコントロールするフォワードを選ぶ。それらに9000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-071H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-071H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-071H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-071H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4466,
+        "code": "28-072L",
+        "image": "{\"6\": {\"alt\": \"28-072L\", \"title\": \"28-072L\", \"filename\": \"images/cards/full/28-072L_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "5000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Rydia",
+        "type_en": "Forward",
+        "job_en": "Summoner",
+        "text_en": "During your opponent's turn, all the Forwards you control gain +2000 power.[[br]]《0》: Choose 1 [[i]]Category IV[[/]] Forward you control. Rydia and it gain \"This Forward cannot be chosen by your opponent's Summons or abilities.\" until the end of your opponent's turn. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "リディア",
+        "type_ja": "フォワード",
+        "job_ja": "召喚士",
+        "text_ja": "対戦相手のターン中、あなたのコントロールするフォワードのパワーを+2000する。[[br]]《0》：あなたのコントロールする【カテゴリ(IV)】のフォワード1体を選ぶ。対戦相手のターン終了時までそれとリディアは「自身は対戦相手の召喚獣やアビリティによっては選ばれない。」を得る。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-072L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-072L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-072L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-072L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4467,
+        "code": "28-073H",
+        "image": "{\"6\": {\"alt\": \"28-073H\", \"title\": \"28-073H\", \"filename\": \"images/cards/full/28-073H_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "4000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Rydia",
+        "type_en": "Forward",
+        "job_en": "Summoner",
+        "text_en": "When Rydia enters the field, reveal the top 2 cards of your deck. Add 1 [[i]]Category IV[[/]] card among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]《ダル》, put Rydia into the Break Zone: Choose 1 [[i]]Category IV[[/]] Forward. It gains +2000 power until the end of the turn.",
+        "name_ja": "リディア",
+        "type_ja": "フォワード",
+        "job_ja": "召喚士",
+        "text_ja": "リディアがフィールドに出たとき、デッキのカードを上から2枚公開する。その中から【カテゴリ(IV)】のカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]《ダル》、リディアをブレイクゾーンに置く：【カテゴリ(IV)】のフォワード1体を選ぶ。ターン終了時までそれのパワーを+2000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-073H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-073H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-073H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-073H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4468,
+        "code": "28-074C",
+        "image": "{\"1\": {\"alt\": \"28-074C\", \"title\": \"28-074C\", \"filename\": \"images/cards/full/28-074C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Rikku",
+        "type_en": "Forward",
+        "job_en": "Gullwings/White Mage",
+        "text_en": "When Rikku enters the field, choose 1 [[i]]Category X[[/]] Forward of cost 2 or less in your Break Zone. You may play it onto the field. If you do so, Rikku deals you 1 point of damage.",
+        "name_ja": "リュック",
+        "type_ja": "フォワード",
+        "job_ja": "カモメ団/白魔道士",
+        "text_ja": "リュックがフィールドに出たとき、あなたのブレイクゾーンにあるコスト2以下の【カテゴリ(X)】のフォワード1枚を選ぶ。それをフィールドに出してもよい。そうした場合、リュックはあなたに1点のダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-074C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-074C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4469,
+        "code": "28-075C",
+        "image": "{\"1\": {\"alt\": \"28-075C\", \"title\": \"28-075C\", \"filename\": \"images/cards/full/28-075C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "FFCC",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Lilty",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Lilty enters the field, gain 《C》.[[br]]《土》《ダル》, put Lilty into the Break Zone: Gain 《C》.",
+        "name_ja": "リルティ",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "リルティがフィールドに出たとき、《C》を得る。[[br]]《土》《ダル》、リルティをブレイクゾーンに置く：《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-075C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-075C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4470,
+        "code": "28-076C",
+        "image": "{\"1\": {\"alt\": \"28-076C\", \"title\": \"28-076C\", \"filename\": \"images/cards/full/28-076C_eg.jpg\"}}",
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "PICTLOGICA &middot; FFCC",
+        "category_2": "FFCC",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Layle",
+        "type_en": "Forward",
+        "job_en": "Crystal Bearer",
+        "text_en": "If Layle is dealt damage, the damage becomes 0 instead.[[br]]《1》: Layle gains \"Layle cannot block.\" until the end of the turn. Each player can use this ability.",
+        "name_ja": "レイル",
+        "type_ja": "フォワード",
+        "job_ja": "クリスタルベアラー",
+        "text_ja": "レイルにダメージが与えられる場合、代わりにそのダメージは0になる。[[br]]《1》：ターン終了時までレイルは「レイルはフォワードをブロックできない。」を得る。このアビリティはすべてのプレイヤーが使用できる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-076C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-076C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4471,
+        "code": "28-077R",
+        "image": "{\"1\": {\"alt\": \"28-077R\", \"title\": \"28-077R\", \"filename\": \"images/cards/full/28-077R_eg.jpg\"}}",
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Wicked Thunder",
+        "type_en": "Forward",
+        "job_en": "Arcadion Fighter",
+        "text_en": "When Wicked Thunder enters the field, each player selects 1 Forward of cost 3 or more they control. Break them.[[br]][[i]]Damage 3 --[[/]] Wicked Thunder gains \"Wicked Thunder cannot be broken by abilities that don't deal damage.\"",
+        "name_ja": "ウィケッドサンダー",
+        "type_ja": "フォワード",
+        "job_ja": "アルカディアの闘士",
+        "text_ja": "ウィケッドサンダーがフィールドに出たとき、すべてのプレイヤーは自分のコントロールするコスト3以上のフォワード1体を選択する。それらをブレイクする。[[br]][[i]]Damage 3 -- [[/]]ウィケッドサンダーは「ウィケッドサンダーはアビリティによってはブレイクされない(パワー以上のダメージを受けている場合、ルールによってブレイクされる)。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-077R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-077R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4472,
+        "code": "28-078H",
+        "image": "{\"4\": {\"alt\": \"28-078H\", \"title\": \"28-078H\", \"filename\": \"images/cards/full/28-078H_eg.jpg\"}}",
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "7000",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Ulmia",
+        "type_en": "Forward",
+        "job_en": "Bard",
+        "text_en": "When Ulmia enters the field, you may search for 1 Character of cost 6 or more and add it to your hand.[[br]]《0》: Choose 1 Forward of cost 6 or more. It gains Haste until the end of the turn. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ウルミア",
+        "type_ja": "フォワード",
+        "job_ja": "吟遊詩人",
+        "text_ja": "ウルミアがフィールドに出たとき、コスト6以上のキャラクターカード1枚をサーチし、手札に加えてもよい。[[br]]《0》：コスト6以上のフォワード1体を選ぶ。ターン終了時までそれにヘイストを与える。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-078H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-078H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-078H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-078H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4473,
+        "code": "28-079C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "FFBE",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Elena (FFBE)",
+        "type_en": "Forward",
+        "job_en": "Warrior of the Crystal",
+        "text_en": "When Elena (FFBE) is put from the field into the Break Zone, gain 《C》.[[br]]《C》: Choose 1 [[i]]Category FFBE[[/]] Forward. Until the end of the turn, it gains +2000 power and Haste.",
+        "name_ja": "エレナ",
+        "type_ja": "フォワード",
+        "job_ja": "クリスタルの戦士",
+        "text_ja": "エレナがフィールドからブレイクゾーンに置かれたとき、《C》を得る。[[br]]《C》：【カテゴリ(FFBE)】のフォワード1体を選ぶ。ターン終了時までそれのパワーを+2000し、ヘイストを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-079C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-079C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4474,
+        "code": "28-080C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "0",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Gurdy",
+        "type_en": "Backup",
+        "job_en": "Moogle",
+        "text_en": "When Gurdy enters the field, choose 1 [[i]]Category MBM[[/]] Character in your Break Zone. Add it to your hand.[[br]]《雷》《ダル》: Choose 1 Forward opponent controls. If its cost is equal to or less than the number of [[i]]Category MBM[[/]] Characters you control, break it and Gurdy.",
+        "name_ja": "ガーディ",
+        "type_ja": "バックアップ",
+        "job_ja": "モーグリ",
+        "text_ja": "ガーディがフィールドに出たとき、あなたのブレイクゾーンにある【カテゴリ(MBM)】のキャラクターカード1枚を選ぶ。それを手札に加える。[[br]]《雷》《ダル》：対戦相手のコントロールするフォワード1体を選ぶ。それのコストがあなたのコントロールする【カテゴリ(MBM)】のキャラクターの数以下の場合、それとガーディをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-080C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-080C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4475,
+        "code": "28-081L",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Kain",
+        "type_en": "Forward",
+        "job_en": "Dragoon",
+        "text_en": "[[i]]Warp 1 --[[/]] 《雷》《雷》[[br]]When Kain enters the field by Summons or abilities, choose 1 Forward opponent controls. Break it.[[br]][[i]]Damage 3 --[[/]] Kain gains +1000 power, Haste and First Strike.[[br]][[s]]Jump[[/]] 《S》: Remove Kain from the game. Play Kain onto the field at the end of the turn.",
+        "name_ja": "カイン",
+        "type_ja": "フォワード",
+        "job_ja": "竜騎士",
+        "text_ja": "[[i]]デジョン 1 -- [[/]]《雷》《雷》[[br]]カインが召喚獣やアビリティによってフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それをブレイクする。[[br]][[i]]Damage 3 --[[/]] カインのパワーは+1000され、ヘイストと先制攻撃を得る。[[br]][[s]]ジャンプ[[/]] 《S》：カインをゲームから除外する。ターン終了時にカインをフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-081L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-081L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-081L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-081L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4476,
+        "code": "28-082R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Cait Sith",
+        "type_en": "Backup",
+        "job_en": "Spy",
+        "text_en": "[[ex]]EX BURST[[/]] When Cait Sith enters the field, choose 1 Forward opponent controls. Dull it. Draw 1 card.",
+        "name_ja": "ケットシー",
+        "type_ja": "バックアップ",
+        "job_ja": "スパイ",
+        "text_ja": "[[ex]]EX BURST[[/]] ケットシーがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それをダルにする。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-082R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-082R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4477,
+        "code": "28-083C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "FFTS",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Onion Knight (FFTS)",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Onion Knight (FFTS) enters the field, gain 《C》.[[br]]《雷》《ダル》, put Onion Knight (FFTS) into the Break Zone: Gain 《C》.",
+        "name_ja": "たまねぎ剣士 ［FFTS］",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "たまねぎ剣士 ［FFTS］がフィールドに出たとき、《C》を得る。[[br]]《雷》《ダル》、たまねぎ剣士 ［FFTS］をブレイクゾーンに置く：《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-083C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-083C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-083C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-083C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4478,
+        "code": "28-084R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "6",
+        "power": "8000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Nono",
+        "type_en": "Forward",
+        "job_en": "Moogle",
+        "text_en": "The cost required to cast Nono is reduced by 1 for each [[i]]Category MBM[[/]] Character you control.[[br]]When Nono enters the field, choose 1 Forward opponent controls. Break it.",
+        "name_ja": "ノノ",
+        "type_ja": "フォワード",
+        "job_ja": "モーグリ",
+        "text_ja": "ノノをキャストするためのコストはあなたのコントロールする【カテゴリ(MBM)】のキャラクター1体につき、1減る。[[br]]ノノがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-084R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-084R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4479,
+        "code": "28-085C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Baknamy",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "《ダル》, put Baknamy into the Break Zone: Choose 1 Forward of cost 3 or less. Break it. You can only use this ability during your turn and if you control 5 or more Backups.",
+        "name_ja": "バクナムス族",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "《ダル》、バクナムス族をブレイクゾーンに置く：コスト3以下のフォワード1体を選ぶ。それをブレイクする。このアビリティはあなたのターンにしか使えず、あなたがバックアップを5体以上コントロールしている場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-085C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-085C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4480,
+        "code": "28-086R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Basch",
+        "type_en": "Forward",
+        "job_en": "Judge",
+        "text_en": "If you control 5 or more [[i]]Category MBM[[/]] Characters, Basch gains +5000 power and Brave.[[br]]Discard 1 [[i]]Category MBM[[/]] Character: Basch gains +5000 power until the end of the turn.",
+        "name_ja": "バッシュ",
+        "type_ja": "フォワード",
+        "job_ja": "ジャッジ",
+        "text_ja": "あなたが【カテゴリ(MBM)】のキャラクターを5体以上コントロールしている場合、バッシュのパワーは+5000され、ブレイブを得る。[[br]]【カテゴリ(MBM)】のキャラクターカードを1枚捨てる：ターン終了時までバッシュのパワーを+5000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-086R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-086R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4481,
+        "code": "28-087H",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Bahamut SIN",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Select up to 2 of the 2 following actions. If you selected 2 actions, the cost required to cast Bahamut SIN is increased by 《C》《C》.[[br]]\"Choose 1 active Forward. Break it.\"[[br]]\"Choose 1 Forward of cost 3 or less. Break it.\"",
+        "name_ja": "バハムート震",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "以下から最大2つまで選択する。2つ選択した場合、バハムート震をキャストするためのコストは《C》《C》増える。[[br]]・アクティブ状態のフォワード1体を選ぶ。それをブレイクする。[[br]]・コスト3以下のフォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-087H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-087H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-087H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-087H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4482,
+        "code": "28-088H",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Balthier",
+        "type_en": "Forward",
+        "job_en": "Sky Pirate",
+        "text_en": "Haste[[br]]When Balthier attacks, choose 1 Forward. If you control 5 or more [[i]]Category MBM[[/]] Characters, it gains Haste until the end of the turn.[[br]]When a [[i]]Category MBM[[/]] Forward you control attacks, choose 1 Forward. Dull it.",
+        "name_ja": "バルフレア",
+        "type_ja": "フォワード",
+        "job_ja": "空賊",
+        "text_ja": "ヘイスト[[br]]バルフレアがアタックしたとき、フォワード1体を選ぶ。あなたが【カテゴリ(MBM)】のキャラクターを5体以上コントロールしている場合、ターン終了時までそれにヘイストを与える。[[br]]あなたのコントロールする【カテゴリ(MBM)】のフォワード1体がアタックするたび、フォワード1体を選ぶ。それをダルにする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-088H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-088H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4483,
+        "code": "28-089C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "FFCC",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Palom",
+        "type_en": "Forward",
+        "job_en": "Black Mage",
+        "text_en": "When Palom enters the field, you may pay 《C》. When you do so, choose 1 Forward of cost 4 or less. Deal it 8000 damage.",
+        "name_ja": "パロム",
+        "type_ja": "フォワード",
+        "job_ja": "黒魔道士",
+        "text_ja": "パロムがフィールドに出たとき、あなたは《C》を支払ってもよい。そうしたとき、コスト4以下のフォワード1体を選ぶ。それに8000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-089C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-089C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4484,
+        "code": "28-090C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "5000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Fran",
+        "type_en": "Forward",
+        "job_en": "Sky Pirate",
+        "text_en": "When Fran enters the field, choose 1 [[i]]Category MBM[[/]] Forward other than [[i]]Card Name Fran[[/]] in your Break Zone. Add it to your hand.[[br]]《雷》《雷》: Play 1 [[i]]Card Name Balthier[[/]] from your hand onto the field.",
+        "name_ja": "フラン",
+        "type_ja": "フォワード",
+        "job_ja": "空賊",
+        "text_ja": "フランがフィールドに出たとき、あなたのブレイクゾーンにある【カード名(フラン)】以外の【カテゴリ(MBM)】のフォワード1枚を選ぶ。それを手札に加える。[[br]]《雷》《雷》：あなたの手札から【カード名(バルフレア)】1枚をフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-090C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-090C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4485,
+        "code": "28-091R",
+        "image": "{\"1\": {\"alt\": \"28-091R\", \"title\": \"28-091R\", \"filename\": \"images/cards/full/28-091R_eg.jpg\"}}",
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "6000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Vorpal Bunny",
+        "type_en": "Monster",
+        "job_en": "Dreamhare",
+        "text_en": "When Vorpal Bunny enters the field, choose 1 Forward of cost 3 or less opponent controls. Put the top card of your deck into the Break Zone. If the card put into the Break Zone is not a Forward, break the chosen Forward.[[br]]《0》: Until the end of the turn, Vorpal Bunny also becomes a Forward with 6000 power. You can only use this ability once per turn.",
+        "name_ja": "ボーパルバニー",
+        "type_ja": "モンスター",
+        "job_ja": "キャピトゥーン",
+        "text_ja": "ボーパルバニーがフィールドに出たとき、対戦相手のコントロールするコスト3以下のフォワード1体を選ぶ。あなたはデッキの1番上のカードをブレイクゾーンに置く。ブレイクゾーンに置かれたカードがフォワード以外の場合、それをブレイクする。[[br]]《0》：ターン終了時までボーパルバニーはパワー6000のフォワードとしても扱う。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-091R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-091R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4486,
+        "code": "28-092C",
+        "image": "{\"1\": {\"alt\": \"28-092C\", \"title\": \"28-092C\", \"filename\": \"images/cards/full/28-092C_eg.jpg\"}}",
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "0",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Montblanc",
+        "type_en": "Backup",
+        "job_en": "Moogle",
+        "text_en": "When Montblanc enters the field, you may play 1 [[i]]Category MBM[[/]] Character of cost 3 or less from your hand onto the field.[[br]]《ダル》, discard 1 [[i]]Category MBM[[/]] Character: Choose 1 Forward. Deal it 4000 damage.",
+        "name_ja": "モンブラン",
+        "type_ja": "バックアップ",
+        "job_ja": "モーグリ",
+        "text_ja": "モンブランがフィールドに出たとき、あなたの手札からコスト3以下の【カテゴリ(MBM)】のキャラクターカード1枚をフィールドに出してもよい。[[br]]《ダル》、【カテゴリ(MBM)】のキャラクターカードを1枚捨てる：フォワード1体を選ぶ。それに4000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-092C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-092C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4487,
+        "code": "28-093H",
+        "image": "{\"1\": {\"alt\": \"28-093H\", \"title\": \"28-093H\", \"filename\": \"images/cards/full/28-093H_eg.jpg\"}}",
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "XIII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Lightning",
+        "type_en": "Forward",
+        "job_en": "Savior",
+        "text_en": "When Lightning enters the field, reveal the top 5 cards of your deck. Add all the [[i]]Card Name Odin[[/]] and [[i]]Card Name Lightning[[/]] among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]When Lightning enters the field or attacks, you may discard 1 card. When you do so, choose 1 Forward. Break it. If the discarded card is a [[i]]Card Name Lightning[[/]], also draw 1 card.",
+        "name_ja": "ライトニング",
+        "type_ja": "フォワード",
+        "job_ja": "解放者",
+        "text_ja": "ライトニングがフィールドに出たとき、デッキのカードを上から5枚公開する。その中から【カード名(オーディン)】と【カード名(ライトニング)】をすべて手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]ライトニングがフィールドに出るかアタックしたとき、手札を1枚捨ててもよい。そうしたとき、フォワード1体を選ぶ。それをブレイクする。捨てたカードが【カード名(ライトニング)】の場合、追加でカードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-093H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-093H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4488,
+        "code": "28-094C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Dragoon",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Dragoon enters the field, you may pay 《C》. When you do so, choose 1 Forward of cost 5 or less. Break it.",
+        "name_ja": "竜騎士",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "竜騎士がフィールドに出たとき、あなたは《C》を支払ってもよい。そうしたとき、コスト5以下のフォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-094C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-094C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4489,
+        "code": "28-095L",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "L",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "XIII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Lumina",
+        "type_en": "Forward",
+        "job_en": "Mysterious Woman",
+        "text_en": "[[ex]]EX BURST[[/]] When Lumina enters the field, choose 1 Forward opponent controls. If its cost is equal to or less than the number of [[i]]Category XIII[[/]] Characters you control, break it.[[br]]《ダル》, discard 1 [[i]]Category XIII[[/]] card: Choose 1 [[i]]Category XIII[[/]] card in your Break Zone. Add it to your hand. You can only use this ability once per turn.",
+        "name_ja": "ルミナ",
+        "type_ja": "フォワード",
+        "job_ja": "謎の女",
+        "text_ja": "[[ex]]EX BURST [[/]]ルミナがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それのコストがあなたのコントロールする【カテゴリ(XIII)】のキャラクターの数以下の場合、それをブレイクする。[[br]]《ダル》、【カテゴリ(XIII)】のカードを1枚捨てる：あなたのブレイクゾーンにある【カテゴリ(XIII)】のカード1枚を選ぶ。それを手札に加える。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-095L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-095L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-095L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-095L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4490,
+        "code": "28-096H",
+        "image": "{\"1\": {\"alt\": \"28-096H\", \"title\": \"28-096H\", \"filename\": \"images/cards/full/28-096H_eg.jpg\"}}",
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "0",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Alexander",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Select up to 2 of the 2 following actions. If you selected 2 actions, the cost required to cast Alexander is increased by 《C》.[[br]]\"During this turn, if a Forward you control is dealt damage, reduce the damage by 2000 instead.\"[[br]]\"Activate all the Forwards you control.\"",
+        "name_ja": "アレキサンダー",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "以下から最大2つまで選択する。2つ選択した場合、アレキサンダーをキャストするためのコストは《C》増える。[[br]]・このターン、あなたのコントロールするフォワードにダメージが与えられる場合、代わりにそのダメージは2000減る。[[br]]・あなたのコントロールするすべてのフォワードをアクティブにする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-096H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-096H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4491,
+        "code": "28-097H",
+        "image": "{\"1\": {\"alt\": \"28-097H\", \"title\": \"28-097H\", \"filename\": \"images/cards/full/28-097H_eg.jpg\"}}",
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Vaan",
+        "type_en": "Forward",
+        "job_en": "Sky Pirate",
+        "text_en": "When Vaan attacks, you may remove 3 [[i]]Category MBM[[/]] Characters in your Break Zone from the game. When you do so, activate Vaan and Vaan gains \"Vaan can attack twice in the same turn.\" until the end of the turn.[[br]]Discard 1 [[i]]Category MBM[[/]] Character: Draw 2 cards. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ヴァン",
+        "type_ja": "フォワード",
+        "job_ja": "空賊",
+        "text_ja": "ヴァンがアタックしたとき、あなたのブレイクゾーンにある【カテゴリ(MBM)】のキャラクターカード3枚をゲームから除外してもよい。そうしたとき、ヴァンをアクティブにし、ターン終了時までヴァンは「ヴァンは1ターンに2回アタックできる。」を得る。[[br]]【カテゴリ(MBM)】のキャラクターカードを1枚捨てる：カードを2枚引く。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-097H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-097H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4492,
+        "code": "28-098H",
+        "image": "{\"6\": {\"alt\": \"28-098H\", \"title\": \"28-098H\", \"filename\": \"images/cards/full/28-098H_eg.jpg\"}}",
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Garnet",
+        "type_en": "Forward",
+        "job_en": "Princess/Summoner",
+        "text_en": "[[ex]]EX BURST[[/]] When Garnet enters the field, reveal the top 5 cards of your deck. Add 1 [[i]]Category IX[[/]] card among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]The cost required for your opponent to cast Summons is increased by 1.[[br]][[i]]Damage 3 --[[/]] The cost required to cast your Summons is reduced by 1 (it cannot become 0).",
+        "name_ja": "ガーネット",
+        "type_ja": "フォワード",
+        "job_ja": "王女/召喚士",
+        "text_ja": "[[ex]]EX BURST [[/]]ガーネットがフィールドに出たとき、デッキのカードを上から5枚公開する。その中から【カテゴリ(IX)】のカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]対戦相手は召喚獣をキャストするためのコストが1増える。[[br]][[i]]Damage 3 --[[/]] あなたが召喚獣をキャストするためのコストは1減る(0にはならない)。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-098H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-098H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-098H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-098H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4493,
+        "code": "28-099C",
+        "image": "{\"6\": {\"alt\": \"28-099C\", \"title\": \"28-099C\", \"filename\": \"images/cards/full/28-099C_eg.jpg\"}}",
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "FFTS",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Musician",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "《ダル》, put Musician into the Break Zone: Choose 1 Forward opponent controls. Return it to its owner's hand. You can only use this ability during your turn and if you control 5 or more Backups.",
+        "name_ja": "楽士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "《ダル》、楽士をブレイクゾーンに置く：対戦相手のコントロールするフォワード1体を選ぶ。それを手札に戻す。このアビリティはあなたのターンにしか使えず、あなたがバックアップを5体以上コントロールしている場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-099C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-099C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-099C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-099C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4494,
+        "code": "28-100C",
+        "image": "{\"1\": {\"alt\": \"28-100C\", \"title\": \"28-100C\", \"filename\": \"images/cards/full/28-100C_eg.jpg\"}}",
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Sage",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Sage enters the field, gain 《C》.[[br]]《水》《ダル》, put Sage into the Break Zone: Gain 《C》.[[br]]",
+        "name_ja": "賢者",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "賢者がフィールドに出たとき、《C》を得る。[[br]]《水》《ダル》、賢者をブレイクゾーンに置く：《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-100C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-100C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4495,
+        "code": "28-101L",
+        "image": "{\"1\": {\"alt\": \"28-101L\", \"title\": \"28-101L\", \"filename\": \"images/cards/full/28-101L_eg.jpg\"}}",
+        "element": [
+            "水"
+        ],
+        "rarity": "L",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Steiner",
+        "type_en": "Forward",
+        "job_en": "Knight",
+        "text_en": "The [[i]]Category IX[[/]] Forwards other than Steiner you control gain \"This Forward cannot be chosen by your opponent's abilities.\"[[br]]When Steiner enters the field, choose 1 [[i]]Category IX[[/]] Character of cost 4 or less in your Break Zone. Play it onto the field.[[br]][[s]]Alert[[/]] 《S》: Until the end of the turn, Steiner gains \"Steiner cannot be chosen by your opponent's abilities.\"",
+        "name_ja": "スタイナー",
+        "type_ja": "フォワード",
+        "job_ja": "騎士",
+        "text_ja": "あなたのコントロールするスタイナー以外の【カテゴリ(IX)】のフォワードに「自身は対戦相手のアビリティによっては選ばれない。」を与える。[[br]]スタイナーがフィールドに出たとき、あなたのブレイクゾーンにあるコスト4以下の【カテゴリ(IX)】のキャラクターカード1枚を選ぶ。それをフィールドに出す。[[br]][[s]]警戒 [[/]]《S》：ターン終了時までスタイナーは「スタイナーは対戦相手のアビリティによっては選ばれない。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-101L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-101L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-101L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-101L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4496,
+        "code": "28-102R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "0",
+        "category_1": "I",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Princess Sarah",
+        "type_en": "Backup",
+        "job_en": "Princess",
+        "text_en": "When Princess Sarah enters the field, look at the top card of your deck. You may put it at the bottom of your deck. Then, draw 1 card. Gain 《C》.",
+        "name_ja": "セーラ姫",
+        "type_ja": "バックアップ",
+        "job_ja": "王女",
+        "text_ja": "セーラ姫がフィールドに出たとき、あなたのデッキの1番上のカードを見る。それをデッキの1番下に置いてもよい。その後、カードを1枚引く。《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-102R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-102R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4497,
+        "code": "28-103C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "3000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Astrologian",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Astrologian enters the field, look at the top 3 cards of your deck. Return them to the top of your deck in any order. Gain 《C》.[[br]]《1》《C》《ダル》: Draw 1 card.",
+        "name_ja": "占星術師",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "占星術師がフィールドに出たとき、あなたのデッキのカードを上から3枚見る。それらをデッキの1番上に好きな順番で置く。《C》を得る。[[br]]《1》《C》《ダル》：カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-103C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-103C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4498,
+        "code": "28-104C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Sorbet",
+        "type_en": "Backup",
+        "job_en": "Moogle",
+        "text_en": "While paying the cost to cast a [[i]]Category MBM[[/]] card, if Sorbet is on the field, Sorbet can produce CP of any Element.",
+        "name_ja": "ソルベ",
+        "type_ja": "バックアップ",
+        "job_ja": "モーグリ",
+        "text_ja": "ソルベがフィールドにいる場合、【カテゴリ(MBM)】のカードをキャストするに際し、ソルベはどの属性のCPでも生み出すことができる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-104C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-104C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4499,
+        "code": "28-105C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "PICTLOGICA &middot; XI",
+        "category_2": "XI",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Trion",
+        "type_en": "Forward",
+        "job_en": "Prince/Knight",
+        "text_en": "If you control a [[i]]Job Princess[[/]], the cost required to cast Trion is reduced by 2.[[br]]When Trion attacks, draw 1 card, then discard 1 card.",
+        "name_ja": "トリオン",
+        "type_ja": "フォワード",
+        "job_ja": "王子/騎士",
+        "text_ja": "あなたが【ジョブ(王女)】をコントロールしている場合、トリオンをキャストするためのコストは2減る。[[br]]トリオンがアタックしたとき、カードを1枚引き、その後手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-105C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-105C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4500,
+        "code": "28-106R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "0",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Hurdy",
+        "type_en": "Backup",
+        "job_en": "Moogle",
+        "text_en": "[[ex]]EX BURST[[/]] When Hurdy enters the field, you may search for 1 [[i]]Category MBM[[/]] Forward and add it to your hand.",
+        "name_ja": "ハーディ",
+        "type_ja": "バックアップ",
+        "job_ja": "モーグリ",
+        "text_ja": "[[ex]]EX BURST [[/]]ハーディがフィールドに出たとき、【カテゴリ(MBM)】のフォワード1枚をサーチし、手札に加えてもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-106R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-106R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4501,
+        "code": "28-107R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "6000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Pylraster",
+        "type_en": "Monster",
+        "job_en": "Dinosaur",
+        "text_en": "If a [[i]]Job Dinosaur[[/]] you control deals damage to a Forward, the damage increases by 5000 instead.[[br]]《0》: Until the end of the turn, Pylraster also becomes a Forward with 6000 power. You can only use this ability once per turn.",
+        "name_ja": "パイルラスタ",
+        "type_ja": "モンスター",
+        "job_ja": "恐竜",
+        "text_ja": "あなたのコントロールする【ジョブ(恐竜)】がフォワードにダメージを与える場合、代わりにそのダメージは5000多くなる。[[br]]《0》：ターン終了時までパイルラスタはパワー6000のフォワードとしても扱う。このアビリティは1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-107R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-107R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4502,
+        "code": "28-108R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "7000",
+        "category_1": "XIV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Honey B. Lovely",
+        "type_en": "Forward",
+        "job_en": "Arcadion Fighter",
+        "text_en": "When Honey B. Lovely enters the field, each player draws 1 card.[[br]][[i]]Damage 3 --[[/]] When Honey B. Lovely enters the field, your opponent randomly places 1 card from their hand at the bottom of their deck.",
+        "name_ja": "ハニー・B・ラブリー",
+        "type_ja": "フォワード",
+        "job_ja": "アルカディアの闘士",
+        "text_ja": "ハニー・B・ラブリーがフィールドに出たとき、すべてのプレイヤーはカードを1枚引く。[[br]][[i]]Damage 3 --[[/]] ハニー・B・ラブリーがフィールドに出たとき、対戦相手は無作為に手札を1枚デッキの1番下に置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-108R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-108R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4503,
+        "code": "28-109C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "5000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Penelo",
+        "type_en": "Forward",
+        "job_en": "Dancer/Sky Pirate",
+        "text_en": "When Penelo enters the field, reveal the top 5 cards of your deck. Add 1 [[i]]Category MBM[[/]] Character among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]Dull 3 active [[i]]Category MBM[[/]] Characters: Your opponent selects 1 Forward they control. Put it into the Break Zone.",
+        "name_ja": "パンネロ",
+        "type_ja": "フォワード",
+        "job_ja": "踊り子/空賊",
+        "text_ja": "パンネロがフィールドに出たとき、デッキのカードを上から5枚公開する。その中から【カテゴリ(MBM)】のキャラクターカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]アクティブ状態の【カテゴリ(MBM)】のキャラクター3体をダルにする：対戦相手は自分のコントロールするフォワード1体を選択する。それをブレイクゾーンに置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-109C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-109C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4504,
+        "code": "28-110C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Horne",
+        "type_en": "Backup",
+        "job_en": "Moogle",
+        "text_en": "When Horne enters the field, if you control 3 or more [[i]]Category MBM[[/]] Characters, draw 1 card.[[br]]《ダル》, put Horne into the Break Zone: Choose 1 [[i]]Category MBM[[/]] Forward. It gains +1000 power until the end of the turn.",
+        "name_ja": "ホルン",
+        "type_ja": "バックアップ",
+        "job_ja": "モーグリ",
+        "text_ja": "ホルンがフィールドに出たとき、あなたが【カテゴリ(MBM)】のキャラクターを3体以上コントロールしている場合、カードを1枚引く。[[br]]《ダル》、ホルンをブレイクゾーンに置く：【カテゴリ(MBM)】のフォワード1体を選ぶ。ターン終了時までそれのパワーを+1000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-110C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-110C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4505,
+        "code": "28-111H",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Yuna",
+        "type_en": "Forward",
+        "job_en": "Gullwings/Songstress",
+        "text_en": "When a Forward of an Element other than Water enters your field, choose 1 Forward opponent controls. It loses 4000 power until the end of the turn.[[br]]Dull active Yuna and 1 active [[i]]Category X[[/]] Character: Search for 1 [[i]]Job Gullwings[[/]] Forward and play it onto the field. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ユウナ",
+        "type_ja": "フォワード",
+        "job_ja": "カモメ団/歌姫",
+        "text_ja": "あなたのフィールドに水属性以外のフォワード1体が出るたび、対戦相手のコントロールするフォワード1体を選ぶ。ターン終了時までそれのパワーを－4000する。[[br]]アクティブ状態のユウナと【カテゴリ(X)】のキャラクター1体をダルにする：【ジョブ(カモメ団)】のフォワード1枚をサーチし、フィールドに出す。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-111H_2_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-111H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-111H_2_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-111H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4506,
+        "code": "28-112C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "3000",
+        "category_1": "DFF &middot; XI",
+        "category_2": "XI",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Lion",
+        "type_en": "Forward",
+        "job_en": "Girl",
+        "text_en": "If you control 5 or more Water Forwards, the Water Forwards you control gain +1000 power.[[br]]When Lion enters the field, you may play 1 Water Forward of cost 6 or less from your hand onto the field.",
+        "name_ja": "ライオン",
+        "type_ja": "フォワード",
+        "job_ja": "少女",
+        "text_ja": "あなたが水属性のフォワードを5体以上コントロールしている場合、あなたのコントロールする水属性のフォワードのパワーを+1000する。[[br]]ライオンがフィールドに出たとき、あなたの手札からコスト6以下の水属性のフォワード1枚をフィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-112C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-112C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4507,
+        "code": "28-113R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "5000",
+        "category_1": "PICTLOGICA &middot; IV",
+        "category_2": "IV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Leonora",
+        "type_en": "Forward",
+        "job_en": "Epopt",
+        "text_en": "When Leonora enters the field, draw 1 card, then discard 1 card. If the discarded card is a Summon, your opponent selects 1 Forward they control. Put it into the Break Zone.",
+        "name_ja": "レオノーラ",
+        "type_ja": "フォワード",
+        "job_ja": "神官",
+        "text_ja": "レオノーラがフィールドに出たとき、カードを1枚引き、その後手札を1枚捨てる。捨てたカードが召喚獣の場合、対戦相手は自分のコントロールするフォワード1体を選択する。それをブレイクゾーンに置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-113R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-113R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4508,
+        "code": "28-114L",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "L",
+        "cost": "6",
+        "power": "6000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Rosa",
+        "type_en": "Forward",
+        "job_en": "White Mage",
+        "text_en": "When Rosa enters the field, you may search for 1 [[i]]Category IV[[/]] Forward other than [[i]]Card Name Rosa[[/]] and add it to your hand. Then, you may play up to 2 [[i]]Category IV[[/]] Forwards with a total cost of 4 or less from your hand onto the field.",
+        "name_ja": "ローザ",
+        "type_ja": "フォワード",
+        "job_ja": "白魔道士",
+        "text_ja": "ローザがフィールドに出たとき、【カード名(ローザ)】以外の【カテゴリ(IV)】のフォワード1枚をサーチし、手札に加えてもよい。その後、あなたの手札からコストの合計が4以下になるように【カテゴリ(IV)】のフォワードを最大2枚までフィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-114L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-114L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-114L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-114L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4509,
+        "code": "28-115L",
+        "image": null,
+        "element": [
+            "光"
+        ],
+        "rarity": "L",
+        "cost": "2",
+        "power": "9000",
+        "category_1": "XIII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Lightning",
+        "type_en": "Forward",
+        "job_en": "Savior",
+        "text_en": "When Lightning in any zone is removed from the game, you may pay 《4》. When you do so, choose 1 Forward opponent controls. Remove it from the game.[[br]]《6》, remove Lightning in your Break Zone from the game: Search for 1 [[i]]Card Name Lightning[[/]] of cost 6 or less and play it onto the field. You can only use this ability during your turn and if Lightning is in the Break Zone.",
+        "name_ja": "ライトニング",
+        "type_ja": "フォワード",
+        "job_ja": "解放者",
+        "text_ja": "いずれかの領域にあるライトニングがゲームから除外されたとき、あなたは《4》を支払ってもよい。そうしたとき、対戦相手のコントロールするフォワード1体を選ぶ。それをゲームから除外する。[[br]]《6》、ブレイクゾーンにあるライトニングをゲームから除外する：コスト6以下の【カード名(ライトニング)】1枚をサーチし、フィールドに出す。このアビリティはあなたのターンにライトニングがブレイクゾーンにある場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-115L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-115L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-115L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-115L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4510,
+        "code": "28-116H",
+        "image": null,
+        "element": [
+            "光"
+        ],
+        "rarity": "H",
+        "cost": "1",
+        "power": "7000",
+        "category_1": "FFBE",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Louise",
+        "type_en": "Forward",
+        "job_en": "Warrior of the Crystal",
+        "text_en": "When a [[i]]Job Warrior of the Crystal[[/]] enters your field, you may remove Louise from the game. When you do so, gain 《C》. This effect will trigger only if Louise is in the Break Zone.[[br]]Discard Louise: Gain 《C》. You can only use this ability during your Main Phase and if Louise is in your hand.",
+        "name_ja": "ルイーズ",
+        "type_ja": "フォワード",
+        "job_ja": "クリスタルの戦士",
+        "text_ja": "あなたのフィールドに【ジョブ(クリスタルの戦士)】1体が出るたび、ルイーズをゲームから除外してもよい。そうしたとき、《C》を得る。このアビリティはルイーズがブレイクゾーンにある場合にしか発動しない。[[br]]ルイーズを手札から捨てる：《C》を得る。このアビリティはあなたのメインフェイズにルイーズが手札にある場合にしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-116H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-116H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4511,
+        "code": "28-117H",
+        "image": null,
+        "element": [
+            "闇"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "XII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Vayne",
+        "type_en": "Forward",
+        "job_en": "Consul",
+        "text_en": "Brave[[br]]Each player can only cast up to 2 cards per turn.[[br]]When Vayne is put from the field into the Break Zone, during this turn, your opponent cannot cast any cards.",
+        "name_ja": "ヴェイン",
+        "type_ja": "フォワード",
+        "job_ja": "執政官",
+        "text_ja": "ブレイブ[[br]]すべてのプレイヤーは1ターンにカードを2枚までしかキャストすることができない。[[br]]ヴェインがフィールドからブレイクゾーンに置かれたとき、このターン、対戦相手はカードをキャストすることができない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-117H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-117H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-117H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-117H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4512,
+        "code": "28-118L",
+        "image": null,
+        "element": [
+            "闇"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Golbez",
+        "type_en": "Forward",
+        "job_en": "Warlock",
+        "text_en": "When Golbez enters the field, you may search for 1 Monster of cost 3 or less and play it onto the field.[[br]]When a Monster enters your field, choose 1 Character. Dull it or activate it. This effect will trigger only once per turn.",
+        "name_ja": "ゴルベーザ",
+        "type_ja": "フォワード",
+        "job_ja": "魔人",
+        "text_ja": "ゴルベーザがフィールドに出たとき、コスト3以下のモンスター1枚をサーチし、フィールドに出してもよい。[[br]]あなたのフィールドにモンスターが出たとき、キャラクター1体を選ぶ。それをダルかアクティブにする。このアビリティは1ターンに1度しか発動しない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-118L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-118L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-118L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-118L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4513,
+        "code": "28-119R",
+        "image": null,
+        "element": [
+            "火",
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "5000",
+        "category_1": "XIII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Serah",
+        "type_en": "Forward",
+        "job_en": "Saboteur",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]When Serah enters the field, choose 1 Forward. If you control 3 or more Fire Characters, deal it 5000 damage.[[br]]When Serah enters the field, if you control 3 or more Ice Characters, your opponent discards 1 card.",
+        "name_ja": "セラ",
+        "type_ja": "フォワード",
+        "job_ja": "ジャマー",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]セラがフィールドに出たとき、フォワード1体を選ぶ。あなたが火属性のキャラクターを3体以上コントロールしている場合、それに5000ダメージを与える。[[br]]セラがフィールドに出たとき、あなたが氷属性のキャラクターを3体以上コントロールしている場合、対戦相手は手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-119R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-119R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4514,
+        "code": "28-120R",
+        "image": null,
+        "element": [
+            "氷",
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "5000",
+        "category_1": "FFTA",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Ritz",
+        "type_en": "Forward",
+        "job_en": "Fencer",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]When Ritz enters the field, gain 《C》.",
+        "name_ja": "リッツ",
+        "type_ja": "フォワード",
+        "job_ja": "フェンサー",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]リッツがフィールドに出たとき、《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-120R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-120R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-120R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-120R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4515,
+        "code": "28-121R",
+        "image": null,
+        "element": [
+            "風",
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Gilgamesh",
+        "type_en": "Forward",
+        "job_en": "Warrior",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]First Strike Brave",
+        "name_ja": "ギルガメッシュ",
+        "type_ja": "フォワード",
+        "job_ja": "戦士",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]先制攻撃 ブレイブ",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-121R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-121R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4516,
+        "code": "28-122R",
+        "image": null,
+        "element": [
+            "土",
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Rufus",
+        "type_en": "Forward",
+        "job_en": "President of Shinra",
+        "text_en": "[[i]]Limit Break -- 2[[/]][[br]]When Rufus enters the field, you may pay 《土》《雷》. When you do so, choose 1 [[i]]Category VII[[/]] Forward of cost 3 or less in your Break Zone. Play it onto the field.",
+        "name_ja": "ルーファウス",
+        "type_ja": "フォワード",
+        "job_ja": "神羅カンパニー社長",
+        "text_ja": "[[i]]Limit Break -- 2[[/]][[br]]ルーファウスがフィールドに出たとき、あなたは《土》《雷》を支払ってもよい。そうしたとき、あなたのブレイクゾーンにあるコスト3以下の【カテゴリ(VII)】のフォワード1枚を選ぶ。それをフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-122R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-122R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-122R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-122R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4517,
+        "code": "28-123R",
+        "image": "{\"1\": {\"alt\": \"28-123R\", \"title\": \"28-123R\", \"filename\": \"images/cards/full/28-123R_eg.jpg\"}}",
+        "element": [
+            "雷",
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "6",
+        "power": "8000",
+        "category_1": "MBM",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Ashe",
+        "type_en": "Forward",
+        "job_en": "Princess",
+        "text_en": "[[i]]Limit Break -- 2[[/]][[br]]When Ashe enters the field, reveal the top 5 cards of your deck. Add 1 [[i]]Category MBM[[/]] Character among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]At the beginning of the Attack Phase during each of your turns, you may pay 《1》. When you do so, play 1 [[i]]Category MBM[[/]] Character of cost 3 or less from your hand onto the field.",
+        "name_ja": "アーシェ",
+        "type_ja": "フォワード",
+        "job_ja": "王女",
+        "text_ja": "[[i]]Limit Break -- 2[[/]][[br]]アーシェがフィールドに出たとき、デッキのカードを上から5枚公開する。その中から【カテゴリ(MBM)】のキャラクターカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]あなたのアタックフェイズ開始時、あなたは《1》を支払ってもよい。そうしたとき、あなたの手札からコスト3以下の【カテゴリ(MBM)】のキャラクターカード1枚をフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-123R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-123R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4518,
+        "code": "28-124R",
+        "image": null,
+        "element": [
+            "水",
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "9",
+        "power": "8000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Dreamlike Oceans"
+        ],
+        "name_en": "Bahamut",
+        "type_en": "Forward",
+        "job_en": "Dragon",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]When Bahamut enters the field, choose 1 Forward. It loses 4000 power until the end of the turn.[[br]]When Bahamut enters the field, choose 1 Forward. Deal it 4000 damage.",
+        "name_ja": "バハムート",
+        "type_ja": "フォワード",
+        "job_ja": "竜",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]バハムートがフィールドに出たとき、フォワード1体を選ぶ。ターン終了時までそれのパワーを－4000する。[[br]]バハムートがフィールドに出たとき、フォワード1体を選ぶ。それに4000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/28-124R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/28-124R_eg.jpg"
             ]
         }
     },
@@ -116807,10 +121108,11 @@
         "power": "9000",
         "category_1": "V",
         "category_2": null,
-        "multicard": "0",
+        "multicard": "1",
         "ex_burst": "0",
         "set": [
-            "Opus VII"
+            "Opus VII",
+            "Dreamlike Oceans"
         ],
         "name_en": "Galuf",
         "type_en": "Forward",
@@ -116822,9 +121124,11 @@
         "text_ja": "あなたのターン中、ガラフはブレイクされない。[[br]] ガラフがアタックしたとき、フォワード1体を選ぶ。あなたは《土》《土》を支払ってもよい。そうした場合、このターン、それは可能ならばガラフをブロックしなければならない。[[br]][[s]]ストップ [[/]]《S》：フォワードを最大2体まで選ぶ。このターン、それらはアタックできない。",
         "images_en": {
             "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/7-067L_FL_eg.jpg",
                 "https://fftcg.cdn.sewest.net/images/cards/thumbs/7-067L_eg.jpg"
             ],
             "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/7-067L_FL_eg.jpg",
                 "https://fftcg.cdn.sewest.net/images/cards/full/7-067L_eg.jpg"
             ]
         }
