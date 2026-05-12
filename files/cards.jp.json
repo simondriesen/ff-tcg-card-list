@@ -103109,5 +103109,28 @@
                 "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-209.png"
             ]
         }
+    },
+    {
+        "code": "PR-210/20-090H",
+        "element_jp": "雷",
+        "name_jp": "グ・ラハ・ティア",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY XIV",
+        "original_title": "FINAL FANTASY XIV",
+        "category": "ff14",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "opus20/thunder.html",
+        "copyright": [
+            "&copy; 2010-2023 SQUARE ENIX CO., LTD. All Rights Reserved."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-210.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-210.png"
+            ]
+        }
     }
 ]
