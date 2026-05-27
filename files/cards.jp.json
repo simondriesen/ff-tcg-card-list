@@ -103132,5 +103132,155 @@
                 "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-210.png"
             ]
         }
+    },
+    {
+        "code": "PR-211/20-031R",
+        "element_jp": "氷",
+        "name_jp": "セリス",
+        "expansion_number": "",
+        "image_source": "CHARACTER ILLUSTRATION: Fumio Minagawa",
+        "original_title": "",
+        "category": "ff6|FumioMinagawa",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "opus20/ice.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Fumio Minagawa",
+            "FINAL FANTASY VI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-211.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-211.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-222/27-028H",
+        "element_jp": "氷",
+        "name_jp": "シーモア",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "opus27/ice.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-222.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-222.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-223/18-121L",
+        "element_jp": "風/土",
+        "name_jp": "フラン",
+        "expansion_number": "",
+        "image_source": "CHARACTER ILLUSTRATION: Ryoma Ito",
+        "original_title": "",
+        "category": "ff12rw|RyomaIto",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Ryoma Ito",
+            "FINAL FANTASY XII REVENANT WINGS"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-223.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-223.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-224/12-112L",
+        "element_jp": "火/氷",
+        "name_jp": "セルテウス",
+        "expansion_number": "",
+        "image_source": "CHARACTER ILLUSTRATION: Ryoma Ito",
+        "original_title": "",
+        "category": "ff11|RyomaIto",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Ryoma Ito",
+            "FINAL FANTASY XI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-224.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-224.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-225/12-116L",
+        "element_jp": "氷/風",
+        "name_jp": "ロック",
+        "expansion_number": "",
+        "image_source": "DISSIDIA FINAL FANTASY -Arcade-",
+        "original_title": "DISSIDIA FINAL FANTASY -Arcade-",
+        "category": "dffac",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "DISSIDIA FINAL FANTASY -Arcade-"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-225.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-225.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-226/16-116L",
+        "element_jp": "水",
+        "name_jp": "ティーダ",
+        "expansion_number": "",
+        "image_source": "CHARACTER ILLUSTRATION: Kumiko Koike",
+        "original_title": "",
+        "category": "dffac|KumikoKoike",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "opus16/aqua.html",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION:  Kumiko Koike",
+            "DISSIDIA FINAL FANTASY -Arcade-"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-226.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-226.png"
+            ]
+        }
     }
 ]
