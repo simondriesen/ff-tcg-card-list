@@ -103159,6 +103159,29 @@
         }
     },
     {
+        "code": "PR-212/29-095H",
+        "element_jp": "雷",
+        "name_jp": "ラムウ ［XVI］",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-212.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-212.png"
+            ]
+        }
+    },
+    {
         "code": "PR-222/27-028H",
         "element_jp": "氷",
         "name_jp": "シーモア",
@@ -103280,6 +103303,3081 @@
             ],
             "full": [
                 "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-226.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-228/25-035L",
+        "element_jp": "風",
+        "name_jp": "エアリス",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "opus25/wind.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-228.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-228.png"
+            ]
+        }
+    },
+    {
+        "code": "29-001R/26-003R",
+        "element_jp": "火",
+        "name_jp": "イフリート ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-001R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-001R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-002R",
+        "element_jp": "火",
+        "name_jp": "ウォル",
+        "expansion_number": "29",
+        "image_source": "MOBIUS FINAL FANTASY",
+        "original_title": "MOBIUS FINAL FANTASY",
+        "category": "mobiusff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yoko Tsukamoto"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-002R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-002R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-003R",
+        "element_jp": "火",
+        "name_jp": "キマイラ",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-003R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-003R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-004C",
+        "element_jp": "火",
+        "name_jp": "クライヴ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-004C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-004C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-005L",
+        "element_jp": "火",
+        "name_jp": "クラウド",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII",
+        "original_title": "FINAL FANTASY VII",
+        "category": "ff7",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-005L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-005L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-006C",
+        "element_jp": "火",
+        "name_jp": "侍",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-006C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-006C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-007C/15-007C",
+        "element_jp": "火",
+        "name_jp": "侍",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-007C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-007C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-008L",
+        "element_jp": "火",
+        "name_jp": "ジタン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9|RubiAsami",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Rubi Asami"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-008L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-008L_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-008L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-008L_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-009H",
+        "element_jp": "火",
+        "name_jp": "シド・ハイウインド",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-009H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-009H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-010C",
+        "element_jp": "火",
+        "name_jp": "ジョシュア",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-010C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-010C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-011H",
+        "element_jp": "火",
+        "name_jp": "ティファ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII",
+        "original_title": "FINAL FANTASY VII",
+        "category": "ff7",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-011H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-011H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-012H",
+        "element_jp": "火",
+        "name_jp": "ネオン",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo|LisaFujise",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Lisa Fujise"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-012H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-012H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-012H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-012H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-013H",
+        "element_jp": "火",
+        "name_jp": "バハムート",
+        "expansion_number": "29",
+        "image_source": "WORLD OF FINAL FANTASY",
+        "original_title": "WORLD OF FINAL FANTASY",
+        "category": "woff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/YASUHISA IZUMISAWA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-013H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-013H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-014R",
+        "element_jp": "火",
+        "name_jp": "パロム",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IV",
+        "original_title": "FINAL FANTASY IV",
+        "category": "ff4|ReoObata",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Reo Obata"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-014R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-014R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-014R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-014R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-015C",
+        "element_jp": "火",
+        "name_jp": "ファリス",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5|SaraShimokobe",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Sara Shimokobe"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-015C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-015C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-015C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-015C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-016R/26-018H",
+        "element_jp": "火",
+        "name_jp": "フェニックス ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-016R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-016R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-017C",
+        "element_jp": "火",
+        "name_jp": "ブラスカの究極召喚獣",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL BAR LINE",
+        "original_title": "THEATRHYTHM FINAL BAR LINE",
+        "category": "t_fbl",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-017C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-017C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-018C",
+        "element_jp": "火",
+        "name_jp": "ボム",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL FANTASY",
+        "original_title": "THEATRHYTHM FINAL FANTASY",
+        "category": "t_ff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-018C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-018C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-019C",
+        "element_jp": "火",
+        "name_jp": "ラァン",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-019C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-019C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-020R",
+        "element_jp": "氷",
+        "name_jp": "アストス",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo|GenKobayashi",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Gen Kobayashi"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-020R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-020R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-020R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-020R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-021R",
+        "element_jp": "氷",
+        "name_jp": "アルテマウェポンオリジン",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/ice.html",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-021R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-021R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-022R",
+        "element_jp": "氷",
+        "name_jp": "クレイクロウ",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-022R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-022R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-023C",
+        "element_jp": "氷",
+        "name_jp": "ゴブリン",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-023C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-023C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-024H",
+        "element_jp": "氷",
+        "name_jp": "シヴァ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9|YuyaIshihata",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yuya Ishihata"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-024H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-024H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-024H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-024H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-025R/26-029R",
+        "element_jp": "氷",
+        "name_jp": "シヴァ ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-025R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-025R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-026C",
+        "element_jp": "氷",
+        "name_jp": "シド・レインズ",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-026C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-026C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-027L",
+        "element_jp": "氷",
+        "name_jp": "シャントット",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XI",
+        "original_title": "FINAL FANTASY XI",
+        "category": "ff11|FumioMinagawa",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Fumio Minagawa"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-027L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-027L_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-027L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-027L_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-028C",
+        "element_jp": "氷",
+        "name_jp": "ジル",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-028C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-028C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-029R",
+        "element_jp": "氷",
+        "name_jp": "ゼザ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5|YasushiHasegawa",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yasushi Hasegawa"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-029R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-029R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-029R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-029R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-030H",
+        "element_jp": "氷",
+        "name_jp": "セリス",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VI",
+        "original_title": "FINAL FANTASY VI",
+        "category": "ff6",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-030H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-030H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-031C",
+        "element_jp": "氷",
+        "name_jp": "たまねぎ剣士 ［FFTS］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY TACTICS S",
+        "original_title": "FINAL FANTASY TACTICS S",
+        "category": "fft_s",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX Powered by Matrix",
+            "CHARACTER DESIGN: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-031C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-031C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-032C",
+        "element_jp": "氷",
+        "name_jp": "チャドリー",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-032C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-032C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-033L",
+        "element_jp": "氷",
+        "name_jp": "ティナ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VI",
+        "original_title": "FINAL FANTASY VI",
+        "category": "ff6",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/ice.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-033L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-033L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-034C",
+        "element_jp": "氷",
+        "name_jp": "デシ",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL BAR LINE",
+        "original_title": "THEATRHYTHM FINAL BAR LINE",
+        "category": "t_fbl",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-034C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-034C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-035H",
+        "element_jp": "氷",
+        "name_jp": "トルガル",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-035H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-035H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-036C/15-038C",
+        "element_jp": "氷",
+        "name_jp": "ナイト",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-036C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-036C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-037C",
+        "element_jp": "氷",
+        "name_jp": "MAI",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-037C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-037C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-038H",
+        "element_jp": "氷",
+        "name_jp": "モグ ［VI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VI",
+        "original_title": "FINAL FANTASY VI",
+        "category": "ff6",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-038H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-038H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-039C",
+        "element_jp": "風",
+        "name_jp": "アーリマン",
+        "expansion_number": "29",
+        "image_source": "",
+        "original_title": "",
+        "category": "KaedeYamaguchi",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Kaede Yamaguchi"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-039C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-039C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-039C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-039C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-040H",
+        "element_jp": "風",
+        "name_jp": "アデル",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY TACTICS A2: Grimoire of the Rift",
+        "original_title": "FINAL FANTASY TACTICS A2: Grimoire of the Rift",
+        "category": "ffa2|RyomaIto",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-040H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-040H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-040H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-040H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-041H",
+        "element_jp": "風",
+        "name_jp": "アレキサンダー",
+        "expansion_number": "29",
+        "image_source": "MOBIUS FINAL FANTASY",
+        "original_title": "MOBIUS FINAL FANTASY",
+        "category": "mobiusff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Suranaki"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-041H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-041H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-042R",
+        "element_jp": "風",
+        "name_jp": "ウォル",
+        "expansion_number": "29",
+        "image_source": "MOBIUS FINAL FANTASY",
+        "original_title": "MOBIUS FINAL FANTASY",
+        "category": "mobiusff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yu Cheng Hong"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-042R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-042R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-043R",
+        "element_jp": "風",
+        "name_jp": "エアリス",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-043R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-043R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-044C",
+        "element_jp": "風",
+        "name_jp": "エルミナ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII",
+        "original_title": "FINAL FANTASY VII",
+        "category": "ff7",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-044C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-044C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-045C",
+        "element_jp": "風",
+        "name_jp": "踊り子",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY TACTICS S",
+        "original_title": "FINAL FANTASY TACTICS S",
+        "category": "fft_s",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX Powered by Matrix",
+            "CHARACTER DESIGN: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-045C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-045C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-046L",
+        "element_jp": "風",
+        "name_jp": "ガルーダ ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-046L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-046L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-047C",
+        "element_jp": "風",
+        "name_jp": "クリン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-047C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-047C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-048C",
+        "element_jp": "風",
+        "name_jp": "グリングリン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-048C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-048C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-049H",
+        "element_jp": "風",
+        "name_jp": "ソフィア",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo|LisaFujise",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Lisa Fujise"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-049H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-049H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-049H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-049H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-050C",
+        "element_jp": "風",
+        "name_jp": "チョコボ",
+        "expansion_number": "29",
+        "image_source": "Chocobo's Crystal Hunt",
+        "original_title": "Chocobo's Crystal Hunt",
+        "category": "cch",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-050C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-050C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-051C",
+        "element_jp": "風",
+        "name_jp": "はぐれチョコボ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-051C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-051C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-052H",
+        "element_jp": "風",
+        "name_jp": "バッツ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5|RikaOkazaki",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Rika Okazaki"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-052H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-052H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-052H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-052H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-053R",
+        "element_jp": "風",
+        "name_jp": "ベネディクタ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-053R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-053R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-054R",
+        "element_jp": "風",
+        "name_jp": "モルボルグレート",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/wind.html",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-054R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-054R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-055C/15-058C",
+        "element_jp": "風",
+        "name_jp": "竜騎士",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-055C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-055C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-056R",
+        "element_jp": "風",
+        "name_jp": "ルチル",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10|RubiAsami",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Rubi Asami"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-056R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-056R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-056R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-056R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-057L",
+        "element_jp": "風",
+        "name_jp": "ルッソ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY TACTICS A2: Grimoire of the Rift",
+        "original_title": "FINAL FANTASY TACTICS A2: Grimoire of the Rift",
+        "category": "ffa2|RyomaIto",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-057L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-057L_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-057L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-057L_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-058R",
+        "element_jp": "土",
+        "name_jp": "アーデン",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL BAR LINE",
+        "original_title": "THEATRHYTHM FINAL BAR LINE",
+        "category": "t_fbl",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-058R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-058R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-059H",
+        "element_jp": "土",
+        "name_jp": "アッシュ",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo|GenKobayashi",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/earth.html",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Gen Kobayashi"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-059H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-059H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-059H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-059H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-060C",
+        "element_jp": "土",
+        "name_jp": "イグニス",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL BAR LINE",
+        "original_title": "THEATRHYTHM FINAL BAR LINE",
+        "category": "t_fbl",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-060C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-060C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-061L",
+        "element_jp": "土",
+        "name_jp": "ヴィンセント",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII",
+        "original_title": "FINAL FANTASY VII",
+        "category": "ff7",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-061L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-061L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-062R",
+        "element_jp": "土",
+        "name_jp": "ウォル",
+        "expansion_number": "29",
+        "image_source": "MOBIUS FINAL FANTASY",
+        "original_title": "MOBIUS FINAL FANTASY",
+        "category": "mobiusff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Lasahido"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-062R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-062R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-063R",
+        "element_jp": "土",
+        "name_jp": "エクスデス",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA 012 [duodecim] FINAL FANTASY",
+        "original_title": "DISSIDIA 012 [duodecim] FINAL FANTASY",
+        "category": "dissidia_012",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-063R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-063R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-064C",
+        "element_jp": "土",
+        "name_jp": "ガーゴイル",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-064C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-064C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-065C",
+        "element_jp": "土",
+        "name_jp": "ガラフ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-065C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-065C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-066C",
+        "element_jp": "土",
+        "name_jp": "グラディオラス",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL BAR LINE",
+        "original_title": "THEATRHYTHM FINAL BAR LINE",
+        "category": "t_fbl",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-066C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-066C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-067C",
+        "element_jp": "土",
+        "name_jp": "クルル",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-067C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-067C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-068L",
+        "element_jp": "土",
+        "name_jp": "タイタン ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/earth.html",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-068L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-068L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-069C",
+        "element_jp": "土",
+        "name_jp": "ドゴルガング",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY TACTICS S",
+        "original_title": "FINAL FANTASY TACTICS S",
+        "category": "fft_s",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX Powered by Matrix",
+            "CHARACTER DESIGN: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-069C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-069C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-070R",
+        "element_jp": "土",
+        "name_jp": "ドラゴンゾンビ",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-070R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-070R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-071R",
+        "element_jp": "土",
+        "name_jp": "フーゴ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-071R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-071R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-072C/15-080C",
+        "element_jp": "土",
+        "name_jp": "風水士",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-072C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-072C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-073C",
+        "element_jp": "土",
+        "name_jp": "魔獣使い",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-073C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-073C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-074H",
+        "element_jp": "土",
+        "name_jp": "モーグリーズ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-074H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-074H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-075H",
+        "element_jp": "土",
+        "name_jp": "ヨランオラン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XI",
+        "original_title": "FINAL FANTASY XI",
+        "category": "ff11|FumioMinagawa",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/earth.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Fumio Minagawa"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-075H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-075H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-075H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-075H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-076H",
+        "element_jp": "土",
+        "name_jp": "ローチェ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth|MihokoIshii",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/earth.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI",
+            "CHARACTER ILLUSTRATION: Mihoko Ishii"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-076H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-076H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-076H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-076H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-077C",
+        "element_jp": "雷",
+        "name_jp": "アラネア",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-077C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-077C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-078R",
+        "element_jp": "雷",
+        "name_jp": "オメガウェポン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-078R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-078R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-079C",
+        "element_jp": "雷",
+        "name_jp": "カイン",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-079C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-079C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-080C",
+        "element_jp": "雷",
+        "name_jp": "カオス",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY",
+        "original_title": "FINAL FANTASY",
+        "category": "ff1|KaedeYamaguchi",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/thunder.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Kaede Yamaguchi"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-080C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-080C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-080C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-080C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-081C",
+        "element_jp": "雷",
+        "name_jp": "クァール",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-081C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-081C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-082R",
+        "element_jp": "雷",
+        "name_jp": "ケルガー",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5|YasushiHasegawa",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yasushi Hasegawa"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-082R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-082R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-082R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-082R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-083C",
+        "element_jp": "雷",
+        "name_jp": "コルモル",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XI",
+        "original_title": "FINAL FANTASY XI",
+        "category": "ff11|FumioMinagawa",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Fumio Minagawa"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-083C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-083C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-083C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-083C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-084R",
+        "element_jp": "雷",
+        "name_jp": "ジェシー",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-084R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-084R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-085R",
+        "element_jp": "雷",
+        "name_jp": "シドルファス",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-085R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-085R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-086H",
+        "element_jp": "雷",
+        "name_jp": "シャドウ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VI",
+        "original_title": "FINAL FANTASY VI",
+        "category": "ff6",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/thunder.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-086H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-086H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-087L",
+        "element_jp": "雷",
+        "name_jp": "セフィロス",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VII REBIRTH",
+        "original_title": "FINAL FANTASY VII REBIRTH",
+        "category": "ffvii_rebirth",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA/ROBERTO FERRARI"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-087L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-087L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-088C",
+        "element_jp": "雷",
+        "name_jp": "ソルジャー ［FFTS］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY TACTICS S",
+        "original_title": "FINAL FANTASY TACTICS S",
+        "category": "fft_s",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/thunder.html",
+        "copyright": [
+            "&copy; SQUARE ENIX Powered by Matrix",
+            "CHARACTER DESIGN: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-088C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-088C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-089C/15-095C",
+        "element_jp": "雷",
+        "name_jp": "忍者",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-089C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-089C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-090R",
+        "element_jp": "雷",
+        "name_jp": "ノクティス",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-090R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-090R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-091H",
+        "element_jp": "雷",
+        "name_jp": "バルナバス",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/thunder.html",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-091H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-091H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-092C",
+        "element_jp": "雷",
+        "name_jp": "プロンプト",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL BAR LINE",
+        "original_title": "THEATRHYTHM FINAL BAR LINE",
+        "category": "t_fbl",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-092C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-092C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-093L",
+        "element_jp": "雷",
+        "name_jp": "メイア",
+        "expansion_number": "29",
+        "image_source": "MOBIUS FINAL FANTASY",
+        "original_title": "MOBIUS FINAL FANTASY",
+        "category": "mobiusff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Jeremy Chong"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-093L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-093L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-094H",
+        "element_jp": "雷",
+        "name_jp": "ラムウ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9|YuyaIshihata",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yuya Ishihata"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-094H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-094H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-094H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-094H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-095H",
+        "element_jp": "雷",
+        "name_jp": "ラムウ ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-095H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-095H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-096R",
+        "element_jp": "水",
+        "name_jp": "ウォル",
+        "expansion_number": "29",
+        "image_source": "MOBIUS FINAL FANTASY",
+        "original_title": "MOBIUS FINAL FANTASY",
+        "category": "mobiusff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Lasahido"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-096R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-096R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-097R",
+        "element_jp": "水",
+        "name_jp": "エルザ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XII REVENANT WINGS",
+        "original_title": "FINAL FANTASY XII REVENANT WINGS",
+        "category": "ff12rw|RyomaIto",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-097R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-097R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-097R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-097R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-098R",
+        "element_jp": "水",
+        "name_jp": "クイナ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9|RubiAsami",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Rubi Asami"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-098R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-098R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-098R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-098R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-099H",
+        "element_jp": "水",
+        "name_jp": "ジェド",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo|RubiAsami",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Rubi Asami"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-099H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-099H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-099H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-099H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-100R",
+        "element_jp": "水",
+        "name_jp": "シリオン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-100R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-100R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-101H",
+        "element_jp": "水",
+        "name_jp": "シルドラ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5|MEzuka",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: M. Ezuka"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-101H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-101H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-101H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-101H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-102C",
+        "element_jp": "水",
+        "name_jp": "セシル",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-102C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-102C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-103H",
+        "element_jp": "水",
+        "name_jp": "セッツァー",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY VI",
+        "original_title": "FINAL FANTASY VI",
+        "category": "ff6",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/aqua.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "IMAGE ILLUSTRATION: &copy; YOSHITAKA AMANO"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-103H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-103H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-104L",
+        "element_jp": "水",
+        "name_jp": "ダイヤウェポン",
+        "expansion_number": "29",
+        "image_source": "MOBIUS FINAL FANTASY",
+        "original_title": "MOBIUS FINAL FANTASY",
+        "category": "mobiusff",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-104L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-104L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-105L",
+        "element_jp": "水",
+        "name_jp": "ティーダ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10|YukihiroKajimoto",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Yukihiro Kajimoto"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-105L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-105L_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-105L.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-105L_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-106H",
+        "element_jp": "水",
+        "name_jp": "ディオン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-106H.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-106H.png"
+            ]
+        }
+    },
+    {
+        "code": "29-107C",
+        "element_jp": "水",
+        "name_jp": "導士 ［FFTA2］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY TACTICS A2: Grimoire of the Rift",
+        "original_title": "FINAL FANTASY TACTICS A2: Grimoire of the Rift",
+        "category": "ffa2",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/aqua.html",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-107C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-107C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-108C",
+        "element_jp": "水",
+        "name_jp": "トンベリ",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-108C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-108C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-109R",
+        "element_jp": "水",
+        "name_jp": "ポロム",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IV",
+        "original_title": "FINAL FANTASY IV",
+        "category": "ff4|ReoObata",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Reo Obata"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-109R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-109R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-109R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-109R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-110C",
+        "element_jp": "水",
+        "name_jp": "ユウナ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10|YukihiroKajimoto",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Yukihiro Kajimoto"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-110C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-110C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-110C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-110C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-111C/15-123C",
+        "element_jp": "水",
+        "name_jp": "予言士",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-111C.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-111C.png"
+            ]
+        }
+    },
+    {
+        "code": "29-112C",
+        "element_jp": "水",
+        "name_jp": "ラズ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XII REVENANT WINGS",
+        "original_title": "FINAL FANTASY XII REVENANT WINGS",
+        "category": "ff12rw|RyomaIto",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-112C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-112C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-112C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-112C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-113C",
+        "element_jp": "水",
+        "name_jp": "リッキー",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XII REVENANT WINGS",
+        "original_title": "FINAL FANTASY XII REVENANT WINGS",
+        "category": "ff12rw|RyomaIto",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Ryoma Ito"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-113C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-113C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-113C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-113C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-114C",
+        "element_jp": "水",
+        "name_jp": "レナ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5|SaraShimokobe",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Sara Shimokobe"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-114C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-114C_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-114C.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-114C_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-115L",
+        "element_jp": "光",
+        "name_jp": "バハムート ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/shine.html",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-115L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-115L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-116H",
+        "element_jp": "光",
+        "name_jp": "マディーン",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9|YuyaIshihata",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yuya Ishihata"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-116H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-116H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-116H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-116H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-117H",
+        "element_jp": "闇",
+        "name_jp": "アーク",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY IX",
+        "original_title": "FINAL FANTASY Ⅸ",
+        "category": "ff9|YuyaIshihata",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Yuya Ishihata"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-117H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-117H_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-117H.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-117H_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-118L",
+        "element_jp": "闇",
+        "name_jp": "オーディン ［XVI］",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY XVI",
+        "original_title": "FINAL FANTASY XVI",
+        "category": "ff16",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-118L.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-118L.png"
+            ]
+        }
+    },
+    {
+        "code": "29-119R",
+        "element_jp": "火",
+        "name_jp": "レェン",
+        "expansion_number": "29",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-119R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-119R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-120R",
+        "element_jp": "氷",
+        "name_jp": "シーモア",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10|MikiYamashita",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/multi.html",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Miki Yamashita"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-120R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-120R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-120R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-120R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-121R",
+        "element_jp": "風",
+        "name_jp": "飛竜",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY V",
+        "original_title": "FINAL FANTASY V",
+        "category": "ff5|RikaOkazaki",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER ILLUSTRATION: Rika Okazaki"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-121R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-121R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-121R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-121R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-122R",
+        "element_jp": "土",
+        "name_jp": "マイカ",
+        "expansion_number": "29",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10|GenKobayashi",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "CHARACTER ILLUSTRATION: Gen Kobayashi"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-122R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-122R_FL.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-122R.png",
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-122R_FL.png"
+            ]
+        }
+    },
+    {
+        "code": "29-123R",
+        "element_jp": "雷",
+        "name_jp": "ジャック・ガーランド",
+        "expansion_number": "29",
+        "image_source": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "original_title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "category": "sopffo",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "opus29/multi.html",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-123R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-123R.png"
+            ]
+        }
+    },
+    {
+        "code": "29-124R",
+        "element_jp": "水",
+        "name_jp": "アーロン",
+        "expansion_number": "29",
+        "image_source": "THEATRHYTHM FINAL FANTASY CURTAIN CALL",
+        "original_title": "THEATRHYTHM FINAL FANTASY CURTAIN CALL",
+        "category": "t_ffcc",
+        "promo_info": "",
+        "starter_info": "",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "Developed by indieszero Co., Ltd."
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/opus29/29-124R.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus29/29-124R.png"
+            ]
+        }
+    },
+    {
+        "code": "PR-229/16-135S",
+        "element_jp": "風",
+        "name_jp": "ルールー",
+        "expansion_number": "",
+        "image_source": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "original_title": "DISSIDIA FINAL FANTASY OPERA OMNIA",
+        "category": "dffoo",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; KOEI TECMO GAMES/SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "DISSIDIA FINAL FANTASY OPERA OMNIA"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-229.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-229.png"
             ]
         }
     }

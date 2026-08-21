@@ -9847,7 +9847,7 @@
         "name_en": "Suzuhisa",
         "type_en": "Forward",
         "job_en": "Leader of the Dominion Legions",
-        "text_en": "When your opponent's auto-ability triggers, put Suzuhisa into the Break Zone. When you do so, draw 2 cards. These effects will trigger only once per turn.",
+        "text_en": "<p>When your opponent's auto-ability is put on the stack, put Suzuhisa into the Break Zone. When you do so, draw 2 cards. This effect will trigger only once per turn.</p>\r\n",
         "name_ja": "スズヒサ",
         "type_ja": "フォワード",
         "job_ja": "軍令部長",
@@ -16420,10 +16420,12 @@
         "text_ja": "クラウドがフィールドに出たとき、【カテゴリ(VII)】のキャラクターカード1枚をサーチし、手札に加えてもよい。[[br]]   《3》、デッキのカードを上から7枚ゲームから除外する：フォワード1体を選ぶ。それをブレイクする。このアビリティはあなたのメインフェイズにしか使えず、1ターンに1度しか使えない。[[br]]   [[i]]Damage 5 --[[/]] クラウドのパワーは+2000される。",
         "images_en": {
             "thumbs": [
-                "https://fftcg.cdn.sewest.net/images/cards/thumbs/11-127L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/11-127L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/11-127L_eg_SS2.jpg"
             ],
             "full": [
-                "https://fftcg.cdn.sewest.net/images/cards/full/11-127L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/full/11-127L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/11-127L_eg_SS2.jpg"
             ]
         }
     },
@@ -16927,7 +16929,7 @@
         "name_en": "Amaterasu",
         "type_en": "Summon",
         "job_en": "",
-        "text_en": "Choose 1 auto-ability. Cancel its effect. If the cancelled auto-ability triggered from a Forward, deal that Forward 8000 damage.",
+        "text_en": "<p>Choose 1 auto-ability. Cancel its effect. If that auto-ability triggered from a Forward, deal that Forward 8000 damage.</p>\r\n",
         "name_ja": "アマテラス",
         "type_ja": "召喚獣",
         "job_ja": "",
@@ -26848,10 +26850,12 @@
         "text_ja": "あなたのブレイクゾーンにあるカードの属性が3つ以上の場合、ギルガメッシュ ［FFBE］のパワーは+1000され、ヘイストと先制攻撃を得る。7つ以上の場合、追加でブレイブと「ギルガメッシュ ［FFBE］は1ターンに3回アタックできる。」を得る。[[br]]   ギルガメッシュ ［FFBE］がアタックしたとき、キャラクター1体を選ぶ。あなたのブレイクゾーンにあるカードの属性が5つ以上の場合、それをダルにし、凍結させる。[[br]]",
         "images_en": {
             "thumbs": [
-                "https://fftcg.cdn.sewest.net/images/cards/thumbs/14-023L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/14-023L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/14-023L_eg_FL.jpg"
             ],
             "full": [
-                "https://fftcg.cdn.sewest.net/images/cards/full/14-023L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/full/14-023L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/14-023L_eg_FL.jpg"
             ]
         }
     },
@@ -67914,10 +67918,12 @@
         "text_ja": "ウォーリアオブライトがキャストによってフィールドに出たとき、デッキのカードを上から5枚公開する。その中からコスト3のキャラクターカードを最大2枚までフィールドに出し、残りをデッキの1番下に好きな順番で置く。[[br]]   [[s]]アルティメットシールド[[/]] 《S》：ターン終了時までウォーリアオブライトとあなたのコントロールするすべてのコスト3のフォワードは「自身は対戦相手の召喚獣やアビリティによっては選ばれない。」を得る。",
         "images_en": {
             "thumbs": [
-                "https://fftcg.cdn.sewest.net/images/cards/thumbs/21-121L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/21-121L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/21-121L_eg_FL.jpg"
             ],
             "full": [
-                "https://fftcg.cdn.sewest.net/images/cards/full/21-121L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/full/21-121L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/21-121L_eg_FL.jpg"
             ]
         }
     },
@@ -72262,10 +72268,12 @@
         "text_ja": "[[i]]Limit Break --[[/]] [[i]]3[[/]][[br]]   モント・リオニスがフィールドに出たとき、あなたのブレイクゾーンにあるコスト3以下の火属性のフォワード1枚とコスト5以下の火属性のフォワード1枚を選ぶ。あなたが火属性のバックアップを5体以上コントロールしている場合、それらをフィールドに出す。ターン終了時までそれらにヘイストを与える。その後、あなたのコントロールするバックアップ1体をブレイクゾーンに置く。",
         "images_en": {
             "thumbs": [
-                "https://fftcg.cdn.sewest.net/images/cards/thumbs/22-113L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/22-113L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/22-113L_eg_FL.jpg"
             ],
             "full": [
-                "https://fftcg.cdn.sewest.net/images/cards/full/22-113L_eg.jpg"
+                "https://fftcg.cdn.sewest.net/images/cards/full/22-113L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/22-113L_eg_FL.jpg"
             ]
         }
     },
@@ -98540,6 +98548,4296 @@
         }
     },
     {
+        "id": 4519,
+        "code": "29-001R/26-003R",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "6",
+        "power": "10000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ifrit (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "When Ifrit (XVI) is blocked or chosen by your opponent's ability, Ifrit (XVI) deals your opponent 1 point of damage.[[br]]When Clive primes into Ifrit (XVI), Ifrit (XVI) gains \"If Ifrit (XVI) is dealt damage less than Ifrit (XVI)'s power, the damage becomes 0 instead.\" (This effect does not end at the end of the turn.)",
+        "name_ja": "イフリート ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "イフリート ［XVI］がブロックされたか対戦相手のアビリティによって選ばれたとき、イフリート ［XVI］は対戦相手に1点のダメージを与える。[[br]]クライヴがイフリート ［XVI］に顕現したとき、イフリート ［XVI］は「イフリート ［XVI］に自身のパワー未満のダメージが与えられる場合、代わりにそのダメージは0になる。」を得る(この効果はターン終了時に終わらない)。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-001R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-001R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4520,
+        "code": "29-002R",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "MOBIUS",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Wol",
+        "type_en": "Forward",
+        "job_en": "Samurai/Warrior of Light",
+        "text_en": "Brave[[br]]《C》: Play 1 Fire Forward of cost 4 or less from your hand onto the field. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ウォル",
+        "type_ja": "フォワード",
+        "job_ja": "侍/光の戦士",
+        "text_ja": "ブレイブ[[br]]《C》：あなたの手札からコスト4以下の火属性のフォワード1枚をフィールドに出す。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-002R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-002R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4521,
+        "code": "29-003R",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Chimera",
+        "type_en": "Monster",
+        "job_en": "Chimera",
+        "text_en": "If you control 5 or more Backups, Chimera also becomes a Forward with 8000 power.[[br]]When Chimera enters the field, choose 1 Forward opponent controls. Deal it 7000 damage.",
+        "name_ja": "キマイラ",
+        "type_ja": "モンスター",
+        "job_ja": "キマイラ",
+        "text_ja": "あなたがバックアップを5体以上コントロールしている場合、キマイラはパワー8000のフォワードとしても扱う。[[br]]キマイラがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それに7000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-003R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-003R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4522,
+        "code": "29-004C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Clive",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "[[i]]Priming \"Ifrit (XVI)\" --[[/]] 《火》《火》《2》[[br]]When Clive or a [[i]]Category XVI[[/]] Forward enters your field, draw 1 card, then place 1 card from your hand at the bottom of your deck.",
+        "name_ja": "クライヴ",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "[[i]]顕現「イフリート ［XVI］」 --[[/]] 《火》《火》《2》[[br]]あなたのフィールドにクライヴか【カテゴリ(XVI)】のフォワード1体が出るたび、カードを1枚引き、その後手札を1枚デッキの1番下に置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-004C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-004C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4523,
+        "code": "29-005L",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Cloud",
+        "type_en": "Forward",
+        "job_en": "Warrior",
+        "text_en": "When Cloud enters the field, you may remove 3 Fire cards in your Break Zone and/or [[i]]Category VII[[/]] cards in your Break Zone from the game. When you do so, search for 1 Fire Forward of cost 2 or less and of power 5000 or less, and play it onto the field.[[br]][[s]]Power Cleave/Spell Blade[[/]] 《S》《ダル》, dull 1 active [[i]]Card Name Tifa[[/]] or [[i]]Card Name Aerith[[/]]: Choose 2 Forwards. Break them.",
+        "name_ja": "クラウド",
+        "type_ja": "フォワード",
+        "job_ja": "戦士",
+        "text_ja": "クラウドがフィールドに出たとき、あなたのブレイクゾーンにある火属性か【カテゴリ(VII)】のカードを合わせて3枚ゲームから除外してもよい。そうしたとき、コスト2以下でパワー5000以下の火属性のフォワード1枚をサーチし、フィールドに出す。[[br]][[s]]インテンスブレイク/マギアブレイク [[/]]《S》《ダル》、アクティブ状態の【カード名(ティファ)】か【カード名(エアリス)】1体をダルにする：フォワード2体を選ぶ。それらをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-005L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-005L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4524,
+        "code": "29-006C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Samurai",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Samurai enters the field, choose 1 Fire Character in your Break Zone and up to 1 Forward opponent controls. Add the former to your hand. If the card added to your hand is a [[i]]Job Samurai[[/]] or [[i]]Card Name Samurai[[/]], also deal the latter 3000 damage.",
+        "name_ja": "侍",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "侍がフィールドに出たとき、あなたのブレイクゾーンにある火属性のキャラクターカード1枚と、対戦相手のコントロールするフォワードを最大1体まで選ぶ。前者を手札に加える。手札に加えたカードが【ジョブ/カード名(侍)】の場合、追加で後者に3000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-006C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-006C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4525,
+        "code": "29-007C/15-007C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Samurai",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Samurai enters the field, gain 《C》.[[br]]《ダル》, put Samurai into the Break Zone: Choose 1 Forward. If it deals damage to a Forward this turn, the damage increases by 1000 instead. You can only use this ability during your turn.",
+        "name_ja": "侍",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "侍がフィールドに出たとき、《C》を得る。[[br]]《ダル》、侍をブレイクゾーンに置く：フォワード1体を選ぶ。このターン、それがフォワードにダメージを与える場合、代わりにそのダメージは1000多くなる。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-007C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-007C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4526,
+        "code": "29-008L",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "L",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Zidane",
+        "type_en": "Forward",
+        "job_en": "Tantalus Member/Thief",
+        "text_en": "When you cast a card removed from the game, choose 1 Forward opponent controls. Deal it 5000 damage.[[br]]When Zidane enters the field or attacks, remove the top 2 cards of your deck from the game. You can cast them at any time you could normally cast them this turn.",
+        "name_ja": "ジタン",
+        "type_ja": "フォワード",
+        "job_ja": "タンタラス/盗賊",
+        "text_ja": "あなたがゲームから除外されているカードをキャストしたとき、対戦相手のコントロールするフォワード1体を選ぶ。それに5000ダメージを与える。[[br]]ジタンがフィールドに出るかアタックしたとき、あなたはデッキのカードを上から2枚ゲームから除外する。このターン、あなたはそれらをキャストすることができる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-008L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-008L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-008L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-008L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4527,
+        "code": "29-009H",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "7",
+        "power": "9000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Cid Highwind",
+        "type_en": "Forward",
+        "job_en": "Pilot",
+        "text_en": "When Cid Highwind enters the field, you may play 1 [[i]]Category VII[[/]] Forward of cost 4 or less from your hand onto the field.[[br]]When a[[i]] Category VII[[/]] Forward other than Cid Highwind enters your field, draw 1 card. This effect will trigger only once per turn.",
+        "name_ja": "シド・ハイウインド",
+        "type_ja": "フォワード",
+        "job_ja": "パイロット",
+        "text_ja": "シド・ハイウインドがフィールドに出たとき、あなたの手札からコスト4以下の【カテゴリ(VII)】のフォワード1枚をフィールドに出してもよい。[[br]]あなたのフィールドにシド・ハイウインド以外の【カテゴリ(VII)】のフォワードが出たとき、カードを1枚引く。このアビリティは1ターンに1度しか発動しない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-009H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-009H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4528,
+        "code": "29-010C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Joshua",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "[[i]]Priming \"Phoenix (XVI)\" --[[/]] 《火》《2》[[br]]When Joshua enters the field, you may discard 1 card. When you do so, choose 1 Forward. Deal it 7000 damage.",
+        "name_ja": "ジョシュア",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "[[i]]顕現「フェニックス ［XVI］」 --[[/]] 《火》《2》[[br]]ジョシュアがフィールドに出たとき、手札を1枚捨ててもよい。そうしたとき、フォワード1体を選ぶ。それに7000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-010C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-010C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4529,
+        "code": "29-011H",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Tifa",
+        "type_en": "Forward",
+        "job_en": "Martial Artist",
+        "text_en": "Haste[[br]]When Tifa attacks, choose 1 Forward opponent controls. Deal it 1000 damage for each[[i]] Category VII[[/]] Character you control.[[br]][[s]]Rise and Fall[[/]] 《S》: Choose 1 Forward. Deal it 3000 damage. Draw 1 card. You can only use this ability up to 3 times per turn.",
+        "name_ja": "ティファ",
+        "type_ja": "フォワード",
+        "job_ja": "拳士",
+        "text_ja": "ヘイスト[[br]]ティファがアタックしたとき、対戦相手のコントロールするフォワード1体を選ぶ。それにあなたのコントロールする【カテゴリ(VII)】のキャラクター1体につき、1000ダメージを与える。[[br]][[s]]掌打ラッシュ [[/]]《S》：フォワード1体を選ぶ。それに3000ダメージを与える。カードを1枚引く。このアビリティは1ターンに3回までしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-011H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-011H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4530,
+        "code": "29-012H",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Neon",
+        "type_en": "Forward",
+        "job_en": "Void Knight",
+        "text_en": "When Neon enters the field, choose 1 Forward opponent controls. If you control a [[i]]Category SOPFFO[[/]] Character other than Neon, deal it 9000 damage.[[br]][[s]]Runic[[/]] 《S》: Choose 1 Summon or auto-ability. During this turn, if it deals damage to a Forward or a player, the damage becomes 0 instead.",
+        "name_ja": "ネオン",
+        "type_ja": "フォワード",
+        "job_ja": "ヴォイドナイト",
+        "text_ja": "ネオンがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。あなたがネオン以外の【カテゴリ(SOPFFO)】のキャラクターをコントロールしている場合、それに9000ダメージを与える。[[br]][[s]]魔封剣 [[/]]《S》：召喚獣かオートアビリティ1つを選ぶ。このターン、それがプレイヤーかフォワードにダメージを与える場合、代わりにそのダメージは0になる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-012H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-012H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-012H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-012H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4531,
+        "code": "29-013H",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "H",
+        "cost": "6",
+        "power": "0",
+        "category_1": "WOFF",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Bahamut",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "You can only cast Bahamut during your turn.[[br]]Choose 1 Forward opponent controls. Deal it 10000 damage. When it is put from the field into the Break Zone this turn, if your opponent has received 5 points of damage or less, Bahamut deals your opponent 1 point of damage.",
+        "name_ja": "バハムート",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "バハムートはあなたのターンにしかキャストすることができない。[[br]]対戦相手のコントロールするフォワード1体を選ぶ。それに10000ダメージを与える。このターン、それがフィールドからブレイクゾーンに置かれたとき、対戦相手の受けているダメージが5点以下の場合、バハムートは対戦相手に1点のダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-013H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-013H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4532,
+        "code": "29-014R",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "0",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Palom",
+        "type_en": "Backup",
+        "job_en": "Apprentice Mage",
+        "text_en": "《ダル》, put Palom into the Break Zone: Choose 1 Forward opponent controls. Deal it 5000 damage.[[br]]《ダル》, put Palom and 1 [[i]]Card Name Porom[[/]] into the Break Zone: Choose 1 Forward opponent controls. Deal it 20000 damage. Draw 1 card.",
+        "name_ja": "パロム",
+        "type_ja": "バックアップ",
+        "job_ja": "魔道士見習い",
+        "text_ja": "《ダル》、パロムをブレイクゾーンに置く：対戦相手のコントロールするフォワード1体を選ぶ。それに5000ダメージを与える。[[br]]《ダル》、パロムと【カード名(ポロム)】1体をブレイクゾーンに置く：対戦相手のコントロールするフォワード1体を選ぶ。それに20000ダメージを与える。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-014R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-014R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-014R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-014R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4533,
+        "code": "29-015C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "6",
+        "power": "8000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Faris",
+        "type_en": "Forward",
+        "job_en": "Pirate/Warrior of Light",
+        "text_en": "When Faris enters the field, choose 1 Fire or Water Forward of cost 2 or less in your Break Zone. Play it onto the field.",
+        "name_ja": "ファリス",
+        "type_ja": "フォワード",
+        "job_ja": "海賊/光の戦士",
+        "text_ja": "ファリスがフィールドに出たとき、あなたのブレイクゾーンにあるコスト2以下の火属性か水属性のフォワード1枚を選ぶ。それをフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-015C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-015C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-015C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-015C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4534,
+        "code": "29-016R/26-018H",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Phoenix (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "When Joshua primes into Phoenix (XVI), reveal the top 4 cards of your deck. Add up to 2 Fire cards and/or [[i]]Category XVI[[/]] cards among them to your hand and return the other cards to the bottom of your deck in any order.[[br]][[s]]Flames of Rebirth[[/]] 《S》《火》《火》《2》《ダル》: Choose 1 [[i]]Category XVI[[/]] Forward in your Break Zone. Play it onto the field. You can only use this ability during your turn.",
+        "name_ja": "フェニックス ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "ジョシュアがフェニックス ［XVI］に顕現したとき、デッキのカードを上から4枚公開する。その中から火属性か【カテゴリ(XVI)】のカードを合わせて最大2枚まで手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]][[s]]転生の炎[[/]] 《S》《火》《火》《2》《ダル》：あなたのブレイクゾーンにある【カテゴリ(XVI)】のフォワード1枚を選ぶ。それをフィールドに出す。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-016R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-016R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4535,
+        "code": "29-017C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "9",
+        "power": "9000",
+        "category_1": "THEATRHYTHM &middot; X",
+        "category_2": "X",
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Braska's Final Aeon",
+        "type_en": "Forward",
+        "job_en": "Final Aeon",
+        "text_en": "[[ex]]EX BURST[[/]] When Braska's Final Aeon enters the field or is put from the field into the Break Zone, choose 1 Forward opponent controls. Deal it 8000 damage.",
+        "name_ja": "ブラスカの究極召喚獣",
+        "type_ja": "フォワード",
+        "job_ja": "究極召喚獣",
+        "text_ja": "[[ex]]EX BURST[[/]] ブラスカの究極召喚獣がフィールドに出るかフィールドからブレイクゾーンに置かれたとき、対戦相手のコントロールするフォワード1体を選ぶ。それに8000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-017C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-017C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4536,
+        "code": "29-018C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "0",
+        "category_1": "THEATRHYTHM",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Bomb",
+        "type_en": "Monster",
+        "job_en": "Bomb",
+        "text_en": "《火》《ダル》, put Bomb into the Break Zone: Choose 1 Forward. Deal it 4000 damage. Draw 1 card.",
+        "name_ja": "ボム",
+        "type_ja": "モンスター",
+        "job_ja": "ボム",
+        "text_ja": "《火》《ダル》、ボムをブレイクゾーンに置く：フォワード1体を選ぶ。それに4000ダメージを与える。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-018C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-018C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4537,
+        "code": "29-019C",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "0",
+        "category_1": "DFF &middot; WOFF",
+        "category_2": "WOFF",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Lann",
+        "type_en": "Backup",
+        "job_en": "Mirage Keeper",
+        "text_en": "The[[i]] Category WOFF[[/]] Forwards you control gain +1000 power.[[br]]The [[i]]Card Name Reynn[[/]] you control gains Haste.",
+        "name_ja": "ラァン",
+        "type_ja": "バックアップ",
+        "job_ja": "ミラージュ使い",
+        "text_ja": "あなたのコントロールする【カテゴリ(WOFF)】のフォワードのパワーを+1000する。[[br]]あなたのコントロールする【カード名(レェン)】にヘイストを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-019C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-019C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4538,
+        "code": "29-020R",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Astos",
+        "type_en": "Forward",
+        "job_en": "Dark Elf",
+        "text_en": "[[ex]]EX BURST[[/]] When Astos enters the field, choose 1 Forward opponent controls. Dull it and Freeze it.[[br]]When Astos is put from the field into the Break Zone, you may search for 1 [[i]]Card Name Astos[[/]] and play it onto the field dull.",
+        "name_ja": "アストス",
+        "type_ja": "フォワード",
+        "job_ja": "ダークエルフ",
+        "text_ja": "[[ex]]EX BURST[[/]] アストスがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それをダルにし、凍結させる。[[br]]アストスがフィールドからブレイクゾーンに置かれたとき、【カード名(アストス)】1枚をサーチし、ダル状態でフィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-020R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-020R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-020R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-020R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4539,
+        "code": "29-021R",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ultima Weapon Origin",
+        "type_en": "Forward",
+        "job_en": "Weapon",
+        "text_en": "Ultima Weapon Origin is also [[i]]Card name Astos[[/]] in all situations.[[br]]《0》: Activate Ultima Weapon Origin. You can only use this ability once per turn.[[br]]《ダル》: Deal 2000 damage to all the Forwards opponent controls.",
+        "name_ja": "アルテマウェポンオリジン",
+        "type_ja": "フォワード",
+        "job_ja": "ウェポン",
+        "text_ja": "アルテマウェポンオリジンはすべての領域で【カード名(アストス)】でもある。[[br]]《0》：アルテマウェポンオリジンをアクティブにする。このアビリティは1ターンに1度しか使えない。[[br]]《ダル》：対戦相手のコントロールするすべてのフォワードに2000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-021R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-021R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4540,
+        "code": "29-022R",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Cray Claw",
+        "type_en": "Monster",
+        "job_en": "War Machine",
+        "text_en": "If you control 5 or more Backups, Cray Claw also becomes a Forward with 9000 power.[[br]]When Cray Claw enters the field, choose 1 Forward opponent controls. Deal it 5000 damage. If your opponent has 2 or less cards in their hand, deal it 8000 damage instead.",
+        "name_ja": "クレイクロウ",
+        "type_ja": "モンスター",
+        "job_ja": "兵器",
+        "text_ja": "あなたがバックアップを5体以上コントロールしている場合、クレイクロウはパワー9000のフォワードとしても扱う。[[br]]クレイクロウがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それに5000ダメージを与える。対戦相手の手札が2枚以下の場合、代わりにそれに8000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-022R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-022R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4541,
+        "code": "29-023C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "0",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Goblin",
+        "type_en": "Monster",
+        "job_en": "Goblin",
+        "text_en": "《氷》《ダル》, put Goblin into the Break Zone: Choose 1 Forward. Deal it 3000 damage and dull it. Draw 1 card.",
+        "name_ja": "ゴブリン",
+        "type_ja": "モンスター",
+        "job_ja": "ゴブリン",
+        "text_ja": "《氷》《ダル》、ゴブリンをブレイクゾーンに置く：フォワード1体を選ぶ。それに3000ダメージを与え、ダルにする。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-023C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-023C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4542,
+        "code": "29-024H",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "5",
+        "power": "0",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Shiva",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Select up to 3 of the 4 following actions.[[br]]\"Choose up to 2 Forwards. Dull them and Freeze them.\"[[br]]\"Choose 1 Backup. Dull it and Freeze it.\"[[br]]\"Your opponent discards 1 card.\"[[br]]\"All the Ice Forwards you control gain +3000 power until the end of the turn.\"",
+        "name_ja": "シヴァ",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "以下から最大3つまで選択する。[[br]]・フォワードを最大2体まで選ぶ。それらをダルにし、凍結させる。[[br]]・バックアップ1体を選ぶ。それをダルにし、凍結させる。[[br]]・対戦相手は手札を1枚捨てる。[[br]]・ターン終了時まであなたのコントロールするすべての氷属性のフォワードのパワーを+3000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-024H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-024H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-024H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-024H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4543,
+        "code": "29-025R/26-029R",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Shiva (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "When Shiva (XVI) enters the field, Freeze all the Forwards opponent controls.[[br]]When Jill primes into Shiva (XVI), Freeze all the Characters opponent controls.[[br]][[s]]Ice Age[[/]] 《S》《1》《ダル》: Your opponent discards 2 cards. You can only use this ability during your Main Phase.",
+        "name_ja": "シヴァ ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "シヴァ ［XVI］がフィールドに出たとき、対戦相手のコントロールするすべてのフォワードを凍結させる。[[br]]ジルがシヴァ ［XVI］に顕現したとき、対戦相手のコントロールするすべてのキャラクターを凍結させる。[[br]][[s]]アイスエイジ[[/]] 《S》《1》《ダル》：対戦相手は手札を2枚捨てる。このアビリティはあなたのメインフェイズにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-025R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-025R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4544,
+        "code": "29-026C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "DFF &middot; XIII",
+        "category_2": "XIII",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Cid Raines",
+        "type_en": "Forward",
+        "job_en": "The Cavalry",
+        "text_en": "When your opponent discards 1 or more cards due to your Summons or abilities, choose 1 Character. Dull it and Freeze it.[[br]][[i]]Damage 3 --[[/]] When Cid Raines enters the field, your opponent discards 1 card.[[br]][[s]]Seraphic Ray[[/]] 《S》《ダル》: Your opponent discards 1 card.",
+        "name_ja": "シド・レインズ",
+        "type_ja": "フォワード",
+        "job_ja": "騎兵隊",
+        "text_ja": "あなたの召喚獣やアビリティによって対戦相手が手札を1枚以上捨てたとき、キャラクター1体を選ぶ。それをダルにし、凍結させる。[[br]][[i]]Damage 3 --[[/]] シド・レインズがフィールドに出たとき、対戦相手は手札を1枚捨てる。[[br]][[s]]セラフィックレイ[[/]] 《S》《ダル》：対戦相手は手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-026C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-026C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4545,
+        "code": "29-027L",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Shantotto",
+        "type_en": "Forward",
+        "job_en": "Mage",
+        "text_en": "When Shantotto enters the field, dull and Freeze all the Characters other than [[i]]Job Mage[[/]].[[br]]At the beginning of Main Phase 1 during each of your turns, select 1 of the 3 following actions.[[br]]\"Choose 1 dull Forward. Break it.\"[[br]]\"Choose up to 2 Backups. Freeze them.\"[[br]]\"Your opponent discards 1 card.\"",
+        "name_ja": "シャントット",
+        "type_ja": "フォワード",
+        "job_ja": "魔道士",
+        "text_ja": "シャントットがフィールドに出たとき、【ジョブ(魔道士)】以外のすべてのキャラクターをダルにし、凍結させる。[[br]]あなたの第1メインフェイズ開始時、以下から1つを選択する。[[br]]・ダル状態のフォワード1体を選ぶ。それをブレイクする。[[br]]・バックアップを最大2体まで選ぶ。それらを凍結させる。[[br]]・対戦相手は手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-027L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-027L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-027L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-027L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4546,
+        "code": "29-028C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "7000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Jill",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "[[i]]Priming \"Shiva (XVI)\" --[[/]] 《氷》《氷》[[br]]When Jill enters the field, choose up to 2 Forwards. Dull them and Freeze them.",
+        "name_ja": "ジル",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "[[i]]顕現「シヴァ ［XVI］」 --[[/]] 《氷》《氷》[[br]]ジルがフィールドに出たとき、フォワードを最大2体まで選ぶ。それらをダルにし、凍結させる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-028C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-028C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4547,
+        "code": "29-029R",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Xezat",
+        "type_en": "Forward",
+        "job_en": "Dawn Warrior",
+        "text_en": "Summons and abilities of your opponent must choose Xezat if possible.[[br]]《C》《C》, put Xezat into the Break Zone: Choose 1 Forward opponent controls. Remove it from the game.",
+        "name_ja": "ゼザ",
+        "type_ja": "フォワード",
+        "job_ja": "暁の四戦士",
+        "text_ja": "対戦相手の召喚獣やアビリティは可能ならばゼザを選ばなければならない。[[br]]《C》《C》、ゼザをブレイクゾーンに置く：対戦相手のコントロールするフォワード1体を選ぶ。それをゲームから除外する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-029R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-029R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-029R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-029R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4548,
+        "code": "29-030H",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "7000",
+        "category_1": "VI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Celes",
+        "type_en": "Forward",
+        "job_en": "Rune Knight",
+        "text_en": "If your opponent controls 2 or more dull Forwards, Celes cannot be chosen by your opponent's Summons or abilities.[[br]]When Celes enters the field, you may play 1 Ice Character of cost 3 or less from your hand onto the field.[[br]]Dull 2 active Forwards: Choose 1 Forward. Dull it.",
+        "name_ja": "セリス",
+        "type_ja": "フォワード",
+        "job_ja": "ルーンナイト",
+        "text_ja": "対戦相手がダル状態のフォワードを2体以上コントロールしている場合、セリスは対戦相手の召喚獣やアビリティによっては選ばれない。[[br]]セリスがフィールドに出たとき、あなたの手札からコスト3以下の氷属性のキャラクターカード1枚をフィールドに出してもよい。[[br]]アクティブ状態のフォワード2体をダルにする：フォワード1体を選ぶ。それをダルにする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-030H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-030H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4549,
+        "code": "29-031C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "FFTS",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Onion Knight (FFTS)",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "[[i]]Damage 3 -- [[/]]Onion Knight (FFTS) gains +2000 power.[[br]][[i]]Damage 5 -- [[/]]Onion Knight (FFTS) gains +2000 power and First Strike.",
+        "name_ja": "たまねぎ剣士 ［FFTS］",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "[[i]]Damage 3 -- [[/]]たまねぎ剣士 ［FFTS］のパワーは+2000される。[[br]][[i]]Damage 5 -- [[/]]たまねぎ剣士 ［FFTS］のパワーは+2000され、先制攻撃を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-031C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-031C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4550,
+        "code": "29-032C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "7000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Chadley",
+        "type_en": "Forward",
+        "job_en": "Scientist",
+        "text_en": "Chadley cannot attack or block.[[br]]When Chadley enters the field, place 1 Research Counter on Chadley.[[br]]《ダル》: Place 1 Research Counter on Chadley.[[br]]《ダル》, remove 1 Research Counter from Chadley: Choose 1 Forward. It gains +3000 power until the end of the turn.",
+        "name_ja": "チャドリー",
+        "type_ja": "フォワード",
+        "job_ja": "技術者",
+        "text_ja": "チャドリーはアタックやブロックできない。[[br]]チャドリーがフィールドに出たとき、チャドリーに研究カウンターを1つ置く。[[br]]《ダル》：チャドリーに研究カウンターを1つ置く。[[br]]《ダル》、チャドリーから研究カウンターを1つ取り除く：フォワード1体を選ぶ。ターン終了時までそれのパワーを+3000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-032C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-032C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4551,
+        "code": "29-033L",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "VI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Terra",
+        "type_en": "Forward",
+        "job_en": "Magitek Knight",
+        "text_en": "When Terra enters the field, you may search for 1 Summon and put it into the Break Zone. When you do so, choose up to 2 Characters. Dull them and Freeze them.[[br]]《3》, put Terra into the Break Zone: Choose 1 Summon of cost 5 or less other than Light or Dark in your Break Zone. Cast it without paying the cost. If you cast it, remove that Summon from the game after use instead of putting it in the Break Zone.",
+        "name_ja": "ティナ",
+        "type_ja": "フォワード",
+        "job_ja": "魔導戦士",
+        "text_ja": "ティナがフィールドに出たとき、召喚獣1枚をサーチし、ブレイクゾーンに置いてもよい。そうしたとき、キャラクターを最大2体まで選ぶ。それらをダルにし、凍結させる。[[br]]《3》、ティナをブレイクゾーンに置く：あなたのブレイクゾーンにある光か闇属性以外のコスト5以下の召喚獣1枚を選ぶ。それをコストを支払わずキャストする。キャストした場合、それはブレイクゾーンに置かれる代わりにゲームから除外される。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-033L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-033L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4552,
+        "code": "29-034C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "0",
+        "category_1": "THEATRHYTHM &middot; FFRK",
+        "category_2": "FFRK",
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Tyro",
+        "type_en": "Backup",
+        "job_en": "Apprentice",
+        "text_en": "[[ex]]EX BURST[[/]] When Tyro enters the field, reveal the top 4 cards of your deck. Add 1 Ice Character among them to your hand and return the other cards to the bottom of your deck in any order.",
+        "name_ja": "デシ",
+        "type_ja": "バックアップ",
+        "job_ja": "弟子",
+        "text_ja": "[[ex]]EX BURST[[/]] デシがフィールドに出たとき、デッキのカードを上から4枚公開する。その中から氷属性のキャラクターカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-034C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-034C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4553,
+        "code": "29-035H",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Torgal",
+        "type_en": "Forward",
+        "job_en": "Wolf",
+        "text_en": "If you control a[[i]] Card Name Clive[[/]] or a [[i]]Card Name Jill[[/]], the cost required to cast Torgal is reduced by 2.[[br]]Summons and abilities of your opponent must choose Torgal if possible.[[br]]If you control a [[i]]Category XVI[[/]] Forward other than Torgal, Torgal gains \"When Torgal is put from the field into the Break Zone, your opponent discards 1 card.\"",
+        "name_ja": "トルガル",
+        "type_ja": "フォワード",
+        "job_ja": "狼",
+        "text_ja": "あなたが【カード名(クライヴ)】か【カード名(ジル)】をコントロールしている場合、トルガルをキャストするためのコストは2減る。[[br]]対戦相手の召喚獣やアビリティは可能ならばトルガルを選ばなければならない。[[br]]あなたがトルガル以外の【カテゴリ(XVI)】のフォワードをコントロールしている場合、トルガルは「トルガルがフィールドからブレイクゾーンに置かれたとき、対戦相手は手札を1枚捨てる。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-035H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-035H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4554,
+        "code": "29-036C/15-038C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Knight",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Knight enters the field, gain 《C》.[[br]]《ダル》, put Knight into the Break Zone: Choose 1 Forward of cost 3 or less. Dull it. You can only use this ability during your turn.",
+        "name_ja": "ナイト",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "ナイトがフィールドに出たとき、《C》を得る。[[br]]《ダル》、ナイトをブレイクゾーンに置く：コスト3以下のフォワード1体を選ぶ。それをダルにする。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-036C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-036C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4555,
+        "code": "29-037C",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "MAI",
+        "type_en": "Backup",
+        "job_en": "Voice Assistant",
+        "text_en": "When MAI enters the field, choose 1 Monster opponent controls. If its cost is 2 or less, break it. If its cost is 3 or more, return it to its owner's hand.",
+        "name_ja": "MAI",
+        "type_ja": "バックアップ",
+        "job_ja": "音声アシスタント",
+        "text_ja": "MAIがフィールドに出たとき、対戦相手のコントロールするモンスター1体を選ぶ。それのコストが2以下の場合、それをブレイクする。それのコストが3以上の場合、それを手札に戻す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-037C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-037C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4556,
+        "code": "29-038H",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "H",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "VI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Mog (VI)",
+        "type_en": "Forward",
+        "job_en": "Warrior/Moogle",
+        "text_en": "When Mog (VI) enters the field, choose 1 dull Forward. If you control 4 or more Forwards, break it.[[br]]When a Forward opponent controls is put from the field into the Break Zone, your opponent discards 1 card. This effect will trigger only during your turn and only once per turn.",
+        "name_ja": "モグ ［VI］",
+        "type_ja": "フォワード",
+        "job_ja": "戦士/モーグリ",
+        "text_ja": "モグ ［VI］がフィールドに出たとき、ダル状態のフォワード1体を選ぶ。あなたがフォワードを4体以上コントロールしている場合、それをブレイクする。[[br]]対戦相手のコントロールするフォワードがフィールドからブレイクゾーンに置かれたとき、対戦相手は手札を1枚捨てる。このアビリティはあなたのターンにしか発動せず、1ターンに1度しか発動しない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-038H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-038H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4557,
+        "code": "29-039C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "0",
+        "category_1": "Special",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ahriman",
+        "type_en": "Monster",
+        "job_en": "Ahriman",
+        "text_en": "《風》《ダル》, put Ahriman into the Break Zone: Choose 1 Forward of cost 5 or more. Deal it 7000 damage. Draw 1 card.",
+        "name_ja": "アーリマン",
+        "type_ja": "モンスター",
+        "job_ja": "アーリマン",
+        "text_ja": "《風》《ダル》、アーリマンをブレイクゾーンに置く：コスト5以上のフォワード1体を選ぶ。それに7000ダメージを与える。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-039C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-039C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-039C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-039C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4558,
+        "code": "29-040H",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "FFTA2",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Adelle",
+        "type_en": "Forward",
+        "job_en": "Heritor",
+        "text_en": "Haste[[br]]When you discard 1 or more cards due to an ability, choose 1 [[i]]Category FFTA2[[/]] Forward. It gains +2000 power until the end of the turn.[[br]]When Adelle attacks, you may discard 1 card. When you do so, activate Adelle. Adelle gains \"Adelle can attack twice in the same turn.\" until the end of the turn.",
+        "name_ja": "アデル",
+        "type_ja": "フォワード",
+        "job_ja": "エアレス",
+        "text_ja": "ヘイスト[[br]]あなたがアビリティによって手札を1枚以上捨てたとき、【カテゴリ(FFTA2)】のフォワード1体を選ぶ。ターン終了時までそれのパワーを+2000する。[[br]]アデルがアタックしたとき、手札を1枚捨ててもよい。そうしたとき、アデルをアクティブにする。ターン終了時までアデルは「アデルは1ターンに2回アタックできる。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-040H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-040H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-040H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-040H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4559,
+        "code": "29-041H",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "3",
+        "power": "0",
+        "category_1": "MOBIUS",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Alexander",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Choose up to 3 Forwards opponent controls. Deal them 5000 damage.",
+        "name_ja": "アレキサンダー",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "対戦相手のコントロールするフォワードを最大3体まで選ぶ。それらに5000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-041H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-041H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4560,
+        "code": "29-042R",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "MOBIUS",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Wol",
+        "type_en": "Forward",
+        "job_en": "Assassin/Warrior of Light",
+        "text_en": "When Wol deals damage to your opponent, choose 1 Forward of cost 5 or more opponent controls. Break it.[[br]]《C》: Wol gains \"Wol cannot be blocked.\" until the end of the turn.",
+        "name_ja": "ウォル",
+        "type_ja": "フォワード",
+        "job_ja": "アサシン/光の戦士",
+        "text_ja": "ウォルが対戦相手にダメージを与えたとき、対戦相手のコントロールするコスト5以上のフォワード1体を選ぶ。それをブレイクする。[[br]]《C》：ターン終了時までウォルは「ウォルはブロックされない。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-042R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-042R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4561,
+        "code": "29-043R",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Aerith",
+        "type_en": "Forward",
+        "job_en": "Ancient",
+        "text_en": "When a [[i]]Category VII[[/]] Character is put from your hand or your deck into the Break Zone due to Summons or abilities, add it to your hand. This effect will trigger only once per turn.",
+        "name_ja": "エアリス",
+        "type_ja": "フォワード",
+        "job_ja": "古代種",
+        "text_ja": "召喚獣やアビリティによってあなたの手札かデッキから【カテゴリ(VII)】のキャラクターカードがブレイクゾーンに置かれたとき、それを手札に加える。このアビリティは1ターンに1度しか発動しない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-043R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-043R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4562,
+        "code": "29-044C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Elmyra",
+        "type_en": "Backup",
+        "job_en": "Sector Five Undercity Resident",
+        "text_en": "[[ex]]EX BURST[[/]] When Elmyra enters the field, you may search for 1 [[i]]Card Name Aerith[[/]] and add it to your hand.[[br]]《風》《ダル》: Choose 1 [[i]]Card Name Aerith[[/]] you control. It gains \"This Character cannot be chosen by your opponent's abilities.\" until the end of the turn.",
+        "name_ja": "エルミナ",
+        "type_ja": "バックアップ",
+        "job_ja": "伍番街スラム住民",
+        "text_ja": "[[ex]]EX BURST[[/]] エルミナがフィールドに出たとき、【カード名(エアリス)】1枚をサーチし、手札に加えてもよい。[[br]]《風》《ダル》：あなたのコントロールする【カード名(エアリス)】1体を選ぶ。ターン終了時までそれに「自身は対戦相手のアビリティによっては選ばれない。」を与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-044C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-044C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4563,
+        "code": "29-045C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "5000",
+        "category_1": "FFTS",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Dancer",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Dancer enters the field, reveal the top 5 cards of your deck. Add 1 Forward of cost 3 or less among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]At the end of each of your turns, activate Dancer.",
+        "name_ja": "踊り子",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "踊り子がフィールドに出たとき、デッキのカードを上から5枚公開する。その中からコスト3以下のフォワード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]あなたのターン終了時、踊り子をアクティブにする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-045C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-045C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4564,
+        "code": "29-046L",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Garuda (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "When Garuda (XVI) deals damage to your opponent or when Benedikta primes into Garuda (XVI), reveal the top 2 cards of your deck. Add 1 Wind Character among them to your hand or play 1 Wind Character among them onto the field, and put the rest of the cards into the Break Zone.[[br]][[s]]Aerial Blast[[/]] 《S》《5》《ダル》: Garuda (XVI) deals your opponent 1 point of damage. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ガルーダ ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "ガルーダ ［XVI］が対戦相手にダメージを与えるかベネディクタがガルーダ ［XVI］に顕現したとき、デッキのカードを上から2枚公開する。その中から風属性のキャラクターカード1枚を手札に加えるかフィールドに出し、残りをブレイクゾーンに置く。[[br]][[s]]エリアルブラスト[[/]] 《S》《5》《ダル》：ガルーダ ［XVI］は対戦相手に1点のダメージを与える。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-046L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-046L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4565,
+        "code": "29-047C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Chloe",
+        "type_en": "Backup",
+        "job_en": "Chocobo Ranch Hand",
+        "text_en": "When a [[i]]Job Chocobo[[/]] or a [[i]]Card Name Chocobo[[/]] enters your field, activate Chloe. This effect will trigger only once per turn.[[br]]《ダル》: Choose 1 [[i]]Job Chocobo[[/]] or [[i]]Card Name Chocobo[[/]]. It gains \"This Character cannot be chosen by your opponent's abilities.\" until the end of the turn.",
+        "name_ja": "クリン",
+        "type_ja": "バックアップ",
+        "job_ja": "チョコボファーム",
+        "text_ja": "あなたのフィールドに【ジョブ/カード名(チョコボ)】が出たとき、クリンをアクティブにする。このアビリティは1ターンに1度しか発動しない。[[br]]《ダル》：【ジョブ/カード名(チョコボ)】1体を選ぶ。ターン終了時までそれに「自身は対戦相手のアビリティによっては選ばれない。」を与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-047C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-047C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4566,
+        "code": "29-048C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "5000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Billy",
+        "type_en": "Forward",
+        "job_en": "Chocobo Ranch Hand",
+        "text_en": "The[[i]] Job Chocobo[[/]] Forwards and[[i]] Card Name Chocobo [[/]]Forwards you control gain +3000 power.[[br]]When Billy enters the field, you may search for 1 [[i]]Card Name Chloe[[/]],[[i]] Job Chocobo[[/]] or [[i]]Card Name Chocobo[[/]] of cost 3 or less and play it onto the field.",
+        "name_ja": "グリングリン",
+        "type_ja": "フォワード",
+        "job_ja": "チョコボファーム",
+        "text_ja": "あなたのコントロールする【ジョブ/カード名(チョコボ)】のフォワードのパワーを+3000する。[[br]]グリングリンがフィールドに出たとき、コスト3以下の【カード名(クリン)】か【ジョブ/カード名(チョコボ)】1枚をサーチし、フィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-048C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-048C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4567,
+        "code": "29-049H",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "7000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Sophia (SOPFFO)",
+        "type_en": "Forward",
+        "job_en": "Sage",
+        "text_en": "If a[[i]] Category SOPFFO[[/]] Forward you control is dealt damage, reduce the damage by 1000 instead.[[br]]When Sophia (SOPFFO) enters the field, choose 1 Wind Character of cost 2 or less in your Break Zone. If you control a [[i]]Category SOPFFO[[/]] Character other than Sophia (SOPFFO), play it onto the field.",
+        "name_ja": "ソフィア",
+        "type_ja": "フォワード",
+        "job_ja": "賢者",
+        "text_ja": "あなたのコントロールする【カテゴリ(SOPFFO)】のフォワードにダメージが与えられる場合、代わりにそのダメージは1000減る。[[br]]ソフィアがフィールドに出たとき、あなたのブレイクゾーンにあるコスト2以下の風属性のキャラクターカード1枚を選ぶ。あなたがソフィア以外の【カテゴリ(SOPFFO)】のキャラクターをコントロールしている場合、それをフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-049H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-049H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-049H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-049H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4568,
+        "code": "29-050C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "Crystal Hunt",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Chocobo",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Chocobo enters the field, you may dull 1 active Wind Forward you control. When you do so, Chocobo gains Haste until the end of the turn.[[br]]When Chocobo attacks, reveal the top 3 cards of your deck. Add 1 [[i]]Job Chocobo[[/]] or [[i]]Card Name Chocobo[[/]] among them to your hand and return the other cards to the bottom of your deck in any order.",
+        "name_ja": "チョコボ",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "チョコボがフィールドに出たとき、あなたのコントロールするアクティブ状態の風属性のフォワード1体をダルにしてもよい。そうしたとき、ターン終了時までチョコボはヘイストを得る。[[br]]チョコボがアタックしたとき、デッキのカードを上から3枚公開する。その中から【ジョブ/カード名(チョコボ)】1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-050C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-050C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4569,
+        "code": "29-051C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "3000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Stray Chocobo",
+        "type_en": "Forward",
+        "job_en": "Chocobo",
+        "text_en": "When active Stray Chocobo becomes dull, activate Stray Chocobo. This effect will trigger only during your turn and only once per turn.[[br]]When active Stray Chocobo becomes dull, choose 1 Forward. It gains +1000 power until the end of the turn.",
+        "name_ja": "はぐれチョコボ",
+        "type_ja": "フォワード",
+        "job_ja": "チョコボ",
+        "text_ja": "アクティブ状態のはぐれチョコボがダル状態になったとき、はぐれチョコボをアクティブにする。このアビリティはあなたのターンにしか発動せず、1ターンに1度しか発動しない。[[br]]アクティブ状態のはぐれチョコボがダル状態になったとき、フォワード1体を選ぶ。ターン終了時までそれのパワーを+1000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-051C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-051C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4570,
+        "code": "29-052H",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "H",
+        "cost": "5",
+        "power": "7000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Bartz",
+        "type_en": "Forward",
+        "job_en": "Wanderer/Warrior of Light",
+        "text_en": "When Bartz enters the field, choose up to 2 [[i]]Job Chocobo[[/]] and/or [[i]]Card Name Chocobo[[/]] Characters in your Break Zone. Add them to your hand.[[br]]When a Forward you control attacks, choose 1 Forward opponent controls. Deal it 4000 damage.[[br]]Dull 1 active [[i]]Job Chocobo[[/]] or [[i]]Card Name Chocobo[[/]]: Until the end of the turn, Bartz gains Haste and Bartz's power becomes 9000.",
+        "name_ja": "バッツ",
+        "type_ja": "フォワード",
+        "job_ja": "旅人/光の戦士",
+        "text_ja": "バッツがフィールドに出たとき、あなたのブレイクゾーンにある【ジョブ/カード名(チョコボ)】のキャラクターカードを最大2枚まで選ぶ。それらを手札に加える。[[br]]あなたのコントロールするフォワード1体がアタックするたび、対戦相手のコントロールするフォワード1体を選ぶ。それに4000ダメージを与える。[[br]]アクティブ状態の【ジョブ/カード名(チョコボ)】1体をダルにする：ターン終了時までバッツのパワーは9000になり、ヘイストを得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-052H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-052H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-052H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-052H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4571,
+        "code": "29-053R",
+        "image": "[]",
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Benedikta",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "<p>[[i]]Priming \"Garuda (XVI)\" --[[/]] 《風》《風》[[br]]When Benedikta enters the field, choose up to 2 Wind Backups. Activate them.[[br]]When Benedikta enters the field, if any[[i]] Job Eikon[[/]] you own are removed from the game, Benedikta gains Haste until the end of the turn.</p>\r\n",
+        "name_ja": "ベネディクタ",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "[[i]]顕現「ガルーダ ［XVI］」 -- [[/]]《風》《風》[[br]]ベネディクタがフィールドに出たとき、風属性のバックアップを最大2体まで選ぶ。それらをアクティブにする。[[br]]ベネディクタがフィールドに出たとき、ゲームから除外されているあなたの【ジョブ(召喚獣)】が1枚以上ある場合、ターン終了時までベネディクタはヘイストを得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-053R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-053R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4572,
+        "code": "29-054R",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Great Malboro",
+        "type_en": "Monster",
+        "job_en": "Malboro",
+        "text_en": "If you control 5 or more Backups, Great Malboro also becomes a Forward with 8000 power.[[br]]When Great Malboro enters the field, your opponent reveals their hand. Select up to 2 cards in their hand. Your opponent removes them from the game. At the end of your opponent's turn, add them to their owner's hand.",
+        "name_ja": "モルボルグレート",
+        "type_ja": "モンスター",
+        "job_ja": "モルボル",
+        "text_ja": "あなたがバックアップを5体以上コントロールしている場合、モルボルグレートはパワー8000のフォワードとしても扱う。[[br]]モルボルグレートがフィールドに出たとき、対戦相手は手札を公開する。あなたはその中から最大2枚まで指定する。対戦相手はそれらをゲームから除外する。対戦相手のターン終了時にそれらを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-054R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-054R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4573,
+        "code": "29-055C/15-058C",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Dragoon",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Dragoon enters the field, gain 《C》.[[br]]《ダル》, put Dragoon into the Break Zone: Choose 1 Forward. It gains First Strike until the end of the turn. You can only use this ability during your turn.",
+        "name_ja": "竜騎士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "竜騎士がフィールドに出たとき、《C》を得る。[[br]]《ダル》、竜騎士をブレイクゾーンに置く：フォワード1体を選ぶ。ターン終了時までそれに先制攻撃を与える。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-055C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-055C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4574,
+        "code": "29-056R",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Lucil",
+        "type_en": "Forward",
+        "job_en": "Member of the Chocobo Knights/Chocobo",
+        "text_en": "When Lucil enters the field, if you control 3 or more [[i]]Job Chocobo[[/]] and/or [[i]]Card Name Chocobo[[/]], draw 1 card.[[br]]Dull 1 active [[i]]Job Chocobo[[/]] or[[i]] Card Name Chocobo[[/]] other than Lucil: Until the end of the turn, Lucil's power becomes 8000.",
+        "name_ja": "ルチル",
+        "type_ja": "フォワード",
+        "job_ja": "チョコボ騎兵隊/チョコボ",
+        "text_ja": "ルチルがフィールドに出たとき、あなたが【ジョブ/カード名(チョコボ)】を3体以上コントロールしている場合、カードを1枚引く。[[br]]ルチル以外のアクティブ状態の【ジョブ/カード名(チョコボ)】1体をダルにする：ターン終了時までルチルのパワーは8000になる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-056R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-056R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-056R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-056R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4575,
+        "code": "29-057L",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "L",
+        "cost": "8",
+        "power": "5000",
+        "category_1": "FFTA2",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Luso",
+        "type_en": "Forward",
+        "job_en": "Clan Gully Member",
+        "text_en": "When Luso enters the field, you may search for up to 3 [[i]]Category FFTA2[[/]] Forwards with a total cost of 6 or less and play them onto the field.[[br]]At the beginning of the Attack Phase during each of your turns, choose 1 [[i]]Category FFTA2[[/]] Forward. If there are 4 or more different Elements among Characters you control, it gains Haste until the end of the turn.",
+        "name_ja": "ルッソ",
+        "type_ja": "フォワード",
+        "job_ja": "ガリークラン",
+        "text_ja": "ルッソがフィールドに出たとき、コストの合計が6以下になるように【カテゴリ(FFTA2)】のフォワードを最大3枚までサーチし、フィールドに出してもよい。[[br]]あなたのアタックフェイズ開始時、【カテゴリ(FFTA2)】のフォワード1体を選ぶ。あなたのコントロールするキャラクターの属性が4つ以上の場合、ターン終了時までそれにヘイストを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-057L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-057L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-057L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-057L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4576,
+        "code": "29-058R",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "THEATRHYTHM &middot; XV",
+        "category_2": "XV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ardyn",
+        "type_en": "Forward",
+        "job_en": "Chief Minister",
+        "text_en": "Brave[[br]]Ardyn cannot become dull by your opponent's Summons or abilities.[[br]]When Ardyn enters the field due to your cast, Ardyn gains \"Ardyn cannot be broken.\" until the end of your opponent's turn.",
+        "name_ja": "アーデン",
+        "type_ja": "フォワード",
+        "job_ja": "宰相",
+        "text_ja": "ブレイブ[[br]]アーデンは対戦相手の召喚獣やアビリティによってはダル状態にならない。[[br]]アーデンがキャストによってフィールドに出たとき、対戦相手のターン終了時までアーデンは「アーデンはブレイクされない。」を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-058R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-058R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4577,
+        "code": "29-059H",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ash",
+        "type_en": "Forward",
+        "job_en": "Monk",
+        "text_en": "When Ash, a [[i]]Job Monk[[/]] or a [[i]]Card Name Monk[[/]] enters your field, choose 1 Forward. Until the end of the turn, it gains +2000 power and Brave.[[br]]When Ash enters the field, you may search for 1 [[i]]Job Monk[[/]] or [[i]]Card Name Monk[[/]] and add it to your hand. Then, if you control a [[i]]Category SOPFFO[[/]] Character other than Ash, you may play 1 [[i]]Job Monk[[/]] or[[i]] Card Name Monk[[/]] of cost 3 or less from your hand onto the field.",
+        "name_ja": "アッシュ",
+        "type_ja": "フォワード",
+        "job_ja": "モンク",
+        "text_ja": "あなたのフィールドにアッシュか【ジョブ/カード名(モンク)】1体が出るたび、フォワード1体を選ぶ。ターン終了時までそれのパワーを+2000し、ブレイブを与える。[[br]]アッシュがフィールドに出たとき、【ジョブ/カード名(モンク)】1枚をサーチし、手札に加えてもよい。その後、あなたがアッシュ以外の【カテゴリ(SOPFFO)】のキャラクターをコントロールしている場合、あなたの手札からコスト3以下の【ジョブ/カード名(モンク)】1枚をフィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-059H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-059H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-059H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-059H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4578,
+        "code": "29-060C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "7000",
+        "category_1": "THEATRHYTHM &middot; XV",
+        "category_2": "XV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ignis",
+        "type_en": "Forward",
+        "job_en": "Retainer",
+        "text_en": "When Ignis enters the field, reveal the top 5 cards of your deck. Add 1 [[i]]Category XV [[/]]Character among them to your hand and return the other cards to the bottom of your deck in any order.[[br]][[s]]Sagefire[[/]] 《S》《ダル》: Choose 1 dull Forward. Break it.",
+        "name_ja": "イグニス",
+        "type_ja": "フォワード",
+        "job_ja": "側近",
+        "text_ja": "イグニスがフィールドに出たとき、デッキのカードを上から5枚公開する。その中から【カテゴリ(XV)】のキャラクターカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]][[s]]賢者の炎[[/]] 《S》《ダル》：ダル状態のフォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-060C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-060C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4579,
+        "code": "29-061L",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "L",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Vincent",
+        "type_en": "Forward",
+        "job_en": "Gunslinger",
+        "text_en": "When Vincent enters the field, reveal the top 2 cards of your deck. Add 1 [[i]]Category VII[[/]] card among them to your hand and put the rest of the cards into the Break Zone.[[br]]At the beginning of the Attack Phase during each of your turns, select 1 of the 2 following actions.[[br]]\"Until the end of the turn, Vincent gains +3000 power and Brave.\"[[br]]\"Choose 1 Forward. Deal it 6000 damage.\"",
+        "name_ja": "ヴィンセント",
+        "type_ja": "フォワード",
+        "job_ja": "ガンナー",
+        "text_ja": "ヴィンセントがフィールドに出たとき、デッキのカードを上から2枚公開する。その中から【カテゴリ(VII)】のカード1枚を手札に加え、残りをブレイクゾーンに置く。[[br]]あなたのアタックフェイズ開始時、以下から1つを選択する。[[br]]・ターン終了時までヴィンセントのパワーを+3000し、ブレイブを得る。[[br]]・フォワード1体を選ぶ。それに6000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-061L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-061L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4580,
+        "code": "29-062R",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "7000",
+        "category_1": "MOBIUS",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Wol",
+        "type_en": "Forward",
+        "job_en": "Scholar/Warrior of Light",
+        "text_en": "When Wol enters the field, choose 1 Backup of cost 2 or less in your Break Zone. Play it onto the field.[[br]]《C》: Choose 1 Character in your Break Zone. Add it to your hand. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ウォル",
+        "type_ja": "フォワード",
+        "job_ja": "学者/光の戦士",
+        "text_ja": "ウォルがフィールドに出たとき、あなたのブレイクゾーンにあるコスト2以下のバックアップ1枚を選ぶ。それをフィールドに出す。[[br]]《C》：あなたのブレイクゾーンにあるキャラクターカード1枚を選ぶ。それを手札に加える。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-062R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-062R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4581,
+        "code": "29-063R",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "DFF &middot; V",
+        "category_2": "V",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Exdeath",
+        "type_en": "Forward",
+        "job_en": "Wizard",
+        "text_en": "If Exdeath is dealt damage by your opponent's Summons or abilities, the damage becomes 0 instead.[[br]]Exdeath cannot be broken by opposing Summons or abilities that don't deal damage.[[br]]When Exdeath on the field is removed from the game, you may search for 1 [[i]]Card Name Neo Exdeath[[/]] and add it to your hand.",
+        "name_ja": "エクスデス",
+        "type_ja": "フォワード",
+        "job_ja": "暗黒魔道士",
+        "text_ja": "エクスデスに対戦相手の召喚獣やアビリティからダメージが与えられる場合、代わりにそのダメージは0になる。[[br]]エクスデスは対戦相手の召喚獣やアビリティによってはブレイクされない(パワー以上のダメージを受けている場合、ルールによってブレイクされる)。[[br]]フィールドにいるエクスデスがゲームから除外されたとき、【カード名(ネオエクスデス)】1枚をサーチし、手札に加えてもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-063R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-063R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4582,
+        "code": "29-064C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "0",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Gargoyle",
+        "type_en": "Monster",
+        "job_en": "Gargoyle",
+        "text_en": "《土》《ダル》, put Gargoyle into the Break Zone: Choose 1 Forward. During this turn, the next damage dealt to it is reduced by 4000 instead. Draw 1 card.",
+        "name_ja": "ガーゴイル",
+        "type_ja": "モンスター",
+        "job_ja": "ガーゴイル",
+        "text_ja": "《土》《ダル》、ガーゴイルをブレイクゾーンに置く：フォワード1体を選ぶ。このターン、次にそれにダメージが与えられる場合、代わりにそのダメージを4000減らす。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-064C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-064C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4583,
+        "code": "29-065C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Galuf",
+        "type_en": "Forward",
+        "job_en": "Dawn Warrior",
+        "text_en": "[[ex]]EX BURST[[/]] When Galuf enters the field, choose 1 Character in your Break Zone. Add it to your hand.",
+        "name_ja": "ガラフ",
+        "type_ja": "フォワード",
+        "job_ja": "暁の四戦士",
+        "text_ja": "[[ex]]EX BURST[[/]] ガラフがフィールドに出たとき、あなたのブレイクゾーンにあるキャラクターカード1枚を選ぶ。それを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-065C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-065C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4584,
+        "code": "29-066C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "THEATRHYTHM &middot; XV",
+        "category_2": "XV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Gladiolus",
+        "type_en": "Forward",
+        "job_en": "Retainer",
+        "text_en": "Brave[[br]]《ダル》: Choose 1 [[i]]Category XV[[/]] Forward other than Gladiolus you control. It gains +2000 power until the end of the turn.",
+        "name_ja": "グラディオラス",
+        "type_ja": "フォワード",
+        "job_ja": "側近",
+        "text_ja": "ブレイブ[[br]]《ダル》：あなたのコントロールするグラディオラス以外の【カテゴリ(XV)】のフォワード1体を選ぶ。ターン終了時までそれのパワーを+2000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-066C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-066C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4585,
+        "code": "29-067C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Krile",
+        "type_en": "Backup",
+        "job_en": "Warrior of Light",
+        "text_en": "《土》《ダル》, put Krile into the Break Zone: Play 1 [[i]]Card Name Galuf[[/]] of cost 6 or less or 1 Earth Forward of cost 4 or less from your hand onto the field. You can only use this ability during your turn.",
+        "name_ja": "クルル",
+        "type_ja": "バックアップ",
+        "job_ja": "光の戦士",
+        "text_ja": "《土》《ダル》、クルルをブレイクゾーンに置く：あなたの手札からコスト6以下の【カード名(ガラフ)】かコスト4以下の土属性のフォワード1枚をフィールドに出す。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-067C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-067C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4586,
+        "code": "29-068L",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Titan (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "During your turn, the Backups opponent controls cannot produce CP.[[br]]When Hugo primes into Titan (XVI), choose up to 3 Forwards. They gain \"At the beginning of your opponent's Attack Phase, if you don't pay 《1》, break this Forward.\" until the end of the turn.[[br]][[s]]Geocrush[[/]] 《S》《ダル》: Choose 1 Backup. Break it.",
+        "name_ja": "タイタン ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "あなたのターン中、対戦相手のコントロールするバックアップはCPを生み出すことができない。[[br]]フーゴがタイタン ［XVI］に顕現したとき、フォワードを最大3体まで選ぶ。ターン終了時までそれらに「対戦相手のアタックフェイズ開始時、あなたは《1》を支払わない限り、自身をブレイクする。」を与える。[[br]][[s]]ジオクラッシュ[[/]] 《S》《ダル》：バックアップ1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-068L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-068L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4587,
+        "code": "29-069C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "6",
+        "power": "0",
+        "category_1": "FFTS",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Dhorgorgang",
+        "type_en": "Backup",
+        "job_en": "Clan Custodian",
+        "text_en": "When Dhorgorgang enters the field, reveal the top 5 cards of your deck. Add up to 2 Forwards among them to your hand and return the other cards to the bottom of your deck in any order.",
+        "name_ja": "ドゴルガング",
+        "type_ja": "バックアップ",
+        "job_ja": "クラン管理人",
+        "text_ja": "ドゴルガングがフィールドに出たとき、デッキのカードを上から5枚公開する。その中からフォワードを最大2枚まで手札に加え、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-069C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-069C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4588,
+        "code": "29-070R",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Dragon Zombie",
+        "type_en": "Monster",
+        "job_en": "Undead/Dragon",
+        "text_en": "If you control 5 or more Backups, Dragon Zombie also becomes a Forward with 8000 power.[[br]]When Dragon Zombie enters the field, choose up to 3 Forwards. They gain \"This Forward cannot attack or block.\" until the end of your opponent's turn.",
+        "name_ja": "ドラゴンゾンビ",
+        "type_ja": "モンスター",
+        "job_ja": "アンデッド/竜",
+        "text_ja": "あなたがバックアップを5体以上コントロールしている場合、ドラゴンゾンビはパワー8000のフォワードとしても扱う。[[br]]ドラゴンゾンビがフィールドに出たとき、フォワードを最大3体まで選ぶ。対戦相手のターン終了時までそれらに「自身はアタックやブロックできない。」を与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-070R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-070R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4589,
+        "code": "29-071R",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "8000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Hugo",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "[[i]]Priming \"Titan (XVI)\" --[[/]] 《土》《1》[[br]]Hugo cannot be broken by opposing Summons or abilities that don't deal damage.",
+        "name_ja": "フーゴ",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "[[i]]顕現「タイタン ［XVI］」 --[[/]] 《土》《1》[[br]]フーゴは対戦相手の召喚獣やアビリティによってはブレイクされない(パワー以上のダメージを受けている場合、ルールによってブレイクされる)。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-071R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-071R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4590,
+        "code": "29-072C/15-080C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Geomancer",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Geomancer enters the field, gain 《C》.[[br]]《ダル》, put Geomancer into the Break Zone: Choose 1 Forward. It gains Brave until the end of the turn. You can only use this ability during your turn.",
+        "name_ja": "風水士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "風水士がフィールドに出たとき、《C》を得る。[[br]]《ダル》、風水士をブレイクゾーンに置く：フォワード1体を選ぶ。ターン終了時までそれにブレイブを与える。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-072C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-072C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4591,
+        "code": "29-073C",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "5000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Beastmaster",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Beastmaster enters the field, choose 1 Monster of cost 1 in your Break Zone. Add it to your hand.",
+        "name_ja": "魔獣使い",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "魔獣使いがフィールドに出たとき、あなたのブレイクゾーンにあるコスト1のモンスター1枚を選ぶ。それを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-073C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-073C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4592,
+        "code": "29-074H",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "1",
+        "power": "0",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Moogle Trio",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "[[ex]]EX BURST[[/]] Choose 1 Forward. Deal it 2000 damage for each Forward you control.",
+        "name_ja": "モーグリーズ",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "[[ex]]EX BURST[[/]] フォワード1体を選ぶ。それにあなたのコントロールするフォワード1体につき、2000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-074H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-074H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4593,
+        "code": "29-075H",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "7",
+        "power": "0",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Yoran-Oran",
+        "type_en": "Backup",
+        "job_en": "Mage",
+        "text_en": "Auto-abilities, action abilities and special abilities of your [[i]]Job Mage[[/]] cannot be cancelled.[[br]]When Yoran-Oran enters the field, you may search for 1 [[i]]Job Mage[[/]] Forward of cost 5 or less and play it onto the field.",
+        "name_ja": "ヨランオラン",
+        "type_ja": "バックアップ",
+        "job_ja": "魔道士",
+        "text_ja": "あなたの【ジョブ(魔道士)】のオートアビリティとアクションアビリティとスペシャルアビリティは無効にされない。[[br]]ヨランオランがフィールドに出たとき、コスト5以下の【ジョブ(魔道士)】のフォワード1枚をサーチし、フィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-075H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-075H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-075H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-075H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4594,
+        "code": "29-076H",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "6000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Roche",
+        "type_en": "Forward",
+        "job_en": "SOLDIER",
+        "text_en": "When Roche attacks, choose 1 Forward opponent controls. Roche and the chosen Forward deal damage equal to their respective power to the other.[[br]]Remove 1 [[i]]Card Name Roche[[/]] in your Break Zone from the game: Roche gains \"Roche must attack once per turn if possible.\" and Roche's power becomes 9000. (This effect does not end at the end of the turn.)",
+        "name_ja": "ローチェ",
+        "type_ja": "フォワード",
+        "job_ja": "ソルジャー",
+        "text_ja": "ローチェがアタックしたとき、対戦相手のコントロールするフォワード1体を選ぶ。それとローチェはお互いのパワーに等しいダメージを与えあう。[[br]]ブレイクゾーンにある【カード名(ローチェ)】1枚をゲームから除外する：ローチェのパワーは9000になり、「ローチェは可能ならば1ターンに1度アタックしなければならない。」を得る(この効果はターン終了時に終わらない)。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-076H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-076H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-076H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-076H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4595,
+        "code": "29-077C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "4",
+        "power": "7000",
+        "category_1": "DFF &middot; XV",
+        "category_2": "XV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Aranea",
+        "type_en": "Forward",
+        "job_en": "Dragoon",
+        "text_en": "When Aranea enters the field, choose 1 Forward opponent controls. If its cost is equal to or less than the number of Lightning Characters you control, break it.",
+        "name_ja": "アラネア",
+        "type_ja": "フォワード",
+        "job_ja": "竜騎士",
+        "text_ja": "アラネアがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それのコストがあなたのコントロールする雷属性のキャラクターの数以下の場合、それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-077C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-077C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4596,
+        "code": "29-078R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "10000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Omega Weapon",
+        "type_en": "Monster",
+        "job_en": "Weapon",
+        "text_en": "If you control 5 or more Backups, Omega Weapon also becomes a Forward with 10000 power.[[br]]When Omega Weapon enters the field, select 1 of the 2 following actions.[[br]]\"Deal 5000 damage to all the Forwards opponent controls.\"[[br]]\"Choose 1 Forward opponent controls. Break it.\"",
+        "name_ja": "オメガウェポン",
+        "type_ja": "モンスター",
+        "job_ja": "ウェポン",
+        "text_ja": "あなたがバックアップを5体以上コントロールしている場合、オメガウェポンはパワー10000のフォワードとしても扱う。[[br]]オメガウェポンがフィールドに出たとき、以下から1つを選択する。[[br]]・対戦相手のコントロールするすべてのフォワードに5000ダメージを与える。[[br]]・対戦相手のコントロールするフォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-078R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-078R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4597,
+        "code": "29-079C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "DFF &middot; IV",
+        "category_2": "IV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Kain",
+        "type_en": "Forward",
+        "job_en": "Dragoon",
+        "text_en": "When Kain enters the field, choose 1 Forward of cost 3 or less. Break it.[[br]][[i]]Damage 5 --[[/]] Kain gains Haste.",
+        "name_ja": "カイン",
+        "type_ja": "フォワード",
+        "job_ja": "竜騎士",
+        "text_ja": "カインがフィールドに出たとき、コスト3以下のフォワード1体を選ぶ。それをブレイクする。[[br]][[i]]Damage 5 -- [[/]]カインはヘイストを得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-079C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-079C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4598,
+        "code": "29-080C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "0",
+        "category_1": "I",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Chaos",
+        "type_en": "Backup",
+        "job_en": "Chaos",
+        "text_en": "When Chaos enters the field, your opponent selects 1 of the 2 following actions.[[br]]\"Your opponent selects up to 2 Forwards they control (select as many as possible). Put them into the Break Zone.\"[[br]]\"Your opponent discards 3 cards.\"",
+        "name_ja": "カオス",
+        "type_ja": "バックアップ",
+        "job_ja": "カオス",
+        "text_ja": "カオスがフィールドに出たとき、対戦相手は以下から1つを選択する。[[br]]・対戦相手は自分のコントロールするフォワードを2体まで可能な限り選択する。それらをブレイクゾーンに置く。[[br]]・対戦相手は手札を3枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-080C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-080C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-080C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-080C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4599,
+        "code": "29-081C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "0",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Coeurl",
+        "type_en": "Monster",
+        "job_en": "Coeurl",
+        "text_en": "《雷》《ダル》, put Coeurl into the Break Zone: Choose 1 Forward of cost 2 or less. Deal it 5000 damage. Draw 1 card.",
+        "name_ja": "クァール",
+        "type_ja": "モンスター",
+        "job_ja": "クァール",
+        "text_ja": "《雷》《ダル》、クァールをブレイクゾーンに置く：コスト2以下のフォワード1体を選ぶ。それに5000ダメージを与える。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-081C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-081C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4600,
+        "code": "29-082R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "6000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Kelger",
+        "type_en": "Forward",
+        "job_en": "Dawn Warrior",
+        "text_en": "If you control a [[i]]Card Name Bartz[[/]] or a [[i]]Job Dawn Warrior[[/]], the cost required to cast Kelger is reduced by 3.[[br]]When Kelger enters the field, gain 《C》. If you control a [[i]]Job[[/]] [[i]]Dawn Warrior [[/]]other than Kelger, also gain 《C》.",
+        "name_ja": "ケルガー",
+        "type_ja": "フォワード",
+        "job_ja": "暁の四戦士",
+        "text_ja": "あなたが【カード名(バッツ)】か【ジョブ(暁の四戦士)】をコントロールしている場合、ケルガーをキャストするためのコストは3減る。[[br]]ケルガーがフィールドに出たとき、《C》を得る。あなたがケルガー以外の【ジョブ(暁の四戦士)】をコントロールしている場合、追加で《C》を得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-082R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-082R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-082R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-082R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4601,
+        "code": "29-083C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "XI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Koru-Moru",
+        "type_en": "Backup",
+        "job_en": "Mage",
+        "text_en": "《ダル》, put Koru-Moru into the Break Zone: Choose 1 Forward of cost 2 or less. Break it.[[br]]《雷》《雷》《2》《ダル》, put Koru-Moru into the Break Zone: Choose 1 Forward of cost 4 or less. Break it.",
+        "name_ja": "コルモル",
+        "type_ja": "バックアップ",
+        "job_ja": "魔道士",
+        "text_ja": "《ダル》、コルモルをブレイクゾーンに置く：コスト2以下のフォワード1体を選ぶ。それをブレイクする。[[br]]《雷》《雷》《2》《ダル》、コルモルをブレイクゾーンに置く：コスト4以下のフォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-083C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-083C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-083C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-083C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4602,
+        "code": "29-084R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "0",
+        "category_1": "DFF &middot; VII",
+        "category_2": "VII",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Jessie",
+        "type_en": "Backup",
+        "job_en": "AVALANCHE Operative",
+        "text_en": "When Jessie enters the field, you may search for 1 [[i]]Category VII[[/]] Forward and add it to your hand.",
+        "name_ja": "ジェシー",
+        "type_ja": "バックアップ",
+        "job_ja": "アバランチ",
+        "text_ja": "ジェシーがフィールドに出たとき、【カテゴリ(VII)】のフォワード1枚をサーチし、手札に加えてもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-084R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-084R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4603,
+        "code": "29-085R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Cidolfus",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "[[i]]Priming \"Ramuh (XVI)\" --[[/]] 《雷》《雷》[[br]]When Cidolfus or a Character you control is priming, choose 1 Lightning Summon in your Break Zone. Add it to your hand.",
+        "name_ja": "シドルファス",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "[[i]]顕現「ラムウ ［XVI］」 --[[/]] 《雷》《雷》[[br]]シドルファスかあなたのコントロールするキャラクター1体が顕現するたび、あなたのブレイクゾーンにある雷属性の召喚獣1枚を選ぶ。それを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-085R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-085R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4604,
+        "code": "29-086H",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "8",
+        "power": "9000",
+        "category_1": "VI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Shadow",
+        "type_en": "Forward",
+        "job_en": "Assassin",
+        "text_en": "[[i]]Warp 3 -- [[/]]《雷》[[br]]At the beginning of Main Phase 1 during each of your turns, you may remove 2 Warp Counters from Shadow. If you do so, you cannot cast any cards during this turn and you skip Attack Phase in this turn. This effect will trigger only if Shadow is removed from the game and if a Warp Counter is placed on Shadow.[[br]]When Shadow enters the field, you may search for 1 Lightning Character of cost 2 or less and play it onto the field.",
+        "name_ja": "シャドウ",
+        "type_ja": "フォワード",
+        "job_ja": "アサシン",
+        "text_ja": "[[i]]デジョン 3 -- 《雷》[[/]][[br]]あなたの第1メインフェイズ開始時、シャドウからデジョンカウンターを2つ取り除いてもよい。そうした場合、このターン、あなたはカードをキャストすることができず、このターンのアタックフェイズを飛ばす。このアビリティはシャドウがゲームから除外されていて、シャドウにデジョンカウンターが置かれている場合にしか発動しない。[[br]]シャドウがフィールドに出たとき、コスト2以下の雷属性のキャラクターカード1枚をサーチし、フィールドに出してもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-086H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-086H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4605,
+        "code": "29-087L",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "VII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Sephiroth",
+        "type_en": "Forward",
+        "job_en": "War Hero",
+        "text_en": "If any [[i]]Card Name Sephiroth[[/]] you own are removed from the game, the cost required to cast Sephiroth is reduced by 3.[[br]]Haste First Strike[[br]]When Sephiroth enters the field, choose 1 Character you control. Remove it from the game. Draw 2 cards.[[br]][[s]]Telluric Fury[[/]] 《S》: Choose 1 Forward. Break it.",
+        "name_ja": "セフィロス",
+        "type_ja": "フォワード",
+        "job_ja": "英雄",
+        "text_ja": "ゲームから除外されているあなたの【カード名(セフィロス)】が1枚以上ある場合、セフィロスをキャストするためのコストは3減る。[[br]]ヘイスト 先制攻撃[[br]]セフィロスがフィールドに出たとき、あなたのコントロールするキャラクター1体を選ぶ。それをゲームから除外する。カードを2枚引く。[[br]][[s]]動地[[/]] 《S》：フォワード1体を選ぶ。それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-087L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-087L_eg_2.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-087L_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-087L_eg_2.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4606,
+        "code": "29-088C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "FFTS",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Soldier (FFTS)",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "When Soldier (FFTS) is put from the field into the Break Zone, choose 1 Forward opponent controls. Deal it damage equal to Soldier (FFTS)'s power.[[br]][[i]]Damage 3 -- [[/]]Soldier (FFTS) gains +1000 power.",
+        "name_ja": "ソルジャー ［FFTS］",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "ソルジャー ［FFTS］がフィールドからブレイクゾーンに置かれたとき、対戦相手のコントロールするフォワード1体を選ぶ。それにソルジャー ［FFTS］のパワーに等しいダメージを与える。[[br]][[i]]Damage 3 --[[/]] ソルジャー ［FFTS］のパワーは+1000される。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-088C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-088C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4607,
+        "code": "29-089C/15-095C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ninja",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Ninja enters the field, gain 《C》.[[br]]《ダル》, put Ninja into the Break Zone: Choose 1 Forward. Deal it 1000 damage. You can only use this ability during your turn.",
+        "name_ja": "忍者",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "忍者がフィールドに出たとき、《C》を得る。[[br]]《ダル》、忍者をブレイクゾーンに置く：フォワード1体を選ぶ。それに1000ダメージを与える。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-089C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-089C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4608,
+        "code": "29-090R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "9000",
+        "category_1": "DFF &middot; XV",
+        "category_2": "XV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Noctis",
+        "type_en": "Forward",
+        "job_en": "Prince",
+        "text_en": "You must control a [[i]]Category XV[[/]] Forward to cast Noctis.[[br]]When Noctis attacks, choose 1 [[i]]Job Retainer[[/]] in your Break Zone. Add it to your hand.",
+        "name_ja": "ノクティス",
+        "type_ja": "フォワード",
+        "job_ja": "王子",
+        "text_ja": "ノクティスはあなたが【カテゴリ(XV)】のフォワードをコントロールしている場合にしかキャストすることができない。[[br]]ノクティスがアタックしたとき、あなたのブレイクゾーンにある【ジョブ(側近)】1枚を選ぶ。それを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-090R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-090R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4609,
+        "code": "29-091H",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Barnabas (XVI)",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "Before paying the cost to cast Barnabas (XVI), you can remove 3 [[i]]Category XVI [[/]]Characters in your Break Zone from the game to reduce the cost required to cast Barnabas (XVI) by 3.[[br]][[i]]Priming \"Odin (XVI)\" --[[/]] 《雷》《雷》",
+        "name_ja": "バルナバス",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "バルナバスをキャストするに際し、あなたのブレイクゾーンにある【カテゴリ(XVI)】のキャラクターカード3枚をゲームから除外することでキャストするためのコストは3減る。[[br]][[i]]顕現「オーディン ［XVI］」 --[[/]] 《雷》《雷》",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-091H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-091H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4610,
+        "code": "29-092C",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "THEATRHYTHM &middot; XV",
+        "category_2": "XV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Prompto",
+        "type_en": "Forward",
+        "job_en": "Retainer",
+        "text_en": "When Prompto enters the field, if you control a[[i]] Category XV[[/]] Forward other than Prompto, draw 1 card.[[br]][[s]]Starshell[[/]] 《S》《ダル》: Choose 1 card in your Break Zone. Add it to your hand.",
+        "name_ja": "プロンプト",
+        "type_ja": "フォワード",
+        "job_ja": "側近",
+        "text_ja": "プロンプトがフィールドに出たとき、あなたがプロンプト以外の【カテゴリ(XV)】のフォワードをコントロールしている場合、カードを1枚引く。[[br]][[s]]スターシェル[[/]] 《S》《ダル》：あなたのブレイクゾーンにあるカード1枚を選ぶ。それを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-092C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-092C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4611,
+        "code": "29-093L",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "L",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "MOBIUS",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Meia",
+        "type_en": "Forward",
+        "job_en": "Primeval Witch",
+        "text_en": "[[ex]]EX BURST[[/]] When Meia enters the field, you may search for 1 [[i]]Category MOBIUS[[/]] Character and add it to your hand. If it is a [[i]]Card Name Wol[[/]], also gain 《C》.[[br]]When a [[i]]Category MOBIUS[[/]] Forward other than Meia enters your field, it gains Haste until the end of the turn. This effect will trigger only once per turn.",
+        "name_ja": "メイア",
+        "type_ja": "フォワード",
+        "job_ja": "ウィッチ・オリジン",
+        "text_ja": "[[ex]]EX BURST[[/]] メイアがフィールドに出たとき、【カテゴリ(MOBIUS)】のキャラクターカード1枚をサーチし、手札に加えてもよい。それが【カード名(ウォル)】の場合、追加で《C》を得る。[[br]]あなたのフィールドにメイア以外の【カテゴリ(MOBIUS)】のフォワードが出たとき、ターン終了時までそれにヘイストを与える。このアビリティは1ターンに1度しか発動しない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-093L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-093L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4612,
+        "code": "29-094H",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "2",
+        "power": "0",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ramuh",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Choose 1 Forward opponent controls. Deal it 5000 damage. If you discarded a [[i]]Card Name Ramuh[[/]] to cast Ramuh, deal it 7000 damage and draw 1 card instead.",
+        "name_ja": "ラムウ",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "対戦相手のコントロールするフォワード1体を選ぶ。それに5000ダメージを与える。ラムウをキャストするためのコストの支払いで【カード名(ラムウ)】を捨てている場合、代わりにそれに7000ダメージを与え、カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-094H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-094H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-094H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-094H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4613,
+        "code": "29-095H",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "H",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ramuh (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "When Ramuh (XVI) enters the field or when Cidolfus primes into Ramuh (XVI), you may discard 1 Summon or [[i]]Job Eikon[[/]]. When you do so, reveal the top 2 cards of your deck. Add all the Lightning cards and[[i]] Category XVI [[/]]cards[[i]] [[/]]among them to your hand and put the rest of the cards into the Break Zone.[[br]][[s]]Thunderstorm [[/]]《S》: Choose up to 2 Forwards opponent controls. Deal them 5000 damage.",
+        "name_ja": "ラムウ ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "ラムウ ［XVI］がフィールドに出るか、シドルファスがラムウ ［XVI］に顕現したとき、召喚獣か【ジョブ(召喚獣)】1枚を捨ててもよい。そうしたとき、デッキのカードを上から2枚公開する。その中から雷属性か【カテゴリ(XVI)】のカードをすべて手札に加え、残りをブレイクゾーンに置く。[[br]][[s]]サンダーストーム[[/]] 《S》：対戦相手のコントロールするフォワードを最大2体まで選ぶ。それらに5000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-095H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-095H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4614,
+        "code": "29-096R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "5000",
+        "category_1": "MOBIUS",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Wol",
+        "type_en": "Forward",
+        "job_en": "Viking/Warrior of Light",
+        "text_en": "When Wol enters the field, draw 1 card, then discard 1 card.[[br]]《C》: Draw 1 card. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "ウォル",
+        "type_ja": "フォワード",
+        "job_ja": "バイキング/光の戦士",
+        "text_ja": "ウォルがフィールドに出たとき、カードを1枚引き、その後手札を1枚捨てる。[[br]]《C》：カードを1枚引く。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-096R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-096R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4615,
+        "code": "29-097R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "XII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Elza",
+        "type_en": "Forward",
+        "job_en": "Sky Pirate",
+        "text_en": "[[ex]]EX BURST[[/]] When Elza enters the field, you may search for 1 [[i]]Card Name Raz[[/]] or [[i]]Card Name Rikken[[/]] and add it to your hand.",
+        "name_ja": "エルザ",
+        "type_ja": "フォワード",
+        "job_ja": "空賊",
+        "text_ja": "[[ex]]EX BURST[[/]] エルザがフィールドに出たとき、【カード名(ラズ)】か【カード名(リッキー)】1枚をサーチし、手札に加えてもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-097R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-097R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-097R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-097R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4616,
+        "code": "29-098R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Quina",
+        "type_en": "Forward",
+        "job_en": "Blue Mage",
+        "text_en": "Remove the top 3 cards of your deck from the game: Choose 1 Forward opponent controls. It loses 2000 power until the end of the turn. If a [[i]]Category IX[[/]] card is removed by this ability's cost, it loses 5000 power until the end of the turn and draw 1 card instead. You can only use this ability during your turn and only once per turn.",
+        "name_ja": "クイナ",
+        "type_ja": "フォワード",
+        "job_ja": "青魔道士",
+        "text_ja": "デッキのカードを上から3枚ゲームから除外する：対戦相手のコントロールするフォワード1体を選ぶ。ターン終了時までそれのパワーを－2000する。このアビリティのコストによって【カテゴリ(IX)】のカードがゲームから除外された場合、代わりにターン終了時までそれのパワーを－5000し、カードを1枚引く。このアビリティはあなたのターンにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-098R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-098R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-098R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-098R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4617,
+        "code": "29-099H",
+        "image": "[]",
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Jed",
+        "type_en": "Forward",
+        "job_en": "Ninja",
+        "text_en": "<p>When Jed enters the field, choose 1 Forward opponent controls. If you control a [[i]]Category SOPFFO[[/]] Character other than Jed, return it to its owner's hand. Draw 1 card.[[br]]When a [[i]]Job Ninja[[/]] or a [[i]]Card Name[[/]] [[i]]Ninja[[/]] you control attacks, choose 1 Forward opponent controls. Until the end of the turn, it loses all its abilities and 2000 power.</p>\r\n",
+        "name_ja": "ジェド",
+        "type_ja": "フォワード",
+        "job_ja": "忍者",
+        "text_ja": "ジェドがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。あなたがジェド以外の【カテゴリ(SOPFFO)】のキャラクターをコントロールしている場合、それを手札に戻す。カードを1枚引く。[[br]]あなたのコントロールする【ジョブ/カード名(忍者)】1体がアタックするたび、対戦相手のコントロールするフォワード1体を選ぶ。ターン終了時までそれはすべてのアビリティを失い、それのパワーを－2000する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-099H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-099H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-099H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-099H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4618,
+        "code": "29-100R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Sealion",
+        "type_en": "Monster",
+        "job_en": "Giant",
+        "text_en": "If you control 5 or more Backups, Sealion also becomes a Forward with 9000 power.[[br]]When Sealion enters the field, you may search for 1 Forward of cost 3 or less and add it to your hand.",
+        "name_ja": "シリオン",
+        "type_ja": "モンスター",
+        "job_ja": "巨人",
+        "text_ja": "あなたがバックアップを5体以上コントロールしている場合、シリオンはパワー9000のフォワードとしても扱う。[[br]]シリオンがフィールドに出たとき、コスト3以下のフォワード1枚をサーチし、手札に加えてもよい。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-100R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-100R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4619,
+        "code": "29-101H",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "4",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Syldra",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "You can only cast Syldra during your turn.[[br]]Reveal the top 5 cards of your deck. Play 1 Forward of cost 4 or less other than Multi-Element or 1 [[i]]Card Name Faris[[/]] of cost 6 or less among them onto the field and return the other cards to the bottom of your deck in any order.",
+        "name_ja": "シルドラ",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "シルドラはあなたのターンにしかキャストすることができない。[[br]]デッキのカードを上から5枚公開する。その中からコスト6以下の【カード名(ファリス)】かコスト4以下の多属性以外のフォワード1枚をフィールドに出し、残りをデッキの1番下に好きな順番で置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-101H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-101H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-101H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-101H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4620,
+        "code": "29-102C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "DFF &middot; IV",
+        "category_2": "IV",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Cecil",
+        "type_en": "Forward",
+        "job_en": "Paladin",
+        "text_en": "When Cecil enters the field, select 1 of the 2 following actions.[[br]]\"Draw 1 card.\"[[br]]\"Play 1 Character of cost 2 or less from your hand onto the field.\"",
+        "name_ja": "セシル",
+        "type_ja": "フォワード",
+        "job_ja": "パラディン",
+        "text_ja": "セシルがフィールドに出たとき、以下から1つを選択する。[[br]]・カードを1枚引く。[[br]]・あなたの手札からコスト2以下のキャラクターカード1枚をフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-102C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-102C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4621,
+        "code": "29-103H",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "6",
+        "power": "6000",
+        "category_1": "VI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Setzer",
+        "type_en": "Forward",
+        "job_en": "Gambler",
+        "text_en": "When Setzer enters the field, reveal the top 7 cards of your deck. Remove 1 card with Warp among them from the game and place 1 Warp Counter on it. Then shuffle the other cards and return them to the bottom of your deck.[[br]][[s]]Dive Bomb[[/]] 《S》《ダル》: Choose any number of Forwards. Deal them a total amount of damage equal to 1000 multiplied by each card in your Break Zone, split as you wish among the chosen Forwards (damage must be in increments of 1000). Remove all the cards in your Break Zone from the game.",
+        "name_ja": "セッツァー",
+        "type_ja": "フォワード",
+        "job_ja": "ギャンブラー",
+        "text_ja": "セッツァーがフィールドに出たとき、デッキのカードを上から7枚公開する。その中からデジョンを持つカード1枚をゲームから除外し、それにデジョンカウンターを1つ置く。その後、残りをシャッフルしデッキの1番下に置く。[[br]][[s]]ダイビング・ボム[[/]] 《S》《ダル》：好きな数のフォワードを選ぶ。それらにあなたのブレイクゾーンにあるカード1枚につき、1000ダメージを好きなように割りふる(ダメージは1000単位とする)。あなたのブレイクゾーンにあるすべてのカードをゲームから除外する。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-103H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-103H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4622,
+        "code": "29-104L",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "L",
+        "cost": "6",
+        "power": "9000",
+        "category_1": "MOBIUS &middot; VII",
+        "category_2": "VII",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Diamond Weapon",
+        "type_en": "Forward",
+        "job_en": "Weapon",
+        "text_en": "When Diamond Weapon or a [[i]]Job Weapon[[/]] enters your field, your opponent selects 1 Forward they control. Put it into the Break Zone.[[br]]When Diamond Weapon leaves the field, you may search for 1 [[i]]Job Weapon[[/]] other than Water and play it onto the field.[[br]]《4》: Play 1 [[i]]Job Weapon[[/]] from your hand onto the field. You can only use this ability during your Main Phase.",
+        "name_ja": "ダイヤウェポン",
+        "type_ja": "フォワード",
+        "job_ja": "ウェポン",
+        "text_ja": "あなたのフィールドにダイヤウェポンか【ジョブ(ウェポン)】1体が出るたび、対戦相手は自分のコントロールするフォワード1体を選択する。それをブレイクゾーンに置く。[[br]]ダイヤウェポンがフィールドから離れたとき、水属性以外の【ジョブ(ウェポン)】1枚をサーチし、フィールドに出してもよい。[[br]]《4》：あなたの手札から【ジョブ(ウェポン)】1枚をフィールドに出す。このアビリティはあなたのメインフェイズにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-104L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-104L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4623,
+        "code": "29-105L",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Tidus",
+        "type_en": "Forward",
+        "job_en": "Guardian",
+        "text_en": "Brave[[br]]When Tidus enters the field or attacks, choose 1 Forward opponent controls. It loses 4000 power until the end of the turn.[[br]][[i]]Damage 1 --[[/]] Tidus can attack as many times in the same turn as the points of damage you have received.",
+        "name_ja": "ティーダ",
+        "type_ja": "フォワード",
+        "job_ja": "ガード",
+        "text_ja": "ブレイブ[[br]]ティーダがフィールドに出るかアタックしたとき、対戦相手のコントロールするフォワード1体を選ぶ。ターン終了時までそれのパワーを－4000する。[[br]][[i]]Damage 1 --[[/]] ティーダは1ターンにあなたの受けているダメージと同じ回数アタックできる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-105L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-105L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-105L_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-105L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4624,
+        "code": "29-106H",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "H",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Dion",
+        "type_en": "Forward",
+        "job_en": "Dominant",
+        "text_en": "[[i]]Priming \"Bahamut (XVI)\" --[[/]] 《水》《3》[[br]]If you control 7 or more Characters, Dion can prime to pay 《水》《1》 instead of paying the Priming cost.[[br]]When Dion enters the field, draw 1 card, then place 1 card from your hand at the bottom of your deck.",
+        "name_ja": "ディオン",
+        "type_ja": "フォワード",
+        "job_ja": "ドミナント",
+        "text_ja": "[[i]]顕現「バハムート ［XVI］」 --[[/]] 《水》《3》[[br]]あなたがキャラクターを7体以上コントロールしている場合、ディオンは顕現コストを支払う代わりに《水》《1》を支払うことで顕現することができる。[[br]]ディオンがフィールドに出たとき、カードを1枚引き、その後手札を1枚デッキの1番下に置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-106H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-106H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4625,
+        "code": "29-107C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "3",
+        "power": "7000",
+        "category_1": "FFTA2",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Seer (FFTA2)",
+        "type_en": "Forward",
+        "job_en": "Standard Unit",
+        "text_en": "《ダル》, discard 1 card: Choose 1 Forward opponent controls. Deal it damage equal to Seer (FFTA2)'s power. If you discarded a Summon to pay this ability's cost, deal it double the damage of the power of Seer (FFTA2) instead.",
+        "name_ja": "導士 ［FFTA2］",
+        "type_ja": "フォワード",
+        "job_ja": "一般兵",
+        "text_ja": "《ダル》、手札を1枚捨てる：対戦相手のコントロールするフォワード1体を選ぶ。それに導士 ［FFTA2］のパワーに等しいダメージを与える。このアビリティのコストの支払いで召喚獣を捨てている場合、代わりにそれに導士 ［FFTA2］のパワーの2倍のダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-107C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-107C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4626,
+        "code": "29-108C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "1",
+        "power": "0",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Tonberry",
+        "type_en": "Monster",
+        "job_en": "Tonberry",
+        "text_en": "《水》《ダル》, put Tonberry into the Break Zone: Choose 1 Forward. It loses 2000 power until the end of the turn. Draw 1 card.",
+        "name_ja": "トンベリ",
+        "type_ja": "モンスター",
+        "job_ja": "トンべリ",
+        "text_ja": "《水》《ダル》、トンベリをブレイクゾーンに置く：フォワード1体を選ぶ。ターン終了時までそれのパワーを－2000する。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-108C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-108C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4627,
+        "code": "29-109R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "2",
+        "power": "0",
+        "category_1": "IV",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Porom",
+        "type_en": "Backup",
+        "job_en": "Apprentice Mage",
+        "text_en": "《ダル》, put Porom into the Break Zone: Look at the top card of your deck. You may place the card at the bottom of your deck. Then, draw 1 card.[[br]]《ダル》, put Porom and 1 [[i]]Card Name Palom[[/]] into the Break Zone: Choose 1 Forward opponent controls. Deal it 20000 damage. Draw 1 card.",
+        "name_ja": "ポロム",
+        "type_ja": "バックアップ",
+        "job_ja": "魔道士見習い",
+        "text_ja": "《ダル》、ポロムをブレイクゾーンに置く：あなたのデッキの1番上のカードを見る。それをデッキの1番下に置いてもよい。その後、カードを1枚引く。[[br]]《ダル》、ポロムと【カード名(パロム)】1体をブレイクゾーンに置く：対戦相手のコントロールするフォワード1体を選ぶ。それに20000ダメージを与える。カードを1枚引く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-109R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-109R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-109R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-109R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4628,
+        "code": "29-110C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "6",
+        "power": "0",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "1",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Yuna",
+        "type_en": "Backup",
+        "job_en": "Summoner",
+        "text_en": "[[ex]]EX BURST[[/]] When Yuna enters the field, choose 1 Forward opponent controls. Put it at the bottom of its owner's deck.",
+        "name_ja": "ユウナ",
+        "type_ja": "バックアップ",
+        "job_ja": "召喚士",
+        "text_ja": "[[ex]]EX BURST[[/]] ユウナがフィールドに出たとき、対戦相手のコントロールするフォワード1体を選ぶ。それをデッキの1番下に置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-110C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-110C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-110C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-110C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4629,
+        "code": "29-111C/15-123C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "1",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Oracle",
+        "type_en": "Backup",
+        "job_en": "Standard Unit",
+        "text_en": "When Oracle enters the field, gain 《C》.[[br]]《ダル》, put Oracle into the Break Zone: Choose 1 Forward. During this turn, the next damage dealt to it is reduced by 1000 instead. You can only use this ability during your turn.",
+        "name_ja": "予言士",
+        "type_ja": "バックアップ",
+        "job_ja": "一般兵",
+        "text_ja": "予言士がフィールドに出たとき、《C》を得る。[[br]]《ダル》、予言士をブレイクゾーンに置く：フォワード1体を選ぶ。このターン、次にそれにダメージが与えられる場合、代わりにそのダメージを1000減らす。このアビリティはあなたのターンにしか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-111C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-111C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4630,
+        "code": "29-112C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "XII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Raz",
+        "type_en": "Forward",
+        "job_en": "Sky Pirate",
+        "text_en": "When Raz enters the field, you may discard 1 [[i]]Job Sky Pirate[[/]]. When you do so, your opponent selects 1 Forward they control. Put it into the Break Zone.",
+        "name_ja": "ラズ",
+        "type_ja": "フォワード",
+        "job_ja": "空賊",
+        "text_ja": "ラズがフィールドに出たとき、【ジョブ(空賊)】1枚を捨ててもよい。そうしたとき、対戦相手は自分のコントロールするフォワード1体を選択する。それをブレイクゾーンに置く。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-112C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-112C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-112C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-112C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4631,
+        "code": "29-113C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "0",
+        "category_1": "XII",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Rikken",
+        "type_en": "Backup",
+        "job_en": "Sky Pirate",
+        "text_en": "When Rikken enters the field, if you control a [[i]]Job Sky Pirate[[/]] other than Rikken, draw 2 cards, then place 2 cards from your hand at the bottom of your deck in any order.[[br]]《0》: Choose 1 [[i]]Job Sky Pirate[[/]] Forward. It gains +1000 power until the end of the turn. You can only use this ability during your Main Phase and only once per turn.",
+        "name_ja": "リッキー",
+        "type_ja": "バックアップ",
+        "job_ja": "空賊",
+        "text_ja": "リッキーがフィールドに出たとき、あなたがリッキー以外の【ジョブ(空賊)】をコントロールしている場合、カードを2枚引き、その後手札を2枚デッキの1番下に好きな順番で置く。[[br]]《0》：【ジョブ(空賊)】のフォワード1体を選ぶ。ターン終了時までそれのパワーを+1000する。このアビリティはあなたのメインフェイズにしか使えず、1ターンに1度しか使えない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-113C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-113C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-113C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-113C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4632,
+        "code": "29-114C",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "C",
+        "cost": "2",
+        "power": "5000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Lenna",
+        "type_en": "Forward",
+        "job_en": "Princess/Warrior of Light",
+        "text_en": "At the end of each of your turns, choose 1 [[i]]Job Warrior of Light[[/]] Forward you control. Activate it.",
+        "name_ja": "レナ",
+        "type_ja": "フォワード",
+        "job_ja": "王女/光の戦士",
+        "text_ja": "あなたのターン終了時、あなたのコントロールする【ジョブ(光の戦士)】のフォワード1体を選ぶ。それをアクティブにする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-114C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-114C_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-114C_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-114C_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4633,
+        "code": "29-115L",
+        "image": "[]",
+        "element": [
+            "光"
+        ],
+        "rarity": "L",
+        "cost": "4",
+        "power": "9000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Bahamut (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "<p>Brave[[br]]When Dion primes into Bahamut (XVI), draw 2 cards, then discard 2 cards.[[br]]During each turn, when an auto-ability triggered from your opponent's Forward is put on the stack for the first time in that turn, cancel its effect</p>\r\n",
+        "name_ja": "バハムート ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "ブレイブ[[br]]ディオンがバハムート ［XVI］に顕現したとき、カードを2枚引き、その後手札を2枚捨てる。[[br]]各ターン、初めて対戦相手のフォワードのオートアビリティが発動したとき、それの効果を無効にする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-115L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-115L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4634,
+        "code": "29-116H",
+        "image": null,
+        "element": [
+            "光"
+        ],
+        "rarity": "H",
+        "cost": "3",
+        "power": "0",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Madeen",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Madeen cannot be cancelled.[[br]]Choose 1 Forward opponent controls. You may search for 1 Light Forward and remove it from the game. If you do so, remove the chosen Forward from the game. If not, break the chosen Forward.",
+        "name_ja": "マディーン",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "マディーンは無効にされない。[[br]]対戦相手のコントロールするフォワード1体を選ぶ。光属性のフォワード1枚をサーチし、ゲームから除外してもよい。そうした場合、それをゲームから除外する。そうしなかった場合、それをブレイクする。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-116H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-116H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-116H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-116H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4635,
+        "code": "29-117H",
+        "image": null,
+        "element": [
+            "闇"
+        ],
+        "rarity": "H",
+        "cost": "5",
+        "power": "0",
+        "category_1": "IX",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Ark",
+        "type_en": "Summon",
+        "job_en": "",
+        "text_en": "Choose up to 2 Forwards opponent controls. You may search for 1 Dark Forward and remove it from the game. If you do so, break the chosen Forwards. If not, deal 8000 damage to the chosen Forwards.",
+        "name_ja": "アーク",
+        "type_ja": "召喚獣",
+        "job_ja": "",
+        "text_ja": "対戦相手のコントロールするフォワードを最大2体まで選ぶ。闇属性のフォワード1枚をサーチし、ゲームから除外してもよい。そうした場合、それらをブレイクする。そうしなかった場合、それらに8000ダメージを与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-117H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-117H_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-117H_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-117H_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4636,
+        "code": "29-118L",
+        "image": null,
+        "element": [
+            "闇"
+        ],
+        "rarity": "L",
+        "cost": "5",
+        "power": "9000",
+        "category_1": "XVI",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Odin (XVI)",
+        "type_en": "Forward",
+        "job_en": "Eikon",
+        "text_en": "First Strike[[br]]When Odin (XVI) enters the field or when Barnabas (XVI) primes into Odin (XVI), choose 1 Forward opponent controls. Break it.[[br]]When Barnabas (XVI) primes into Odin (XVI), Odin (XVI) gains \"When a Character enters your opponent's field, dull it and Freeze it.\" (This effect does not end at the end of the turn.)",
+        "name_ja": "オーディン ［XVI］",
+        "type_ja": "フォワード",
+        "job_ja": "召喚獣",
+        "text_ja": "先制攻撃[[br]]オーディン ［XVI］がフィールドに出るかバルナバスがオーディン ［XVI］に顕現したとき、対戦相手のコントロールするフォワード1体を選ぶ。それをブレイクする。[[br]]バルナバスがオーディン ［XVI］に顕現したとき、オーディン ［XVI］は「対戦相手のフィールドにキャラクター1体が出るたび、それをダルにし、凍結させる。」を得る(この効果はターン終了時に終わらない)。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-118L_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-118L_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4637,
+        "code": "29-119R",
+        "image": null,
+        "element": [
+            "火"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "5000",
+        "category_1": "DFF &middot; WOFF",
+        "category_2": "WOFF",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Reynn",
+        "type_en": "Forward",
+        "job_en": "Mirage Keeper",
+        "text_en": "[[i]]Limit Break -- 2[[/]][[br]]When Reynn enters the field, reveal the top 5 cards of your deck. Add 1 [[i]]Category WOFF[[/]] Character among them to your hand and return the other cards to the bottom of your deck in any order.[[br]]《ダル》, put Reynn into the Break Zone: Play 1 [[i]]Category WOFF[[/]] Character of cost 3 or less from your hand onto the field.",
+        "name_ja": "レェン",
+        "type_ja": "フォワード",
+        "job_ja": "ミラージュ使い",
+        "text_ja": "[[i]]Limit Break -- 2[[/]][[br]]レェンがフィールドに出たとき、デッキのカードを上から5枚公開する。その中から【カテゴリ(WOFF)】のキャラクターカード1枚を手札に加え、残りをデッキの1番下に好きな順番で置く。[[br]]《ダル》、レェンをブレイクゾーンに置く：あなたの手札からコスト3以下の【カテゴリ(WOFF)】のキャラクターカード1枚をフィールドに出す。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-119R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-119R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4638,
+        "code": "29-120R",
+        "image": null,
+        "element": [
+            "氷"
+        ],
+        "rarity": "R",
+        "cost": "7",
+        "power": "7000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Seymour",
+        "type_en": "Forward",
+        "job_en": "Summoner",
+        "text_en": "[[i]]Limit Break -- 2[[/]][[br]]When Seymour enters the field, select 1 [[i]]Job Summoner[[/]] you control. Put it into the Break Zone. When you do so, choose 1 dull Forward opponent controls. Break it. Your opponent discards 1 card.",
+        "name_ja": "シーモア",
+        "type_ja": "フォワード",
+        "job_ja": "召喚士",
+        "text_ja": "[[i]]Limit Break -- 2[[/]][[br]]シーモアがフィールドに出たとき、あなたは自分のコントロールする【ジョブ(召喚士)】1体を選択する。それをブレイクゾーンに置く。そうしたとき、対戦相手のコントロールするダル状態のフォワード1体を選ぶ。それをブレイクする。対戦相手は手札を1枚捨てる。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-120R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-120R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-120R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-120R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4639,
+        "code": "29-121R",
+        "image": null,
+        "element": [
+            "風"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "V",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Wind Drake",
+        "type_en": "Forward",
+        "job_en": "Dragon",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]When Wind Drake enters the field, choose 1 Character in your Break Zone. Remove it from the game.[[br]]When Wind Drake leaves the field, add the card removed by Wind Drake's ability to your hand.",
+        "name_ja": "飛竜",
+        "type_ja": "フォワード",
+        "job_ja": "竜",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]飛竜がフィールドに出たとき、あなたのブレイクゾーンにあるキャラクターカード1枚を選ぶ。それをゲームから除外する。[[br]]飛竜がフィールドから離れたとき、飛竜の効果によってゲームから除外されているカードを手札に加える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-121R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-121R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-121R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-121R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4640,
+        "code": "29-122R",
+        "image": null,
+        "element": [
+            "土"
+        ],
+        "rarity": "R",
+        "cost": "3",
+        "power": "5000",
+        "category_1": "X",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Mika",
+        "type_en": "Forward",
+        "job_en": "Yevon Maester",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]When Mika enters the field, choose 1 Forward. It gains \"If possible, this Forward must block.\" until the end of the turn.",
+        "name_ja": "マイカ",
+        "type_ja": "フォワード",
+        "job_ja": "エボン教の老師",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]マイカがフィールドに出たとき、フォワード1体を選ぶ。ターン終了時までそれに「自身は可能ならばブロックしなければならない。」を与える。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-122R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-122R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-122R_FL_eg.jpg",
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-122R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4641,
+        "code": "29-123R",
+        "image": null,
+        "element": [
+            "雷"
+        ],
+        "rarity": "R",
+        "cost": "5",
+        "power": "8000",
+        "category_1": "SOPFFO",
+        "category_2": null,
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Jack Garland",
+        "type_en": "Forward",
+        "job_en": "Stranger",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]Jack Garland is also [[i]]Card Name Garland[[/]] in all situations.[[br]]If your opponent controls a Monster, Jack Garland gains Haste.[[br]]Jack Garland cannot be blocked by a Monster that is also a Forward.",
+        "name_ja": "ジャック・ガーランド",
+        "type_ja": "フォワード",
+        "job_ja": "ストレンジャー",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]ジャック・ガーランドはすべての領域で【カード名(ガーランド)】でもある。[[br]]対戦相手がモンスターをコントロールしている場合、ジャック・ガーランドはヘイストを得る。[[br]]ジャック・ガーランドはフォワードであるモンスターにブロックされない。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-123R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-123R_eg.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4642,
+        "code": "29-124R",
+        "image": null,
+        "element": [
+            "水"
+        ],
+        "rarity": "R",
+        "cost": "4",
+        "power": "8000",
+        "category_1": "THEATRHYTHM &middot; X",
+        "category_2": "X",
+        "multicard": "0",
+        "ex_burst": "0",
+        "set": [
+            "Blissful Eternity"
+        ],
+        "name_en": "Auron",
+        "type_en": "Forward",
+        "job_en": "Guardian",
+        "text_en": "[[i]]Limit Break -- 1[[/]][[br]]If you control a [[i]]Category X[[/]] Forward other than Auron, Auron gains +2000 power and Brave.",
+        "name_ja": "アーロン",
+        "type_ja": "フォワード",
+        "job_ja": "ガード",
+        "text_ja": "[[i]]Limit Break -- 1[[/]][[br]]あなたがアーロン以外の【カテゴリ(X)】のフォワードをコントロールしている場合、アーロンのパワーは+2000され、ブレイブを得る。",
+        "images_en": {
+            "thumbs": [
+                "https://fftcg.cdn.sewest.net/images/cards/thumbs/29-124R_eg.jpg"
+            ],
+            "full": [
+                "https://fftcg.cdn.sewest.net/images/cards/full/29-124R_eg.jpg"
+            ]
+        }
+    },
+    {
         "id": 513,
         "code": "3-001C",
         "image": "{\"1\": {\"alt\": \"3-001C\", \"title\": \"3-001C\", \"filename\": \"images/cards/full/3-001C_eg.jpg\"}}",
@@ -118017,7 +122315,7 @@
         ],
         "name_en": "Aymeric",
         "type_en": "Forward",
-        "job_en": "Lord Commander of the Temple Knights",
+        "job_en": "Temple Knight",
         "text_en": "If Aymeric is dealt damage less than his power, the damage becomes 0 instead.[[br]]When Aymeric attacks, all the Forwards other than Aymeric you control gain +2000 power until the end of the turn.",
         "name_ja": "アイメリク",
         "type_ja": "フォワード",
