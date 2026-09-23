@@ -106380,5 +106380,30 @@
                 "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-229.png"
             ]
         }
+    },
+    {
+        "code": "PR-230/1-214S",
+        "element_jp": "水",
+        "name_jp": "ユウナ",
+        "expansion_number": "",
+        "image_source": "FINAL FANTASY X",
+        "original_title": "FINAL FANTASY X",
+        "category": "ff10",
+        "promo_info": "",
+        "starter_info": "◯",
+        "filter_link": "",
+        "copyright": [
+            "&copy; SQUARE ENIX",
+            "CHARACTER DESIGN: TETSUYA NOMURA",
+            "FINAL FANTASY X"
+        ],
+        "images_jp": {
+            "thumbs": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/thumb/pr/PR-230.png"
+            ],
+            "full": [
+                "http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/pr/PR-230.png"
+            ]
+        }
     }
 ]
